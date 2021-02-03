@@ -3,6 +3,7 @@ from logVector import logVector as lv
 from datetime import date
 from yahoo import yahoo
 from db import db
+from baseQuery import baseQuery as bq
 
 class yahooUpd( yahoo ):
 

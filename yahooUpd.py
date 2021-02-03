@@ -48,7 +48,7 @@ class yahooUpd( yahoo ):
 
                 cu.execute(q)
 
-                #resCheck
+                
 
                 if upd:
 

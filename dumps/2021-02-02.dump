@@ -1,0 +1,563 @@
+58930471-7c73-40d6-a7b0-4e3a9246057d -> 2021-02-02 13:30:26.926221:message:redisClient:__setUp__:GET:check = false
+58930471-7c73-40d6-a7b0-4e3a9246057d -> 0.035347:message:redisClient:__setUp__:SUCCESS:check = false
+58930471-7c73-40d6-a7b0-4e3a9246057d -> 2021-02-02 13:30:27.123727:message:nseUpd:updQuote:GET:upd = true, symbolList = [["TCS", "NSE", false]]
+58930471-7c73-40d6-a7b0-4e3a9246057d -> 2021-02-02 13:30:27.190158:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+58930471-7c73-40d6-a7b0-4e3a9246057d -> 2021-02-02 13:30:27.209367:message:nseReq:__default__:GET:
+58930471-7c73-40d6-a7b0-4e3a9246057d -> 2021-02-02 13:30:27.249613:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+58930471-7c73-40d6-a7b0-4e3a9246057d -> 2.335966:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+58930471-7c73-40d6-a7b0-4e3a9246057d -> 2.401362:message:nseReq:__default__:SUCCESS:
+58930471-7c73-40d6-a7b0-4e3a9246057d -> 2021-02-02 13:30:29.654748:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+58930471-7c73-40d6-a7b0-4e3a9246057d -> 0.804438:message:dwnXasync:pull:SUCCESS:lot = 1
+58930471-7c73-40d6-a7b0-4e3a9246057d -> 2021-02-02 13:30:27.190158:message:nseReq:cPull:SUCCESS:lot = 1
+53affb1d-22b8-4478-8c13-0700037244b8 -> 2021-02-02 13:34:09.523087:message:redisClient:__setUp__:GET:check = false
+53affb1d-22b8-4478-8c13-0700037244b8 -> 0.094396:message:redisClient:__setUp__:SUCCESS:check = false
+53affb1d-22b8-4478-8c13-0700037244b8 -> 2021-02-02 13:34:09.784731:message:nseUpd:updQuote:GET:upd = true, symbolList = [["TCS", "NSE", false]]
+53affb1d-22b8-4478-8c13-0700037244b8 -> 2021-02-02 13:34:09.853039:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+53affb1d-22b8-4478-8c13-0700037244b8 -> 2021-02-02 13:34:09.877238:message:nseReq:__default__:GET:
+53affb1d-22b8-4478-8c13-0700037244b8 -> 2021-02-02 13:34:09.918427:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+53affb1d-22b8-4478-8c13-0700037244b8 -> 4.516704:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+53affb1d-22b8-4478-8c13-0700037244b8 -> 4.680638:message:nseReq:__default__:SUCCESS:
+53affb1d-22b8-4478-8c13-0700037244b8 -> 2021-02-02 13:34:14.596984:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+53affb1d-22b8-4478-8c13-0700037244b8 -> 0.948716:message:dwnXasync:pull:SUCCESS:lot = 1
+53affb1d-22b8-4478-8c13-0700037244b8 -> 2021-02-02 13:34:09.853039:message:nseReq:cPull:SUCCESS:lot = 1
+42bc9b1c-f219-44ea-9b83-91515128b1e9 -> 2021-02-02 13:34:30.274552:message:redisClient:__setUp__:GET:check = false
+42bc9b1c-f219-44ea-9b83-91515128b1e9 -> 0.044856:message:redisClient:__setUp__:SUCCESS:check = false
+42bc9b1c-f219-44ea-9b83-91515128b1e9 -> 2021-02-02 13:34:30.486188:message:nseUpd:updQuote:GET:upd = true, symbolList = [["TCS", "NSE", false]]
+42bc9b1c-f219-44ea-9b83-91515128b1e9 -> 2021-02-02 13:34:30.556560:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+42bc9b1c-f219-44ea-9b83-91515128b1e9 -> 2021-02-02 13:34:30.579899:message:nseReq:__default__:GET:
+42bc9b1c-f219-44ea-9b83-91515128b1e9 -> 2021-02-02 13:34:30.622562:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+42bc9b1c-f219-44ea-9b83-91515128b1e9 -> 2.132473:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+42bc9b1c-f219-44ea-9b83-91515128b1e9 -> 2.200323:message:nseReq:__default__:SUCCESS:
+42bc9b1c-f219-44ea-9b83-91515128b1e9 -> 2021-02-02 13:34:32.850584:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+42bc9b1c-f219-44ea-9b83-91515128b1e9 -> 0.6208:message:dwnXasync:pull:SUCCESS:lot = 1
+42bc9b1c-f219-44ea-9b83-91515128b1e9 -> 2021-02-02 13:34:30.556560:message:nseReq:cPull:SUCCESS:lot = 1
+b6ca8c37-dd92-44b0-a88c-072d72e77a36 -> 2021-02-02 13:34:49.737686:message:redisClient:__setUp__:GET:check = false
+b6ca8c37-dd92-44b0-a88c-072d72e77a36 -> 0.037733:message:redisClient:__setUp__:SUCCESS:check = false
+b6ca8c37-dd92-44b0-a88c-072d72e77a36 -> 2021-02-02 13:34:49.938986:message:nseUpd:updQuote:GET:upd = true, symbolList = [["TCS", "NSE", false]]
+b6ca8c37-dd92-44b0-a88c-072d72e77a36 -> 2021-02-02 13:34:50.007645:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+b6ca8c37-dd92-44b0-a88c-072d72e77a36 -> 2021-02-02 13:34:50.029866:message:nseReq:__default__:GET:
+b6ca8c37-dd92-44b0-a88c-072d72e77a36 -> 2021-02-02 13:34:50.069921:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+b6ca8c37-dd92-44b0-a88c-072d72e77a36 -> 1.195179:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+b6ca8c37-dd92-44b0-a88c-072d72e77a36 -> 1.292718:message:nseReq:__default__:SUCCESS:
+b6ca8c37-dd92-44b0-a88c-072d72e77a36 -> 2021-02-02 13:34:51.378995:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+b6ca8c37-dd92-44b0-a88c-072d72e77a36 -> 0.674243:message:dwnXasync:pull:SUCCESS:lot = 1
+b6ca8c37-dd92-44b0-a88c-072d72e77a36 -> 2021-02-02 13:34:50.007645:message:nseReq:cPull:SUCCESS:lot = 1
+b6ca8c37-dd92-44b0-a88c-072d72e77a36 -> 2021-02-02 13:34:52.074054:message:redicClient:rSet:GET:toSet = 1
+02b946cd-3741-454f-a28e-08d08ef1b756 -> 2021-02-02 13:36:10.422856:message:redisClient:__setUp__:GET:check = false
+02b946cd-3741-454f-a28e-08d08ef1b756 -> 0.036743:message:redisClient:__setUp__:SUCCESS:check = false
+02b946cd-3741-454f-a28e-08d08ef1b756 -> 2021-02-02 13:36:10.625485:message:nseUpd:updQuote:GET:upd = true, symbolList = [["TCS", "NSE", false]]
+02b946cd-3741-454f-a28e-08d08ef1b756 -> 2021-02-02 13:36:10.690964:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+02b946cd-3741-454f-a28e-08d08ef1b756 -> 2021-02-02 13:36:10.712110:message:nseReq:__default__:GET:
+02b946cd-3741-454f-a28e-08d08ef1b756 -> 2021-02-02 13:36:10.753114:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+02b946cd-3741-454f-a28e-08d08ef1b756 -> 1.065808:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+02b946cd-3741-454f-a28e-08d08ef1b756 -> 1.129737:message:nseReq:__default__:SUCCESS:
+02b946cd-3741-454f-a28e-08d08ef1b756 -> 2021-02-02 13:36:11.901577:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+02b946cd-3741-454f-a28e-08d08ef1b756 -> 0.548321:message:dwnXasync:pull:SUCCESS:lot = 1
+02b946cd-3741-454f-a28e-08d08ef1b756 -> 2021-02-02 13:36:10.690964:message:nseReq:cPull:SUCCESS:lot = 1
+02b946cd-3741-454f-a28e-08d08ef1b756 -> 2021-02-02 13:36:12.473149:message:redicClient:rSet:GET:toSet = 1
+81a518db-bbb8-4593-b495-ea77f7b5de71 -> 2021-02-02 13:37:20.268690:message:redisClient:__setUp__:GET:check = false
+81a518db-bbb8-4593-b495-ea77f7b5de71 -> 0.09604:message:redisClient:__setUp__:SUCCESS:check = false
+81a518db-bbb8-4593-b495-ea77f7b5de71 -> 2021-02-02 13:37:20.531406:message:nseUpd:updQuote:GET:upd = true, symbolList = [["TCS", "NSE", false]]
+81a518db-bbb8-4593-b495-ea77f7b5de71 -> 2021-02-02 13:37:20.600833:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+81a518db-bbb8-4593-b495-ea77f7b5de71 -> 2021-02-02 13:37:20.624522:message:nseReq:__default__:GET:
+81a518db-bbb8-4593-b495-ea77f7b5de71 -> 2021-02-02 13:37:20.668498:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+81a518db-bbb8-4593-b495-ea77f7b5de71 -> 1.190554:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+81a518db-bbb8-4593-b495-ea77f7b5de71 -> 1.302653:message:nseReq:__default__:SUCCESS:
+81a518db-bbb8-4593-b495-ea77f7b5de71 -> 2021-02-02 13:37:21.993818:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+81a518db-bbb8-4593-b495-ea77f7b5de71 -> 0.444636:message:dwnXasync:pull:SUCCESS:lot = 1
+81a518db-bbb8-4593-b495-ea77f7b5de71 -> 2021-02-02 13:37:20.600833:message:nseReq:cPull:SUCCESS:lot = 1
+81a518db-bbb8-4593-b495-ea77f7b5de71 -> 2021-02-02 13:37:22.607104:message:redicClient:rSet:GET:toSet = 1
+177c7d48-d082-42d5-b7d4-a54e9e48d1c6 -> 2021-02-02 13:38:01.987224:message:redisClient:__setUp__:GET:check = false
+177c7d48-d082-42d5-b7d4-a54e9e48d1c6 -> 0.025484:message:redisClient:__setUp__:SUCCESS:check = false
+177c7d48-d082-42d5-b7d4-a54e9e48d1c6 -> 2021-02-02 13:38:02.173809:message:nseUpd:updQuote:GET:upd = true, symbolList = [["TCS", "NSE", false]]
+177c7d48-d082-42d5-b7d4-a54e9e48d1c6 -> 2021-02-02 13:38:02.230447:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+177c7d48-d082-42d5-b7d4-a54e9e48d1c6 -> 2021-02-02 13:38:02.238844:message:nseReq:__default__:GET:
+177c7d48-d082-42d5-b7d4-a54e9e48d1c6 -> 2021-02-02 13:38:02.275492:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+177c7d48-d082-42d5-b7d4-a54e9e48d1c6 -> 1.275714:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+177c7d48-d082-42d5-b7d4-a54e9e48d1c6 -> 1.36959:message:nseReq:__default__:SUCCESS:
+177c7d48-d082-42d5-b7d4-a54e9e48d1c6 -> 2021-02-02 13:38:03.666419:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+177c7d48-d082-42d5-b7d4-a54e9e48d1c6 -> 0.446602:message:dwnXasync:pull:SUCCESS:lot = 1
+177c7d48-d082-42d5-b7d4-a54e9e48d1c6 -> 2021-02-02 13:38:02.230447:message:nseReq:cPull:SUCCESS:lot = 1
+177c7d48-d082-42d5-b7d4-a54e9e48d1c6 -> 2021-02-02 13:38:04.179720:message:redicClient:rSet:GET:toSet = 1
+8860916b-4903-46b7-ac27-80e303634650 -> 2021-02-02 13:39:05.143748:message:redisClient:__setUp__:GET:check = false
+8860916b-4903-46b7-ac27-80e303634650 -> 0.075412:message:redisClient:__setUp__:SUCCESS:check = false
+8860916b-4903-46b7-ac27-80e303634650 -> 2021-02-02 13:39:05.378567:message:nseUpd:updQuote:GET:upd = true, symbolList = [["TCS", "NSE", false]]
+8860916b-4903-46b7-ac27-80e303634650 -> 2021-02-02 13:39:05.437245:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+8860916b-4903-46b7-ac27-80e303634650 -> 2021-02-02 13:39:05.447248:message:nseReq:__default__:GET:
+8860916b-4903-46b7-ac27-80e303634650 -> 2021-02-02 13:39:05.483828:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+8860916b-4903-46b7-ac27-80e303634650 -> 1.264622:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+8860916b-4903-46b7-ac27-80e303634650 -> 1.365586:message:nseReq:__default__:SUCCESS:
+8860916b-4903-46b7-ac27-80e303634650 -> 2021-02-02 13:39:06.875014:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+8860916b-4903-46b7-ac27-80e303634650 -> 0.443773:message:dwnXasync:pull:SUCCESS:lot = 1
+8860916b-4903-46b7-ac27-80e303634650 -> 2021-02-02 13:39:05.437245:message:nseReq:cPull:SUCCESS:lot = 1
+8860916b-4903-46b7-ac27-80e303634650 -> 2021-02-02 13:39:07.381586:message:redicClient:rSet:GET:toSet = 1
+9fd4f591-ae48-4167-a498-c318f380fb20 -> 2021-02-02 13:45:50.460858:message:redisClient:__setUp__:GET:check = false
+9fd4f591-ae48-4167-a498-c318f380fb20 -> 0.049639:message:redisClient:__setUp__:SUCCESS:check = false
+9fd4f591-ae48-4167-a498-c318f380fb20 -> 2021-02-02 13:45:50.675063:message:nseUpd:updQuote:GET:upd = true, symbolList = [["TCS", "NSE", false]]
+9fd4f591-ae48-4167-a498-c318f380fb20 -> 2021-02-02 13:45:50.746336:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+9fd4f591-ae48-4167-a498-c318f380fb20 -> 2021-02-02 13:45:50.770904:message:nseReq:__default__:GET:
+9fd4f591-ae48-4167-a498-c318f380fb20 -> 2021-02-02 13:45:50.812150:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+9fd4f591-ae48-4167-a498-c318f380fb20 -> 2.396658:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+9fd4f591-ae48-4167-a498-c318f380fb20 -> 2.559647:message:nseReq:__default__:SUCCESS:
+9fd4f591-ae48-4167-a498-c318f380fb20 -> 2021-02-02 13:45:53.368297:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+9fd4f591-ae48-4167-a498-c318f380fb20 -> 0.609645:message:dwnXasync:pull:SUCCESS:lot = 1
+9fd4f591-ae48-4167-a498-c318f380fb20 -> 2021-02-02 13:45:50.746336:message:nseReq:cPull:SUCCESS:lot = 1
+9fd4f591-ae48-4167-a498-c318f380fb20 -> 2021-02-02 13:45:54.027689:message:redicClient:rSet:GET:toSet = 1
+9fd4f591-ae48-4167-a498-c318f380fb20 -> 2021-02-02 13:45:54.027689:message:redicClient:rSet:SUCCESS:toSet = true
+9fd4f591-ae48-4167-a498-c318f380fb20 -> 3.486691:message:nseUpd:updQuote:GET:upd = true
+69b75f22-7e9b-43c4-9098-08931651da07 -> 2021-02-02 13:46:15.174020:message:redisClient:__setUp__:GET:check = false
+69b75f22-7e9b-43c4-9098-08931651da07 -> 0.038467:message:redisClient:__setUp__:SUCCESS:check = false
+69b75f22-7e9b-43c4-9098-08931651da07 -> 2021-02-02 13:46:15.223930:message:redisClient:rGet:GET:key = "TCS"
+69b75f22-7e9b-43c4-9098-08931651da07 -> 2021-02-02 13:46:15.223930:message:redisClient:rGet:SUCCESS:lot = 4
+a5e2fe97-4b55-490e-8983-07642caf1270 -> 2021-02-02 14:21:48.871215:message:dbAsync:tranSact:GET:queryList = [{"query": "show databases", "parse": false}]
+a5e2fe97-4b55-490e-8983-07642caf1270 -> 0.066871:message:dbAsync:tranSact:SUCCESS:lot = 1
+a5e2fe97-4b55-490e-8983-07642caf1270 -> 2021-02-02 14:21:48.954173:message:dbAsync:tranSact:GET:queryList = [{"query": "show tables from priceGeneral", "parse": false}]
+a5e2fe97-4b55-490e-8983-07642caf1270 -> 0.015473:message:dbAsync:tranSact:SUCCESS:lot = 2
+bc69a48f-eaec-4b3b-8c2c-4fc519a56ad0 -> 2021-02-02 14:22:00.225378:message:dbAsync:tranSact:GET:queryList = [{"query": "show databases", "parse": false}]
+7e045786-5f08-4b47-8c6f-a0e7bd43e176 -> 2021-02-02 14:23:47.230116:message:dbAsync:tranSact:GET:queryList = [{"query": "show databases", "parse": false}]
+2ab06895-833e-499b-a3f4-b39c87fdcaf6 -> 2021-02-02 14:24:11.570994:message:dbAsync:tranSact:GET:queryList = [{"query": "show databases", "parse": false}]
+efd8b8c6-3d50-4440-a6f6-0f53ae4d1596 -> 2021-02-02 14:24:40.630945:message:dbAsync:tranSact:GET:queryList = [{"query": "show databases", "parse": false}]
+efd8b8c6-3d50-4440-a6f6-0f53ae4d1596 -> 2021-02-02 14:24:40.696300:error:dbAsyn:__fetch__:ERROR:reason = "Can't connect to database"
+6db5b099-a4f6-4685-89a0-f007ee72f4ac -> 2021-02-02 14:49:09.149422:message:yahoo:getData:GET:symbol = "KTKBANK", start = "2021-01-01", stop = "2021-01-17", interval = "1m", exg = null
+6db5b099-a4f6-4685-89a0-f007ee72f4ac -> 2021-02-02 14:49:09.160419:message:mDwn:mRegular:GET:urlList = [{"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609472700&period2=1609495200&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609731900&period2=1610100000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610877600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}]
+6db5b099-a4f6-4685-89a0-f007ee72f4ac -> 2021-02-02 14:49:09.182048:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609472700&period2=1609495200&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+6db5b099-a4f6-4685-89a0-f007ee72f4ac -> 2021-02-02 14:49:09.209518:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609731900&period2=1610100000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+6db5b099-a4f6-4685-89a0-f007ee72f4ac -> 2021-02-02 14:49:09.234919:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+6db5b099-a4f6-4685-89a0-f007ee72f4ac -> 2021-02-02 14:49:09.261080:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610877600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+6db5b099-a4f6-4685-89a0-f007ee72f4ac -> 0.895795:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609731900&period2=1610100000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+6db5b099-a4f6-4685-89a0-f007ee72f4ac -> 1.493341:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610877600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+6db5b099-a4f6-4685-89a0-f007ee72f4ac -> 1.718969:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+6db5b099-a4f6-4685-89a0-f007ee72f4ac -> 2021-02-02 14:49:11.046779:error:mDwn:__fetch__:ERROR:connection = "status code not matched"
+787c4e1e-e6ec-48b2-85c1-614ea57efdac -> 2021-02-02 14:50:33.146275:message:yahoo:getData:GET:symbol = "KTKBANK", start = "2021-01-01", stop = "2021-01-17", interval = "1m", exg = null
+787c4e1e-e6ec-48b2-85c1-614ea57efdac -> 2021-02-02 14:50:33.147111:message:mDwn:mRegular:GET:urlList = [{"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609472700&period2=1609495200&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609731900&period2=1610100000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610877600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}]
+787c4e1e-e6ec-48b2-85c1-614ea57efdac -> 2021-02-02 14:50:33.148433:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609472700&period2=1609495200&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+787c4e1e-e6ec-48b2-85c1-614ea57efdac -> 2021-02-02 14:50:33.151815:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609731900&period2=1610100000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+787c4e1e-e6ec-48b2-85c1-614ea57efdac -> 2021-02-02 14:50:33.152869:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+787c4e1e-e6ec-48b2-85c1-614ea57efdac -> 2021-02-02 14:50:33.154005:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610877600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+787c4e1e-e6ec-48b2-85c1-614ea57efdac -> 2021-02-02 14:50:35.028612:error:mDwn:__fetch__:ERROR:connection = "status code not matched"
+787c4e1e-e6ec-48b2-85c1-614ea57efdac -> 2.247606:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609731900&period2=1610100000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+787c4e1e-e6ec-48b2-85c1-614ea57efdac -> 2.509814:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+787c4e1e-e6ec-48b2-85c1-614ea57efdac -> 2.841741:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610877600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+787c4e1e-e6ec-48b2-85c1-614ea57efdac -> 2.852298:message:mDwn:mRegular:SUCCESS:lot = 3
+787c4e1e-e6ec-48b2-85c1-614ea57efdac -> 3.103337:message:yahoo:getData:SUCCESS:lot = 5625
+8843f111-5d87-40be-a5b3-3ccdb63dfc9a -> 2021-02-02 14:50:57.587253:message:yahoo:getData:GET:symbol = "KTKBANK", start = "2021-01-01", stop = "2021-01-17", interval = "1m", exg = null
+8843f111-5d87-40be-a5b3-3ccdb63dfc9a -> 2021-02-02 14:50:57.588078:message:mDwn:mRegular:GET:urlList = [{"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609472700&period2=1609495200&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609731900&period2=1610100000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610877600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}]
+8843f111-5d87-40be-a5b3-3ccdb63dfc9a -> 2021-02-02 14:50:57.589442:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609472700&period2=1609495200&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+8843f111-5d87-40be-a5b3-3ccdb63dfc9a -> 2021-02-02 14:50:57.592526:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609731900&period2=1610100000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+8843f111-5d87-40be-a5b3-3ccdb63dfc9a -> 2021-02-02 14:50:57.593634:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+8843f111-5d87-40be-a5b3-3ccdb63dfc9a -> 2021-02-02 14:50:57.594730:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610877600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+8843f111-5d87-40be-a5b3-3ccdb63dfc9a -> 1.100059:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+8843f111-5d87-40be-a5b3-3ccdb63dfc9a -> 2021-02-02 14:50:58.696263:error:mDwn:__fetch__:ERROR:connection = "status code not matched"
+8843f111-5d87-40be-a5b3-3ccdb63dfc9a -> 1.23799:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609731900&period2=1610100000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+8843f111-5d87-40be-a5b3-3ccdb63dfc9a -> 3.948863:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610877600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+8843f111-5d87-40be-a5b3-3ccdb63dfc9a -> 3.959142:message:mDwn:mRegular:SUCCESS:lot = 3
+8843f111-5d87-40be-a5b3-3ccdb63dfc9a -> 4.237643:message:yahoo:getData:SUCCESS:lot = 5625
+46f473f2-1c2a-492c-8a41-de4b2aeb424f -> 2021-02-02 14:53:13.562256:message:yahoo:getData:GET:symbol = "KTKBANK", start = "2021-01-01", stop = "2021-01-17", interval = "1m", exg = null
+46f473f2-1c2a-492c-8a41-de4b2aeb424f -> 2021-02-02 14:53:13.576809:message:mDwn:mRegular:GET:urlList = [{"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609472700&period2=1609495200&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609731900&period2=1610100000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610877600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}]
+46f473f2-1c2a-492c-8a41-de4b2aeb424f -> 2021-02-02 14:53:13.599278:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609472700&period2=1609495200&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+46f473f2-1c2a-492c-8a41-de4b2aeb424f -> 2021-02-02 14:53:13.617082:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609731900&period2=1610100000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+46f473f2-1c2a-492c-8a41-de4b2aeb424f -> 2021-02-02 14:53:13.645002:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+46f473f2-1c2a-492c-8a41-de4b2aeb424f -> 2021-02-02 14:53:13.670569:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610877600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+46f473f2-1c2a-492c-8a41-de4b2aeb424f -> 2021-02-02 14:53:14.285578:error:mDwn:__fetch__:ERROR:connection = "status code not matched"
+dc57e6ff-bef5-4181-9b98-076f64b1ca7d -> 2021-02-02 14:55:40.616551:message:yahoo:getData:GET:symbol = "KTKBANK", start = "2021-01-01", stop = "2021-01-17", interval = "1m", exg = null
+dc57e6ff-bef5-4181-9b98-076f64b1ca7d -> 2021-02-02 14:55:40.640712:message:mDwn:mRegular:GET:urlList = [{"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609472700&period2=1609495200&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609731900&period2=1610100000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610877600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}]
+dc57e6ff-bef5-4181-9b98-076f64b1ca7d -> 2021-02-02 14:55:40.686818:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609472700&period2=1609495200&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+dc57e6ff-bef5-4181-9b98-076f64b1ca7d -> 2021-02-02 14:55:40.720324:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609731900&period2=1610100000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+dc57e6ff-bef5-4181-9b98-076f64b1ca7d -> 2021-02-02 14:55:40.746800:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+dc57e6ff-bef5-4181-9b98-076f64b1ca7d -> 2021-02-02 14:55:40.774257:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610877600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+dc57e6ff-bef5-4181-9b98-076f64b1ca7d -> 1.244989:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609731900&period2=1610100000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+dc57e6ff-bef5-4181-9b98-076f64b1ca7d -> 1.336344:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+dc57e6ff-bef5-4181-9b98-076f64b1ca7d -> 1.600713:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610877600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+51c45bf1-41f6-409a-a5d4-587319a32527 -> 2021-02-02 14:56:29.055423:message:yahoo:getData:GET:symbol = "KTKBANK", start = "2021-01-01", stop = "2021-01-17", interval = "1m", exg = null
+51c45bf1-41f6-409a-a5d4-587319a32527 -> 2021-02-02 14:56:29.080147:message:mDwn:mRegular:GET:urlList = [{"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609472700&period2=1609495200&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609731900&period2=1610100000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610877600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}]
+51c45bf1-41f6-409a-a5d4-587319a32527 -> 2021-02-02 14:56:29.119700:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609472700&period2=1609495200&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+51c45bf1-41f6-409a-a5d4-587319a32527 -> 2021-02-02 14:56:29.149103:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609731900&period2=1610100000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+51c45bf1-41f6-409a-a5d4-587319a32527 -> 2021-02-02 14:56:29.172323:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+51c45bf1-41f6-409a-a5d4-587319a32527 -> 2021-02-02 14:56:29.195821:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610877600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+51c45bf1-41f6-409a-a5d4-587319a32527 -> 0.867177:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1609731900&period2=1610100000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+51c45bf1-41f6-409a-a5d4-587319a32527 -> 0.917037:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610877600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+51c45bf1-41f6-409a-a5d4-587319a32527 -> 1.697626:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/KTKBANK.NS?symbol=KTKBANK.NS&period1=1610336700&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+51c45bf1-41f6-409a-a5d4-587319a32527 -> 2021-02-02 14:56:37.064978:error:mDwn:__fetch__:ERROR:connection = "status code not matched"
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:07.756967:message:dbSyn:execute:GET:mode = false, parse = false
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:07.756967:message:dbSyn:execute:SUCCESS:mode = false, parse = false, lot = 0
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:07.775817:message:dbSyn:execute:GET:mode = false, parse = true
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:07.775817:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:07.814217:message:dbSyn:execute:GET:mode = true, parse = false
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:07.814217:message:dbSyn:execute:SUCCESS:mode = true, parse = false, lot = 1
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:07.846120:message:dbSyn:execute:GET:mode = false, parse = true
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:07.846120:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:07.873047:message:dbSyn:execute:GET:mode = true, parse = false
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:07.873047:message:dbSyn:execute:SUCCESS:mode = true, parse = false, lot = 2
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:07.904510:message:dbSyn:execute:GET:mode = false, parse = false
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:07.904510:message:dbSyn:execute:SUCCESS:mode = false, parse = false, lot = 0
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:07.936983:message:dbSyn:execute:GET:mode = false, parse = true
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:07.936983:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:07.964384:message:dbSyn:execute:GET:mode = true, parse = false
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:07.964384:message:dbSyn:execute:SUCCESS:mode = true, parse = false, lot = 4
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:07.994596:message:dbSyn:execute:GET:mode = false, parse = true
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:07.994596:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:08.021262:message:dbSyn:execute:GET:mode = true, parse = false
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:08.021262:message:dbSyn:execute:SUCCESS:mode = true, parse = false, lot = 2
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:08.053171:message:dbSyn:execute:GET:mode = false, parse = true
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:08.053171:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:08.080763:message:dbSyn:execute:GET:mode = true, parse = false
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:08.080763:message:dbSyn:execute:SUCCESS:mode = true, parse = false, lot = 8
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:08.110621:message:dbSyn:execute:GET:mode = false, parse = false
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:08.110621:message:dbSyn:execute:SUCCESS:mode = false, parse = false, lot = 0
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:08.141421:message:dbSyn:execute:GET:mode = false, parse = true
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:08.141421:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:08.167602:message:dbSyn:execute:GET:mode = true, parse = false
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:08.167602:message:dbSyn:execute:SUCCESS:mode = true, parse = false, lot = 5
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:08.197432:message:dbSyn:execute:GET:mode = false, parse = false
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:08.197432:message:dbSyn:execute:SUCCESS:mode = false, parse = false, lot = 0
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:08.225399:message:dbSyn:execute:GET:mode = false, parse = false
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:08.225399:message:dbSyn:execute:SUCCESS:mode = false, parse = false, lot = 0
+806ac7c7-ef86-488d-ae4a-4136957ee1ed -> 2021-02-02 15:24:08.253512:message:dbSyn:execute:GET:mode = false, parse = true
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.153554:message:dbSyn:execute:GET:mode = false, parse = false
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.153554:message:dbSyn:execute:SUCCESS:mode = false, parse = false, lot = 0
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.243884:message:dbSyn:execute:GET:mode = false, parse = true
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.243884:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.273839:message:dbSyn:execute:GET:mode = true, parse = false
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.273839:message:dbSyn:execute:SUCCESS:mode = true, parse = false, lot = 1
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.305815:message:dbSyn:execute:GET:mode = false, parse = true
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.305815:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.334842:message:dbSyn:execute:GET:mode = true, parse = false
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.334842:message:dbSyn:execute:SUCCESS:mode = true, parse = false, lot = 2
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.365332:message:dbSyn:execute:GET:mode = false, parse = false
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.365332:message:dbSyn:execute:SUCCESS:mode = false, parse = false, lot = 0
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.396215:message:dbSyn:execute:GET:mode = false, parse = true
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.396215:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.426939:message:dbSyn:execute:GET:mode = true, parse = false
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.426939:message:dbSyn:execute:SUCCESS:mode = true, parse = false, lot = 4
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.458488:message:dbSyn:execute:GET:mode = false, parse = true
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.458488:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.488041:message:dbSyn:execute:GET:mode = true, parse = false
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.488041:message:dbSyn:execute:SUCCESS:mode = true, parse = false, lot = 2
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.522883:message:dbSyn:execute:GET:mode = false, parse = true
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.522883:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.550449:message:dbSyn:execute:GET:mode = true, parse = false
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.550449:message:dbSyn:execute:SUCCESS:mode = true, parse = false, lot = 8
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.590918:message:dbSyn:execute:GET:mode = false, parse = false
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.590918:message:dbSyn:execute:SUCCESS:mode = false, parse = false, lot = 0
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.632820:message:dbSyn:execute:GET:mode = false, parse = true
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.632820:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.665012:message:dbSyn:execute:GET:mode = true, parse = false
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.665012:message:dbSyn:execute:SUCCESS:mode = true, parse = false, lot = 5
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.694663:message:dbSyn:execute:GET:mode = false, parse = false
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.694663:message:dbSyn:execute:SUCCESS:mode = false, parse = false, lot = 0
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.724803:message:dbSyn:execute:GET:mode = false, parse = false
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.724803:message:dbSyn:execute:SUCCESS:mode = false, parse = false, lot = 0
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.753256:message:dbSyn:execute:GET:mode = false, parse = true
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.753256:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.820503:message:dbSyn:execute:GET:mode = true, parse = false
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.820503:message:dbSyn:execute:SUCCESS:mode = true, parse = false, lot = 6
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.851957:message:dbSyn:execute:GET:mode = false, parse = false
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.851957:message:dbSyn:execute:SUCCESS:mode = false, parse = false, lot = 0
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.880828:message:dbSyn:execute:GET:mode = false, parse = true
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.880828:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.910298:message:dbSyn:execute:GET:mode = true, parse = false
+8d83e437-b67c-4945-9bbe-8a8daf005717 -> 2021-02-02 15:25:05.910298:message:dbSyn:execute:SUCCESS:mode = true, parse = false, lot = 15
+51ac6ec6-08cd-4ae7-9a88-86d3eeaf51e7 -> 2021-02-02 15:36:14.033791:message:dbSyn:execute:GET:mode = false, parse = true
+51ac6ec6-08cd-4ae7-9a88-86d3eeaf51e7 -> 2021-02-02 15:36:14.033791:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+6e6fe199-08e0-44bb-802b-1c61f9eec551 -> 2021-02-02 15:36:34.096683:message:dbSyn:execute:GET:mode = false, parse = true
+6e6fe199-08e0-44bb-802b-1c61f9eec551 -> 2021-02-02 15:36:34.096683:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+290c24af-6c09-4998-ae5a-ae4cafaff3a0 -> 2021-02-02 15:36:48.773967:message:dbSyn:execute:GET:mode = false, parse = true
+290c24af-6c09-4998-ae5a-ae4cafaff3a0 -> 2021-02-02 15:36:48.773967:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+290c24af-6c09-4998-ae5a-ae4cafaff3a0 -> 2021-02-02 15:36:48.850850:message:yahoo:getData:GET:symbol = "TCS", start = "2021-01-15", stop = "2021-02-02", interval = "1m", exg = "NSE"
+290c24af-6c09-4998-ae5a-ae4cafaff3a0 -> 2021-02-02 15:36:48.877450:message:mDwn:mRegular:GET:urlList = [{"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610682300&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610941500&period2=1611309600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1611546300&period2=1611914400&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1612151100&period2=1612260000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}]
+290c24af-6c09-4998-ae5a-ae4cafaff3a0 -> 2021-02-02 15:36:48.918845:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610682300&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+290c24af-6c09-4998-ae5a-ae4cafaff3a0 -> 2021-02-02 15:36:48.952836:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610941500&period2=1611309600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+290c24af-6c09-4998-ae5a-ae4cafaff3a0 -> 2021-02-02 15:36:48.982246:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1611546300&period2=1611914400&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+290c24af-6c09-4998-ae5a-ae4cafaff3a0 -> 2021-02-02 15:36:49.007598:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1612151100&period2=1612260000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+290c24af-6c09-4998-ae5a-ae4cafaff3a0 -> 1.057077:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1612151100&period2=1612260000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+290c24af-6c09-4998-ae5a-ae4cafaff3a0 -> 1.30411:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610941500&period2=1611309600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+290c24af-6c09-4998-ae5a-ae4cafaff3a0 -> 2.445331:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610682300&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+290c24af-6c09-4998-ae5a-ae4cafaff3a0 -> 2.785627:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1611546300&period2=1611914400&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+290c24af-6c09-4998-ae5a-ae4cafaff3a0 -> 2.937997:message:mDwn:mRegular:SUCCESS:lot = 4
+290c24af-6c09-4998-ae5a-ae4cafaff3a0 -> 3.207117:message:yahoo:getData:SUCCESS:lot = 4500
+290c24af-6c09-4998-ae5a-ae4cafaff3a0 -> 2021-02-02 15:36:52.108054:message:dbSyn:execute:GET:mode = false, parse = true
+9eba2754-b9a4-4690-a523-7f27fd5c43fd -> 2021-02-02 15:38:23.654285:message:dbSyn:execute:GET:mode = false, parse = true
+9eba2754-b9a4-4690-a523-7f27fd5c43fd -> 2021-02-02 15:38:23.654285:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+9eba2754-b9a4-4690-a523-7f27fd5c43fd -> 2021-02-02 15:38:23.744639:message:yahoo:getData:GET:symbol = "TCS", start = "2021-01-15", stop = "2021-02-02", interval = "1m", exg = "NSE"
+9eba2754-b9a4-4690-a523-7f27fd5c43fd -> 2021-02-02 15:38:23.761545:message:mDwn:mRegular:GET:urlList = [{"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610682300&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610941500&period2=1611309600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1611546300&period2=1611914400&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1612151100&period2=1612260000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}]
+9eba2754-b9a4-4690-a523-7f27fd5c43fd -> 2021-02-02 15:38:23.798210:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610682300&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+9eba2754-b9a4-4690-a523-7f27fd5c43fd -> 2021-02-02 15:38:23.831858:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610941500&period2=1611309600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+9eba2754-b9a4-4690-a523-7f27fd5c43fd -> 2021-02-02 15:38:23.855133:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1611546300&period2=1611914400&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+9eba2754-b9a4-4690-a523-7f27fd5c43fd -> 2021-02-02 15:38:23.878370:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1612151100&period2=1612260000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+9eba2754-b9a4-4690-a523-7f27fd5c43fd -> 0.818764:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1612151100&period2=1612260000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+9eba2754-b9a4-4690-a523-7f27fd5c43fd -> 1.342065:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610941500&period2=1611309600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+9eba2754-b9a4-4690-a523-7f27fd5c43fd -> 1.452112:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610682300&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+9eba2754-b9a4-4690-a523-7f27fd5c43fd -> 2.711758:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1611546300&period2=1611914400&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+9eba2754-b9a4-4690-a523-7f27fd5c43fd -> 2.873206:message:mDwn:mRegular:SUCCESS:lot = 4
+9eba2754-b9a4-4690-a523-7f27fd5c43fd -> 3.015712:message:yahoo:getData:SUCCESS:lot = 4500
+9eba2754-b9a4-4690-a523-7f27fd5c43fd -> 2021-02-02 15:38:26.818641:message:dbSyn:execute:GET:mode = false, parse = true
+9eba2754-b9a4-4690-a523-7f27fd5c43fd -> 2021-02-02 15:38:26.818641:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+e800cf2b-c477-46c0-8593-6ca853b5f773 -> 2021-02-02 20:19:46.318136:message:dbSyn:execute:GET:mode = false, parse = true
+7152ed4c-01bf-4872-af92-4299ed7999b5 -> 2021-02-02 20:20:40.201556:message:dbSyn:execute:GET:mode = false, parse = true
+7152ed4c-01bf-4872-af92-4299ed7999b5 -> 2021-02-02 20:20:40.201556:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 4500
+52620140-18bc-42a3-886a-8e59436e28cc -> 2021-02-02 20:34:23.201855:message:dbSyn:execute:GET:mode = false, parse = true
+c057d3eb-cb1f-4032-b61e-5cb1ad3e0970 -> 2021-02-02 20:34:36.494253:message:dbSyn:execute:GET:mode = false, parse = true
+c057d3eb-cb1f-4032-b61e-5cb1ad3e0970 -> 2021-02-02 20:34:36.494253:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 12
+50ccdde8-ad05-404f-8afa-d235b436ec14 -> 2021-02-02 20:34:46.136121:message:dbSyn:execute:GET:mode = true, parse = true
+50ccdde8-ad05-404f-8afa-d235b436ec14 -> 2021-02-02 20:34:46.136121:message:dbSyn:execute:SUCCESS:mode = true, parse = true, lot = 12
+5e9f5851-dd68-449a-9ec8-1cf83012036a -> 2021-02-02 20:36:33.232540:message:dbSyn:execute:GET:mode = false, parse = true
+5e9f5851-dd68-449a-9ec8-1cf83012036a -> 2021-02-02 20:36:33.232540:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+220e7ab4-e144-4adf-b005-7953e4a21d9c -> 2021-02-02 20:38:12.252026:message:dbSyn:execute:GET:mode = false, parse = true
+220e7ab4-e144-4adf-b005-7953e4a21d9c -> 2021-02-02 20:38:12.252026:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 12
+23625a99-cf11-4225-a91b-fe744db0c329 -> 2021-02-02 20:44:10.455855:message:dbSyn:execute:GET:mode = false, parse = true
+23625a99-cf11-4225-a91b-fe744db0c329 -> 2021-02-02 20:44:10.455855:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 12
+23625a99-cf11-4225-a91b-fe744db0c329 -> 2021-02-02 20:44:10.516026:message:dbSyn:execute:GET:mode = false, parse = true
+db7908b9-7b4b-448f-b617-f63bee2ba629 -> 2021-02-02 20:44:47.466703:message:dbSyn:execute:GET:mode = false, parse = true
+db7908b9-7b4b-448f-b617-f63bee2ba629 -> 2021-02-02 20:44:47.466703:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 12
+db7908b9-7b4b-448f-b617-f63bee2ba629 -> 2021-02-02 20:44:47.540379:message:dbSyn:execute:GET:mode = false, parse = true
+db7908b9-7b4b-448f-b617-f63bee2ba629 -> 2021-02-02 20:44:47.540379:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+ad852359-c327-404b-88a2-41049095602b -> 2021-02-02 20:46:16.420363:message:dbSyn:execute:GET:mode = false, parse = true
+ad852359-c327-404b-88a2-41049095602b -> 2021-02-02 20:46:16.420363:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 12
+ad852359-c327-404b-88a2-41049095602b -> 2021-02-02 20:46:16.479333:message:dbSyn:execute:GET:mode = false, parse = true
+ad852359-c327-404b-88a2-41049095602b -> 2021-02-02 20:46:16.479333:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+de11f5be-9fdf-41da-85ad-5bdc7d12c32f -> 2021-02-02 20:55:38.407607:message:dbSyn:execute:GET:mode = false, parse = true
+d7b61999-76d0-41aa-a830-ab8e937f3bbe -> 2021-02-02 20:56:06.207100:message:dbSyn:execute:GET:mode = false, parse = true
+af7f6b88-984b-4dad-a004-9c82d6e1478c -> 2021-02-02 20:56:34.293658:message:dbSyn:execute:GET:mode = false, parse = true
+af7f6b88-984b-4dad-a004-9c82d6e1478c -> 2021-02-02 20:56:34.293658:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+af7f6b88-984b-4dad-a004-9c82d6e1478c -> 2021-02-02 20:56:34.379794:message:dbSyn:execute:GET:mode = false, parse = true
+af7f6b88-984b-4dad-a004-9c82d6e1478c -> 2021-02-02 20:56:34.379794:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+e67720c2-cf79-4ef8-8496-9cea21374745 -> 2021-02-02 20:58:54.592364:message:dbSyn:execute:GET:mode = false, parse = true
+e67720c2-cf79-4ef8-8496-9cea21374745 -> 2021-02-02 20:58:54.592364:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+e67720c2-cf79-4ef8-8496-9cea21374745 -> 2021-02-02 20:58:54.702598:message:dbSyn:execute:GET:mode = false, parse = true
+e67720c2-cf79-4ef8-8496-9cea21374745 -> 2021-02-02 20:58:54.702598:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+14247077-1b84-4ba6-b221-57ccd478f890 -> 2021-02-02 20:59:40.306973:message:dbSyn:execute:GET:mode = false, parse = true
+14247077-1b84-4ba6-b221-57ccd478f890 -> 2021-02-02 20:59:40.306973:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+14247077-1b84-4ba6-b221-57ccd478f890 -> 2021-02-02 20:59:40.411894:message:dbSyn:execute:GET:mode = false, parse = true
+14247077-1b84-4ba6-b221-57ccd478f890 -> 2021-02-02 20:59:40.411894:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+debae489-8276-4098-8832-309036f36b83 -> 2021-02-02 21:01:41.866865:message:dbSyn:execute:GET:mode = false, parse = true
+debae489-8276-4098-8832-309036f36b83 -> 2021-02-02 21:01:41.866865:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+debae489-8276-4098-8832-309036f36b83 -> 2021-02-02 21:01:41.927280:message:dbSyn:execute:GET:mode = false, parse = true
+debae489-8276-4098-8832-309036f36b83 -> 2021-02-02 21:01:41.927280:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+cfce1016-544a-4f9e-b9e7-594eea4929b4 -> 2021-02-02 21:01:56.252173:message:dbSyn:execute:GET:mode = false, parse = true
+cfce1016-544a-4f9e-b9e7-594eea4929b4 -> 2021-02-02 21:01:56.252173:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+cfce1016-544a-4f9e-b9e7-594eea4929b4 -> 2021-02-02 21:01:56.284603:message:dbSyn:execute:GET:mode = false, parse = true
+cfce1016-544a-4f9e-b9e7-594eea4929b4 -> 2021-02-02 21:01:56.284603:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+9a37e012-81da-477b-93cb-eed5236f2bb3 -> 2021-02-02 21:02:24.789125:message:dbSyn:execute:GET:mode = false, parse = true
+9a37e012-81da-477b-93cb-eed5236f2bb3 -> 2021-02-02 21:02:24.789125:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+9a37e012-81da-477b-93cb-eed5236f2bb3 -> 2021-02-02 21:02:24.821045:message:dbSyn:execute:GET:mode = false, parse = true
+9a37e012-81da-477b-93cb-eed5236f2bb3 -> 2021-02-02 21:02:24.821045:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+41518609-b3a3-4f2e-98b3-ea537306d4c7 -> 2021-02-02 21:04:57.923010:message:dbSyn:execute:GET:mode = false, parse = true
+41518609-b3a3-4f2e-98b3-ea537306d4c7 -> 2021-02-02 21:04:57.923010:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+41518609-b3a3-4f2e-98b3-ea537306d4c7 -> 2021-02-02 21:04:58.022524:message:dbSyn:execute:GET:mode = false, parse = true
+41518609-b3a3-4f2e-98b3-ea537306d4c7 -> 2021-02-02 21:04:58.022524:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+50a43161-e051-42bd-aeca-f63f96d1eb2c -> 2021-02-02 21:05:13.635147:message:dbSyn:execute:GET:mode = false, parse = true
+50a43161-e051-42bd-aeca-f63f96d1eb2c -> 2021-02-02 21:05:13.635147:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+50a43161-e051-42bd-aeca-f63f96d1eb2c -> 2021-02-02 21:05:13.666757:message:dbSyn:execute:GET:mode = false, parse = true
+50a43161-e051-42bd-aeca-f63f96d1eb2c -> 2021-02-02 21:05:13.666757:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+c813e334-1755-4d71-9394-c7937bc41ad2 -> 2021-02-02 21:06:29.365337:message:dbSyn:execute:GET:mode = false, parse = true
+c813e334-1755-4d71-9394-c7937bc41ad2 -> 2021-02-02 21:06:29.365337:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+c813e334-1755-4d71-9394-c7937bc41ad2 -> 2021-02-02 21:06:29.396445:message:dbSyn:execute:GET:mode = false, parse = true
+c813e334-1755-4d71-9394-c7937bc41ad2 -> 2021-02-02 21:06:29.396445:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+a653c3f2-6f61-4a93-9bb0-0654fa20961b -> 2021-02-02 21:06:44.818747:message:dbSyn:execute:GET:mode = false, parse = true
+a653c3f2-6f61-4a93-9bb0-0654fa20961b -> 2021-02-02 21:06:44.818747:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+a653c3f2-6f61-4a93-9bb0-0654fa20961b -> 2021-02-02 21:06:44.870975:message:dbSyn:execute:GET:mode = false, parse = true
+a653c3f2-6f61-4a93-9bb0-0654fa20961b -> 2021-02-02 21:06:44.870975:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+84435019-8ca1-4c87-8c29-e8e3947cb582 -> 2021-02-02 21:07:05.820489:message:dbSyn:execute:GET:mode = false, parse = true
+84435019-8ca1-4c87-8c29-e8e3947cb582 -> 2021-02-02 21:07:05.820489:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+84435019-8ca1-4c87-8c29-e8e3947cb582 -> 2021-02-02 21:07:05.879944:message:dbSyn:execute:GET:mode = false, parse = true
+84435019-8ca1-4c87-8c29-e8e3947cb582 -> 2021-02-02 21:07:05.879944:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+085a1443-faf9-4ed9-b6de-cbb64a653e57 -> 2021-02-02 21:07:22.699258:message:dbSyn:execute:GET:mode = false, parse = true
+085a1443-faf9-4ed9-b6de-cbb64a653e57 -> 2021-02-02 21:07:22.699258:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+085a1443-faf9-4ed9-b6de-cbb64a653e57 -> 2021-02-02 21:07:22.755018:message:dbSyn:execute:GET:mode = false, parse = true
+085a1443-faf9-4ed9-b6de-cbb64a653e57 -> 2021-02-02 21:07:22.755018:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+1b1a6e5c-a3c9-4da9-b2f5-ffeacf7690c6 -> 2021-02-02 21:07:41.736759:message:dbSyn:execute:GET:mode = false, parse = true
+1b1a6e5c-a3c9-4da9-b2f5-ffeacf7690c6 -> 2021-02-02 21:07:41.736759:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+1b1a6e5c-a3c9-4da9-b2f5-ffeacf7690c6 -> 2021-02-02 21:07:41.827267:message:dbSyn:execute:GET:mode = false, parse = true
+1b1a6e5c-a3c9-4da9-b2f5-ffeacf7690c6 -> 2021-02-02 21:07:41.827267:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+2d4c1fab-d17f-4713-8f89-922481fd65db -> 2021-02-02 21:09:01.863849:message:dbSyn:execute:GET:mode = false, parse = true
+2d4c1fab-d17f-4713-8f89-922481fd65db -> 2021-02-02 21:09:01.863849:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+2d4c1fab-d17f-4713-8f89-922481fd65db -> 2021-02-02 21:09:01.925821:message:dbSyn:execute:GET:mode = false, parse = true
+2d4c1fab-d17f-4713-8f89-922481fd65db -> 2021-02-02 21:09:01.925821:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+1c4c8bb0-d97e-40c1-a1f4-3b7a64676cef -> 2021-02-02 21:09:36.072263:message:dbSyn:execute:GET:mode = false, parse = true
+1c4c8bb0-d97e-40c1-a1f4-3b7a64676cef -> 2021-02-02 21:09:36.072263:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+1c4c8bb0-d97e-40c1-a1f4-3b7a64676cef -> 2021-02-02 21:09:36.133422:message:dbSyn:execute:GET:mode = false, parse = true
+1c4c8bb0-d97e-40c1-a1f4-3b7a64676cef -> 2021-02-02 21:09:36.133422:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+3a04fe5f-f0b0-4065-a090-1b42a0a5b2b3 -> 2021-02-02 21:09:44.326448:message:dbSyn:execute:GET:mode = false, parse = true
+3a04fe5f-f0b0-4065-a090-1b42a0a5b2b3 -> 2021-02-02 21:09:44.326448:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+3a04fe5f-f0b0-4065-a090-1b42a0a5b2b3 -> 2021-02-02 21:09:44.381585:message:dbSyn:execute:GET:mode = false, parse = true
+3a04fe5f-f0b0-4065-a090-1b42a0a5b2b3 -> 2021-02-02 21:09:44.381585:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+f794368f-f1c1-4832-aa12-0a95df6f94d4 -> 2021-02-02 21:10:33.958529:message:dbSyn:execute:GET:mode = false, parse = true
+f794368f-f1c1-4832-aa12-0a95df6f94d4 -> 2021-02-02 21:10:33.958529:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+f794368f-f1c1-4832-aa12-0a95df6f94d4 -> 2021-02-02 21:10:34.017508:message:dbSyn:execute:GET:mode = false, parse = true
+f794368f-f1c1-4832-aa12-0a95df6f94d4 -> 2021-02-02 21:10:34.017508:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+32ae5133-7a2c-4663-ae93-1dd1f3eb30b2 -> 2021-02-02 21:11:02.973119:message:dbSyn:execute:GET:mode = false, parse = true
+32ae5133-7a2c-4663-ae93-1dd1f3eb30b2 -> 2021-02-02 21:11:02.973119:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+32ae5133-7a2c-4663-ae93-1dd1f3eb30b2 -> 2021-02-02 21:11:03.035649:message:dbSyn:execute:GET:mode = false, parse = true
+32ae5133-7a2c-4663-ae93-1dd1f3eb30b2 -> 2021-02-02 21:11:03.035649:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+b7b1f6f3-acd7-45c8-9128-ab85f173fe56 -> 2021-02-02 21:11:20.483120:message:dbSyn:execute:GET:mode = false, parse = true
+b7b1f6f3-acd7-45c8-9128-ab85f173fe56 -> 2021-02-02 21:11:20.483120:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+b7b1f6f3-acd7-45c8-9128-ab85f173fe56 -> 2021-02-02 21:11:20.560448:message:dbSyn:execute:GET:mode = false, parse = true
+b7b1f6f3-acd7-45c8-9128-ab85f173fe56 -> 2021-02-02 21:11:20.560448:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+d611bd7b-c420-467d-af1e-425a2077e72c -> 2021-02-02 21:18:49.016914:message:dbSyn:execute:GET:mode = false, parse = true
+d611bd7b-c420-467d-af1e-425a2077e72c -> 2021-02-02 21:18:49.016914:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+d611bd7b-c420-467d-af1e-425a2077e72c -> 2021-02-02 21:18:49.079346:message:dbSyn:execute:GET:mode = false, parse = true
+d611bd7b-c420-467d-af1e-425a2077e72c -> 2021-02-02 21:18:49.079346:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+34cd973c-a549-4d3c-8022-f2b3cb77979b -> 2021-02-02 21:19:43.920913:message:dbSyn:execute:GET:mode = false, parse = true
+34cd973c-a549-4d3c-8022-f2b3cb77979b -> 2021-02-02 21:19:43.920913:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+34cd973c-a549-4d3c-8022-f2b3cb77979b -> 2021-02-02 21:19:43.998661:message:dbSyn:execute:GET:mode = false, parse = true
+34cd973c-a549-4d3c-8022-f2b3cb77979b -> 2021-02-02 21:19:43.998661:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+ce3503b0-03a3-4483-bd14-7b678c9dd2a1 -> 2021-02-02 21:29:04.956216:message:dbSyn:execute:GET:mode = false, parse = true
+ce3503b0-03a3-4483-bd14-7b678c9dd2a1 -> 2021-02-02 21:29:04.956216:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 9
+ce3503b0-03a3-4483-bd14-7b678c9dd2a1 -> 2021-02-02 21:29:04.994658:message:dbSyn:execute:GET:mode = false, parse = true
+ce3503b0-03a3-4483-bd14-7b678c9dd2a1 -> 2021-02-02 21:29:04.994658:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+e7117f26-752d-47af-9dbd-7a00ad7a15e0 -> 2021-02-02 21:29:43.781582:message:dbSyn:execute:GET:mode = false, parse = true
+e7117f26-752d-47af-9dbd-7a00ad7a15e0 -> 2021-02-02 21:29:43.781582:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+e7117f26-752d-47af-9dbd-7a00ad7a15e0 -> 2021-02-02 21:29:43.855335:message:yahoo:getData:GET:symbol = "TCS", start = "2021-01-15", stop = "2021-02-02", interval = "1m", exg = "NSE"
+e7117f26-752d-47af-9dbd-7a00ad7a15e0 -> 2021-02-02 21:29:43.872685:message:mDwn:mRegular:GET:urlList = [{"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610682300&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610941500&period2=1611309600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1611546300&period2=1611914400&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1612151100&period2=1612260000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}]
+e7117f26-752d-47af-9dbd-7a00ad7a15e0 -> 2021-02-02 21:29:43.910082:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610682300&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+e7117f26-752d-47af-9dbd-7a00ad7a15e0 -> 2021-02-02 21:29:43.938963:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610941500&period2=1611309600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+e7117f26-752d-47af-9dbd-7a00ad7a15e0 -> 2021-02-02 21:29:43.966039:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1611546300&period2=1611914400&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+e7117f26-752d-47af-9dbd-7a00ad7a15e0 -> 2021-02-02 21:29:43.990445:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1612151100&period2=1612260000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+e7117f26-752d-47af-9dbd-7a00ad7a15e0 -> 1.114055:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610682300&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+e7117f26-752d-47af-9dbd-7a00ad7a15e0 -> 1.613027:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1612151100&period2=1612260000&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+e7117f26-752d-47af-9dbd-7a00ad7a15e0 -> 1.896079:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610941500&period2=1611309600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+e7117f26-752d-47af-9dbd-7a00ad7a15e0 -> 2.096838:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1611546300&period2=1611914400&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+e7117f26-752d-47af-9dbd-7a00ad7a15e0 -> 2.262183:message:mDwn:mRegular:SUCCESS:lot = 4
+e7117f26-752d-47af-9dbd-7a00ad7a15e0 -> 2.396672:message:yahoo:getData:SUCCESS:lot = 4500
+e7117f26-752d-47af-9dbd-7a00ad7a15e0 -> 2021-02-02 21:29:46.308086:message:dbSyn:execute:GET:mode = false, parse = true
+e7117f26-752d-47af-9dbd-7a00ad7a15e0 -> 2021-02-02 21:29:46.308086:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+4f39dbb6-d914-4a74-b91c-659b77ee542a -> 2021-02-02 21:30:01.646451:message:dbSyn:execute:GET:mode = false, parse = true
+4f39dbb6-d914-4a74-b91c-659b77ee542a -> 2021-02-02 21:30:01.646451:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 11
+4f39dbb6-d914-4a74-b91c-659b77ee542a -> 2021-02-02 21:30:01.686152:message:dbSyn:execute:GET:mode = false, parse = true
+4f39dbb6-d914-4a74-b91c-659b77ee542a -> 2021-02-02 21:30:01.686152:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+ca6769fb-bddd-403b-a8e0-6570e11eb967 -> 2021-02-02 21:30:38.065738:message:dbSyn:execute:GET:mode = false, parse = true
+ca6769fb-bddd-403b-a8e0-6570e11eb967 -> 2021-02-02 21:30:38.065738:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 9
+ca6769fb-bddd-403b-a8e0-6570e11eb967 -> 2021-02-02 21:30:38.104279:message:dbSyn:execute:GET:mode = false, parse = true
+ca6769fb-bddd-403b-a8e0-6570e11eb967 -> 2021-02-02 21:30:38.104279:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+2d32788e-b375-432b-8bf3-e1cb78089885 -> 2021-02-02 21:33:16.923499:message:dbSyn:execute:GET:mode = false, parse = true
+2d32788e-b375-432b-8bf3-e1cb78089885 -> 2021-02-02 21:33:16.923499:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 9
+2d32788e-b375-432b-8bf3-e1cb78089885 -> 2021-02-02 21:33:17.008830:message:dbSyn:execute:GET:mode = false, parse = true
+2d32788e-b375-432b-8bf3-e1cb78089885 -> 2021-02-02 21:33:17.008830:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+674c317a-e41b-4a00-8acb-b9b5827cb41b -> 2021-02-02 21:39:42.966628:message:dbSyn:execute:GET:mode = false, parse = true
+674c317a-e41b-4a00-8acb-b9b5827cb41b -> 2021-02-02 21:39:42.966628:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+674c317a-e41b-4a00-8acb-b9b5827cb41b -> 2021-02-02 21:39:43.008319:message:dbSyn:execute:GET:mode = false, parse = true
+674c317a-e41b-4a00-8acb-b9b5827cb41b -> 2021-02-02 21:39:43.008319:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+e265e48f-84f5-4869-9a6b-b3e6883df7b1 -> 2021-02-02 21:39:51.892318:message:dbSyn:execute:GET:mode = false, parse = true
+e265e48f-84f5-4869-9a6b-b3e6883df7b1 -> 2021-02-02 21:39:51.892318:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+e265e48f-84f5-4869-9a6b-b3e6883df7b1 -> 2021-02-02 21:39:51.926006:message:dbSyn:execute:GET:mode = false, parse = true
+e265e48f-84f5-4869-9a6b-b3e6883df7b1 -> 2021-02-02 21:39:51.926006:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+dde5979e-8480-41ff-8384-78891c2b4ddc -> 2021-02-02 21:40:12.622281:message:dbSyn:execute:GET:mode = false, parse = true
+dde5979e-8480-41ff-8384-78891c2b4ddc -> 2021-02-02 21:40:12.622281:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+dde5979e-8480-41ff-8384-78891c2b4ddc -> 2021-02-02 21:40:12.690888:message:dbSyn:execute:GET:mode = false, parse = true
+dde5979e-8480-41ff-8384-78891c2b4ddc -> 2021-02-02 21:40:12.690888:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+fc900e58-34fb-4043-bfb6-a0dd9bccd6dc -> 2021-02-02 21:41:41.027618:message:dbSyn:execute:GET:mode = false, parse = true
+fc900e58-34fb-4043-bfb6-a0dd9bccd6dc -> 2021-02-02 21:41:41.027618:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+fc900e58-34fb-4043-bfb6-a0dd9bccd6dc -> 2021-02-02 21:41:41.126027:message:dbSyn:execute:GET:mode = false, parse = true
+fc900e58-34fb-4043-bfb6-a0dd9bccd6dc -> 2021-02-02 21:41:41.126027:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+1b8ffc10-4c66-4a5b-9d32-7c88ff7f599f -> 2021-02-02 21:41:55.962618:message:dbSyn:execute:GET:mode = false, parse = true
+1b8ffc10-4c66-4a5b-9d32-7c88ff7f599f -> 2021-02-02 21:41:55.962618:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+1b8ffc10-4c66-4a5b-9d32-7c88ff7f599f -> 2021-02-02 21:41:56.024232:message:dbSyn:execute:GET:mode = false, parse = true
+1b8ffc10-4c66-4a5b-9d32-7c88ff7f599f -> 2021-02-02 21:41:56.024232:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+97590ee3-1d0f-4ce7-b489-adcc34f61595 -> 2021-02-02 21:42:24.695457:message:dbSyn:execute:GET:mode = false, parse = true
+97590ee3-1d0f-4ce7-b489-adcc34f61595 -> 2021-02-02 21:42:24.695457:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+97590ee3-1d0f-4ce7-b489-adcc34f61595 -> 2021-02-02 21:42:24.757096:message:dbSyn:execute:GET:mode = false, parse = true
+97590ee3-1d0f-4ce7-b489-adcc34f61595 -> 2021-02-02 21:42:24.757096:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+4a0888d6-eb39-4653-825b-d79ef5a5efae -> 2021-02-02 21:44:13.271951:message:dbSyn:execute:GET:mode = false, parse = true
+4a0888d6-eb39-4653-825b-d79ef5a5efae -> 2021-02-02 21:44:13.271951:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+4a0888d6-eb39-4653-825b-d79ef5a5efae -> 2021-02-02 21:44:13.321488:message:dbSyn:execute:GET:mode = false, parse = true
+4a0888d6-eb39-4653-825b-d79ef5a5efae -> 2021-02-02 21:44:13.321488:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+9bc98ca5-dfd2-4a8b-aa71-729e29372c12 -> 2021-02-02 21:44:35.295159:message:dbSyn:execute:GET:mode = false, parse = true
+9bc98ca5-dfd2-4a8b-aa71-729e29372c12 -> 2021-02-02 21:44:35.295159:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+9bc98ca5-dfd2-4a8b-aa71-729e29372c12 -> 2021-02-02 21:44:35.330322:message:dbSyn:execute:GET:mode = false, parse = true
+9bc98ca5-dfd2-4a8b-aa71-729e29372c12 -> 2021-02-02 21:44:35.330322:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+949a6e31-986e-42eb-9c2d-33db932ee47f -> 2021-02-02 21:47:11.540073:message:dbSyn:execute:GET:mode = false, parse = true
+949a6e31-986e-42eb-9c2d-33db932ee47f -> 2021-02-02 21:47:11.540073:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+949a6e31-986e-42eb-9c2d-33db932ee47f -> 2021-02-02 21:47:11.601880:message:dbSyn:execute:GET:mode = false, parse = true
+949a6e31-986e-42eb-9c2d-33db932ee47f -> 2021-02-02 21:47:11.601880:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+db9660f0-0372-4add-8152-aeb0c0109fac -> 2021-02-02 21:48:02.368839:message:dbSyn:execute:GET:mode = false, parse = true
+db9660f0-0372-4add-8152-aeb0c0109fac -> 2021-02-02 21:48:02.368839:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+db9660f0-0372-4add-8152-aeb0c0109fac -> 2021-02-02 21:48:02.440956:message:dbSyn:execute:GET:mode = false, parse = true
+db9660f0-0372-4add-8152-aeb0c0109fac -> 2021-02-02 21:48:02.440956:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+bbeecbca-e588-4618-94fa-1f86b1b0c638 -> 2021-02-02 21:51:12.955302:message:dbSyn:execute:GET:mode = false, parse = true
+bbeecbca-e588-4618-94fa-1f86b1b0c638 -> 2021-02-02 21:51:12.955302:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+bbeecbca-e588-4618-94fa-1f86b1b0c638 -> 2021-02-02 21:51:13.034560:message:dbSyn:execute:GET:mode = false, parse = true
+bbeecbca-e588-4618-94fa-1f86b1b0c638 -> 2021-02-02 21:51:13.034560:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+8b88af17-4be3-409e-810c-b26ebaef42da -> 2021-02-02 21:52:38.298414:message:dbSyn:execute:GET:mode = false, parse = true
+8b88af17-4be3-409e-810c-b26ebaef42da -> 2021-02-02 21:52:38.298414:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+8b88af17-4be3-409e-810c-b26ebaef42da -> 2021-02-02 21:52:38.371351:message:dbSyn:execute:GET:mode = false, parse = true
+8b88af17-4be3-409e-810c-b26ebaef42da -> 2021-02-02 21:52:38.371351:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+c2b17727-ad5e-475b-ad43-5cd882fda6dc -> 2021-02-02 21:55:41.889887:message:dbSyn:execute:GET:mode = false, parse = true
+c2b17727-ad5e-475b-ad43-5cd882fda6dc -> 2021-02-02 21:55:41.889887:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+c2b17727-ad5e-475b-ad43-5cd882fda6dc -> 2021-02-02 21:55:41.993435:message:dbSyn:execute:GET:mode = false, parse = true
+c2b17727-ad5e-475b-ad43-5cd882fda6dc -> 2021-02-02 21:55:41.993435:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+f3edb1b4-a915-4662-b9ee-8a5e25e94d9f -> 2021-02-02 21:55:59.780297:message:dbSyn:execute:GET:mode = false, parse = true
+f3edb1b4-a915-4662-b9ee-8a5e25e94d9f -> 2021-02-02 21:55:59.780297:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+f3edb1b4-a915-4662-b9ee-8a5e25e94d9f -> 2021-02-02 21:55:59.850985:message:dbSyn:execute:GET:mode = false, parse = true
+f3edb1b4-a915-4662-b9ee-8a5e25e94d9f -> 2021-02-02 21:55:59.850985:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+b61be047-5aa4-4742-ac77-7474f9fc54d4 -> 2021-02-02 21:56:27.230107:message:dbSyn:execute:GET:mode = false, parse = true
+b61be047-5aa4-4742-ac77-7474f9fc54d4 -> 2021-02-02 21:56:27.230107:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+b61be047-5aa4-4742-ac77-7474f9fc54d4 -> 2021-02-02 21:56:27.284190:message:dbSyn:execute:GET:mode = false, parse = true
+b61be047-5aa4-4742-ac77-7474f9fc54d4 -> 2021-02-02 21:56:27.284190:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+3f8d8139-dc82-4655-9a07-38563304d229 -> 2021-02-02 21:57:36.695786:message:dbSyn:execute:GET:mode = false, parse = true
+3f8d8139-dc82-4655-9a07-38563304d229 -> 2021-02-02 21:57:36.695786:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+3f8d8139-dc82-4655-9a07-38563304d229 -> 2021-02-02 21:57:36.777256:message:dbSyn:execute:GET:mode = false, parse = true
+3f8d8139-dc82-4655-9a07-38563304d229 -> 2021-02-02 21:57:36.777256:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+2d59a513-590e-41f7-982a-01310983f38a -> 2021-02-02 21:58:04.111944:message:dbSyn:execute:GET:mode = false, parse = true
+2d59a513-590e-41f7-982a-01310983f38a -> 2021-02-02 21:58:04.111944:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+2d59a513-590e-41f7-982a-01310983f38a -> 2021-02-02 21:58:04.166166:message:dbSyn:execute:GET:mode = false, parse = true
+2d59a513-590e-41f7-982a-01310983f38a -> 2021-02-02 21:58:04.166166:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+534e9aac-a146-4d9f-ad57-d555f6816d7b -> 2021-02-02 21:59:21.072774:message:dbSyn:execute:GET:mode = false, parse = true
+534e9aac-a146-4d9f-ad57-d555f6816d7b -> 2021-02-02 21:59:21.072774:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+534e9aac-a146-4d9f-ad57-d555f6816d7b -> 2021-02-02 21:59:21.130256:message:dbSyn:execute:GET:mode = false, parse = true
+534e9aac-a146-4d9f-ad57-d555f6816d7b -> 2021-02-02 21:59:21.130256:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+c712747a-c3a6-4c0b-9663-1198de6b8148 -> 2021-02-02 22:00:10.616491:message:dbSyn:execute:GET:mode = false, parse = true
+c712747a-c3a6-4c0b-9663-1198de6b8148 -> 2021-02-02 22:00:10.616491:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+c712747a-c3a6-4c0b-9663-1198de6b8148 -> 2021-02-02 22:00:10.667589:message:dbSyn:execute:GET:mode = false, parse = true
+c712747a-c3a6-4c0b-9663-1198de6b8148 -> 2021-02-02 22:00:10.667589:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+adfa1048-7f73-4b82-a112-f1d71509ba09 -> 2021-02-02 22:00:36.531983:message:dbSyn:execute:GET:mode = false, parse = true
+adfa1048-7f73-4b82-a112-f1d71509ba09 -> 2021-02-02 22:00:36.531983:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+adfa1048-7f73-4b82-a112-f1d71509ba09 -> 2021-02-02 22:00:36.592451:message:dbSyn:execute:GET:mode = false, parse = true
+adfa1048-7f73-4b82-a112-f1d71509ba09 -> 2021-02-02 22:00:36.592451:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+5e7ed474-82ea-499b-8b99-2609dceca460 -> 2021-02-02 22:00:47.775780:message:dbSyn:execute:GET:mode = false, parse = true
+5e7ed474-82ea-499b-8b99-2609dceca460 -> 2021-02-02 22:00:47.775780:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+5e7ed474-82ea-499b-8b99-2609dceca460 -> 2021-02-02 22:00:47.886746:message:dbSyn:execute:GET:mode = false, parse = true
+5e7ed474-82ea-499b-8b99-2609dceca460 -> 2021-02-02 22:00:47.886746:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+c881f482-69c8-44b7-9c60-f33cb98c2ab6 -> 2021-02-02 22:00:53.474269:message:dbSyn:execute:GET:mode = false, parse = true
+c881f482-69c8-44b7-9c60-f33cb98c2ab6 -> 2021-02-02 22:00:53.474269:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+c881f482-69c8-44b7-9c60-f33cb98c2ab6 -> 2021-02-02 22:00:53.533661:message:dbSyn:execute:GET:mode = false, parse = true
+c881f482-69c8-44b7-9c60-f33cb98c2ab6 -> 2021-02-02 22:00:53.533661:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+dbb0f685-f740-43de-9fd3-97841def912d -> 2021-02-02 22:01:30.590455:message:dbSyn:execute:GET:mode = false, parse = true
+dbb0f685-f740-43de-9fd3-97841def912d -> 2021-02-02 22:01:30.590455:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+dbb0f685-f740-43de-9fd3-97841def912d -> 2021-02-02 22:01:30.641655:message:dbSyn:execute:GET:mode = false, parse = true
+dbb0f685-f740-43de-9fd3-97841def912d -> 2021-02-02 22:01:30.641655:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+2d2c2f26-fdf2-4460-b292-9e1eb13a0481 -> 2021-02-02 22:01:56.093204:message:dbSyn:execute:GET:mode = false, parse = true
+2d2c2f26-fdf2-4460-b292-9e1eb13a0481 -> 2021-02-02 22:01:56.093204:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+2d2c2f26-fdf2-4460-b292-9e1eb13a0481 -> 2021-02-02 22:01:56.149676:message:dbSyn:execute:GET:mode = false, parse = true
+2d2c2f26-fdf2-4460-b292-9e1eb13a0481 -> 2021-02-02 22:01:56.149676:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+5ef122a5-edad-42e3-922c-9628eadee7be -> 2021-02-02 22:02:06.263132:message:dbSyn:execute:GET:mode = false, parse = true
+5ef122a5-edad-42e3-922c-9628eadee7be -> 2021-02-02 22:02:06.263132:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+5ef122a5-edad-42e3-922c-9628eadee7be -> 2021-02-02 22:02:06.326632:message:dbSyn:execute:GET:mode = false, parse = true
+5ef122a5-edad-42e3-922c-9628eadee7be -> 2021-02-02 22:02:06.326632:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+52f8e48a-a8d8-4048-a1e4-144beab6e54e -> 2021-02-02 22:02:52.041420:message:dbSyn:execute:GET:mode = false, parse = true
+52f8e48a-a8d8-4048-a1e4-144beab6e54e -> 2021-02-02 22:02:52.041420:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+52f8e48a-a8d8-4048-a1e4-144beab6e54e -> 2021-02-02 22:02:52.122497:message:dbSyn:execute:GET:mode = false, parse = true
+52f8e48a-a8d8-4048-a1e4-144beab6e54e -> 2021-02-02 22:02:52.122497:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+21aec552-c691-4fd2-90af-77f6c3e9f425 -> 2021-02-02 22:04:05.903200:message:dbSyn:execute:GET:mode = false, parse = true
+21aec552-c691-4fd2-90af-77f6c3e9f425 -> 2021-02-02 22:04:05.903200:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+21aec552-c691-4fd2-90af-77f6c3e9f425 -> 2021-02-02 22:04:05.959493:message:dbSyn:execute:GET:mode = false, parse = true
+21aec552-c691-4fd2-90af-77f6c3e9f425 -> 2021-02-02 22:04:05.959493:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+8b6b37f5-0bde-4b22-9405-603195e26991 -> 2021-02-02 22:04:56.747426:message:dbSyn:execute:GET:mode = false, parse = true
+8b6b37f5-0bde-4b22-9405-603195e26991 -> 2021-02-02 22:04:56.747426:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+8b6b37f5-0bde-4b22-9405-603195e26991 -> 2021-02-02 22:04:56.831078:message:dbSyn:execute:GET:mode = false, parse = true
+8b6b37f5-0bde-4b22-9405-603195e26991 -> 2021-02-02 22:04:56.831078:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+2dc816fb-8ab8-474f-9bb6-c5fc84ab36d2 -> 2021-02-02 22:05:07.833757:message:dbSyn:execute:GET:mode = false, parse = true
+2dc816fb-8ab8-474f-9bb6-c5fc84ab36d2 -> 2021-02-02 22:05:07.833757:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+2dc816fb-8ab8-474f-9bb6-c5fc84ab36d2 -> 2021-02-02 22:05:07.934112:message:dbSyn:execute:GET:mode = false, parse = true
+2dc816fb-8ab8-474f-9bb6-c5fc84ab36d2 -> 2021-02-02 22:05:07.934112:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+cb7cda1f-5dfa-4b79-8321-75b0b98e32c3 -> 2021-02-02 22:06:52.551731:message:dbSyn:execute:GET:mode = false, parse = true
+cb7cda1f-5dfa-4b79-8321-75b0b98e32c3 -> 2021-02-02 22:06:52.551731:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+cb7cda1f-5dfa-4b79-8321-75b0b98e32c3 -> 2021-02-02 22:06:52.636909:message:dbSyn:execute:GET:mode = false, parse = true
+cb7cda1f-5dfa-4b79-8321-75b0b98e32c3 -> 2021-02-02 22:06:52.636909:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+6082d661-0c26-450c-a5f9-b2077ee5cf59 -> 2021-02-02 22:07:03.183560:message:dbSyn:execute:GET:mode = false, parse = true
+6082d661-0c26-450c-a5f9-b2077ee5cf59 -> 2021-02-02 22:07:03.183560:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+6082d661-0c26-450c-a5f9-b2077ee5cf59 -> 2021-02-02 22:07:03.239283:message:dbSyn:execute:GET:mode = false, parse = true
+6082d661-0c26-450c-a5f9-b2077ee5cf59 -> 2021-02-02 22:07:03.239283:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+9ae4d913-c84d-45bb-8d1a-7c8cbf343300 -> 2021-02-02 22:07:14.903857:message:dbSyn:execute:GET:mode = false, parse = true
+9ae4d913-c84d-45bb-8d1a-7c8cbf343300 -> 2021-02-02 22:07:14.903857:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 6
+9ae4d913-c84d-45bb-8d1a-7c8cbf343300 -> 2021-02-02 22:07:14.929138:message:dbSyn:execute:GET:mode = false, parse = true
+9ae4d913-c84d-45bb-8d1a-7c8cbf343300 -> 2021-02-02 22:07:14.929138:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7

@@ -1,0 +1,814 @@
+7666bc90-3a82-45c7-91b3-b3fe10849dbf -> 2021-01-31 13:40:01.835658:message:nseUpd:updFins:GET:upd = false
+a8ca9da9-21af-4d3d-9386-ebf897bb515b -> 2021-01-31 13:40:48.587791:message:nseUpd:updFins:GET:upd = false
+27ba725d-673e-4a56-9562-1afbe5b2c6f6 -> 2021-01-31 13:40:58.078327:message:nseUpd:updFins:GET:upd = false
+27ba725d-673e-4a56-9562-1afbe5b2c6f6 -> 2021-01-31 13:40:58.101280:message:nseUpd.__exgHolidays__:GET:start = "2021-01-31", stop = "2021-01-31"
+6d26d6d9-0981-4d35-b17b-c58835017b15 -> 2021-01-31 13:42:07.350348:message:nseUpd:updFins:GET:upd = false
+6d26d6d9-0981-4d35-b17b-c58835017b15 -> 2021-01-31 13:42:07.377707:message:nseUpd.__exgHolidays__:GET:start = "2021-01-31", stop = "2021-01-31"
+7fcf53c3-9608-45e0-aea0-93ca0ee68613 -> 2021-01-31 13:42:44.311078:message:nseUpd:updFins:GET:upd = false
+7fcf53c3-9608-45e0-aea0-93ca0ee68613 -> 2021-01-31 13:42:44.340292:message:nseUpd.__exgHolidays__:GET:start = "2021-01-31", stop = "2021-01-31"
+7fcf53c3-9608-45e0-aea0-93ca0ee68613 -> 2021-01-31 13:42:44.340292:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-31", lot = 0
+7fcf53c3-9608-45e0-aea0-93ca0ee68613 -> 0.385661:message:nseUpd:updFins:SUCCESS:upd = false
+5b7b81dd-4e76-4745-bb12-83918fee8eab -> 2021-01-31 13:45:39.138038:message:nseUpd:updFins:GET:upd = false
+5b7b81dd-4e76-4745-bb12-83918fee8eab -> 2021-01-31 13:45:39.164027:message:nseUpd.__exgHolidays__:GET:start = "2021-01-31", stop = "2021-01-31"
+5b7b81dd-4e76-4745-bb12-83918fee8eab -> 2021-01-31 13:45:39.164027:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-31", lot = 0
+5b7b81dd-4e76-4745-bb12-83918fee8eab -> 0.354259:message:nseUpd:updFins:SUCCESS:upd = false
+1b500c58-fe87-49e7-8943-b931f983474e -> 2021-01-31 14:01:41.947879:message:nseUpd:updFins:GET:upd = false
+678f9db5-a56c-45ba-8b85-1ae2bbd346f1 -> 2021-01-31 14:01:55.088940:message:nseUpd:updFins:GET:upd = false
+ee9f7b1a-41d5-4326-aa6c-7cc376996b0f -> 2021-01-31 14:02:46.874148:message:nseUpd:updFins:GET:upd = false
+ee9f7b1a-41d5-4326-aa6c-7cc376996b0f -> 2021-01-31 14:02:46.890277:message:nseUpd.__exgHolidays__:GET:start = "2021-01-31", stop = "2021-01-31"
+ee9f7b1a-41d5-4326-aa6c-7cc376996b0f -> 2021-01-31 14:02:46.890277:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-31", lot = 0
+ee9f7b1a-41d5-4326-aa6c-7cc376996b0f -> 0.31658:message:nseUpd:updFins:SUCCESS:upd = false
+540ddb7c-16eb-4bf2-aafe-5424e940ecd9 -> 2021-01-31 14:03:13.616969:message:nseUpd:updFins:GET:upd = false
+540ddb7c-16eb-4bf2-aafe-5424e940ecd9 -> 2021-01-31 14:03:13.674726:message:nseUpd.__exgHolidays__:GET:start = "2021-01-31", stop = "2021-01-31"
+540ddb7c-16eb-4bf2-aafe-5424e940ecd9 -> 2021-01-31 14:03:13.674726:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-31", lot = 0
+540ddb7c-16eb-4bf2-aafe-5424e940ecd9 -> 0.35723:message:nseUpd:updFins:SUCCESS:upd = false
+9845a936-d52b-4b5e-9c1d-2759be8ee5f0 -> 2021-01-31 14:03:31.574598:message:nseUpd:updFins:GET:upd = false
+9845a936-d52b-4b5e-9c1d-2759be8ee5f0 -> 2021-01-31 14:03:31.621248:message:nseUpd.__exgHolidays__:GET:start = "2021-01-31", stop = "2021-01-31"
+9845a936-d52b-4b5e-9c1d-2759be8ee5f0 -> 2021-01-31 14:03:31.621248:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-31", lot = 0
+9845a936-d52b-4b5e-9c1d-2759be8ee5f0 -> 0.378345:message:nseUpd:updFins:SUCCESS:upd = false
+03e35045-8ba0-491f-a862-cd8b17368e14 -> 2021-01-31 14:03:56.270754:message:nseUpd:updFins:GET:upd = false
+03e35045-8ba0-491f-a862-cd8b17368e14 -> 2021-01-31 14:03:56.308411:message:nseUpd.__exgHolidays__:GET:start = "2021-01-31", stop = "2021-01-31"
+03e35045-8ba0-491f-a862-cd8b17368e14 -> 2021-01-31 14:03:56.308411:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-31", lot = 0
+03e35045-8ba0-491f-a862-cd8b17368e14 -> 0.363771:message:nseUpd:updFins:SUCCESS:upd = false
+d44efcd6-9a79-435e-aa8c-febebba96ea8 -> 2021-01-31 14:04:14.351423:message:nseUpd:updFins:GET:upd = false
+d44efcd6-9a79-435e-aa8c-febebba96ea8 -> 2021-01-31 14:04:14.406800:message:nseUpd.__exgHolidays__:GET:start = "2021-01-31", stop = "2021-01-31"
+d44efcd6-9a79-435e-aa8c-febebba96ea8 -> 2021-01-31 14:04:14.406800:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-31", lot = 0
+d44efcd6-9a79-435e-aa8c-febebba96ea8 -> 0.381597:message:nseUpd:updFins:SUCCESS:upd = false
+417017f9-b6c0-46a9-9363-b93ecd1a9902 -> 2021-01-31 14:04:50.447854:message:nseUpd:updFins:GET:upd = false
+417017f9-b6c0-46a9-9363-b93ecd1a9902 -> 2021-01-31 14:04:50.514846:message:nseUpd.__exgHolidays__:GET:start = "2021-01-31", stop = "2021-01-31"
+417017f9-b6c0-46a9-9363-b93ecd1a9902 -> 2021-01-31 14:04:50.514846:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-31", lot = 0
+417017f9-b6c0-46a9-9363-b93ecd1a9902 -> 0.396413:message:nseUpd:updFins:SUCCESS:upd = false
+9a4b1852-9a39-412a-aea8-8d7987a63f77 -> 2021-01-31 14:05:54.638623:message:nseUpd:updFins:GET:upd = false
+1087f253-f44c-4932-a702-21524a8255fa -> 2021-01-31 14:06:08.856920:message:nseUpd:updFins:GET:upd = false
+d6f7f605-1b88-433d-9a09-4a9eb4fa450a -> 2021-01-31 14:06:47.461748:message:nseUpd:updFins:GET:upd = false
+e36df05c-7187-4143-8cd1-a7c37c131f69 -> 2021-01-31 14:07:01.109427:message:nseUpd:updFins:GET:upd = false
+e36df05c-7187-4143-8cd1-a7c37c131f69 -> 0.032351:message:nseUpd:updFins:SUCCESS:upd = false
+3cce7b76-5b35-40a7-b30b-eb1c48770ebd -> 2021-01-31 14:07:20.047785:message:nseUpd:updFins:GET:upd = false
+3cce7b76-5b35-40a7-b30b-eb1c48770ebd -> 0.043884:message:nseUpd:updFins:SUCCESS:upd = false
+68a8a2ad-72d3-47dd-a2e1-87a0a76c288c -> 2021-01-31 14:07:32.683913:message:nseUpd:updFins:GET:upd = false
+68a8a2ad-72d3-47dd-a2e1-87a0a76c288c -> 0.038626:message:nseUpd:updFins:SUCCESS:upd = false
+b2d35a1b-25e1-498a-910d-531fa9dfab11 -> 2021-01-31 14:07:53.320697:message:nseUpd:updFins:GET:upd = false
+b2d35a1b-25e1-498a-910d-531fa9dfab11 -> 0.023714:message:nseUpd:updFins:SUCCESS:upd = false
+47618aa8-496b-44e2-98d0-407d95052854 -> 2021-01-31 14:08:06.452464:message:nseUpd:updFins:GET:upd = false
+47618aa8-496b-44e2-98d0-407d95052854 -> 0.037429:message:nseUpd:updFins:SUCCESS:upd = false
+dfed46a9-ae38-4a69-a4c0-91e02de93c4b -> 2021-01-31 14:08:36.519690:message:nseUpd:updFins:GET:upd = false
+dfed46a9-ae38-4a69-a4c0-91e02de93c4b -> 0.031247:message:nseUpd:updFins:SUCCESS:upd = false
+3374b10a-bd50-415d-b376-720a18e73a7e -> 2021-01-31 14:09:29.331754:message:nseUpd:updFins:GET:upd = false
+c258c200-5cb9-4400-bc8b-57f59543e231 -> 2021-01-31 14:09:45.981132:message:nseUpd:updFins:GET:upd = false
+054a2201-56c2-4a61-8dd1-30dda08ff134 -> 2021-01-31 14:10:05.309778:message:nseUpd:updFins:GET:upd = false
+054a2201-56c2-4a61-8dd1-30dda08ff134 -> 0.061266:message:nseUpd:updFins:SUCCESS:upd = false
+3e2205c4-5f24-4546-999f-f341f96eb6fc -> 2021-01-31 14:29:03.025652:message:nse:getFinData:GET:reqList = ["2021-01-31"], allowedSegs = null
+041710f3-6f09-4161-b452-13dd04b04e1c -> 2021-01-31 14:29:17.426262:message:nse:getFinData:GET:reqList = ["2021-01-31"], allowedSegs = null
+041710f3-6f09-4161-b452-13dd04b04e1c -> 2021-01-31 14:29:17.447947:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_31012021.CSV", "enc": "utf-8"}]
+041710f3-6f09-4161-b452-13dd04b04e1c -> 2021-01-31 14:29:17.471027:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_31012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+34fbede0-5909-4398-ad31-0e87005422e4 -> 2021-01-31 14:29:42.557383:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = null
+34fbede0-5909-4398-ad31-0e87005422e4 -> 2021-01-31 14:29:42.577928:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+34fbede0-5909-4398-ad31-0e87005422e4 -> 2021-01-31 14:29:42.602214:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+34fbede0-5909-4398-ad31-0e87005422e4 -> 1.583549:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+34fbede0-5909-4398-ad31-0e87005422e4 -> 1.74336:message:mDwn:mRegular:SUCCESS:lot = 1
+34fbede0-5909-4398-ad31-0e87005422e4 -> 2021-01-31 14:29:44.343022:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+34fbede0-5909-4398-ad31-0e87005422e4 -> 2021-01-31 14:29:44.379227:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+34fbede0-5909-4398-ad31-0e87005422e4 -> 1.590911:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+34fbede0-5909-4398-ad31-0e87005422e4 -> 1.763027:message:mDwn:mRegular:SUCCESS:lot = 1
+cd7f2a69-3876-48bb-b901-2ae529add504 -> 2021-01-31 15:25:32.760352:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = null
+cd7f2a69-3876-48bb-b901-2ae529add504 -> 2021-01-31 15:25:32.770352:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+cd7f2a69-3876-48bb-b901-2ae529add504 -> 2021-01-31 15:25:32.780469:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+cd7f2a69-3876-48bb-b901-2ae529add504 -> 3.868778:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+cd7f2a69-3876-48bb-b901-2ae529add504 -> 3.994166:message:mDwn:mRegular:SUCCESS:lot = 1
+53a0bd3b-f700-4581-8179-fed92ccd026f -> 2021-01-31 15:25:38.083788:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = null
+53a0bd3b-f700-4581-8179-fed92ccd026f -> 2021-01-31 15:25:38.117839:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+53a0bd3b-f700-4581-8179-fed92ccd026f -> 2021-01-31 15:25:38.127229:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+53a0bd3b-f700-4581-8179-fed92ccd026f -> 1.235815:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+53a0bd3b-f700-4581-8179-fed92ccd026f -> 1.369447:message:mDwn:mRegular:SUCCESS:lot = 1
+53a0bd3b-f700-4581-8179-fed92ccd026f -> 2021-01-31 15:25:39.499397:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+53a0bd3b-f700-4581-8179-fed92ccd026f -> 2021-01-31 15:25:39.533640:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+53a0bd3b-f700-4581-8179-fed92ccd026f -> 1.044359:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+53a0bd3b-f700-4581-8179-fed92ccd026f -> 1.495053:message:mDwn:mRegular:SUCCESS:lot = 1
+7366ed47-a73e-4b95-ba38-1caebdfadd79 -> 2021-01-31 15:25:41.590373:message:nseUpd:updFins:GET:upd = false
+7366ed47-a73e-4b95-ba38-1caebdfadd79 -> 2021-01-31 15:25:41.622212:message:nseUpd.__exgHolidays__:GET:start = "2021-01-31", stop = "2021-01-31"
+7366ed47-a73e-4b95-ba38-1caebdfadd79 -> 2021-01-31 15:25:41.622212:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-31", lot = 0
+7366ed47-a73e-4b95-ba38-1caebdfadd79 -> 2021-01-31 15:25:41.792084:message:nseUpd.__exgHolidays__:GET:start = "2021-01-31", stop = "2021-01-31"
+7366ed47-a73e-4b95-ba38-1caebdfadd79 -> 2021-01-31 15:25:41.792084:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-31", lot = 0
+7366ed47-a73e-4b95-ba38-1caebdfadd79 -> 2021-01-31 15:25:42.254689:message:nse:getFinData:GET:reqList = ["2021-01-31"], allowedSegs = ["EQ"]
+7366ed47-a73e-4b95-ba38-1caebdfadd79 -> 2021-01-31 15:25:42.268614:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_31012021.CSV", "enc": "utf-8"}]
+7366ed47-a73e-4b95-ba38-1caebdfadd79 -> 2021-01-31 15:25:42.289073:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_31012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+135b9b75-8d62-4a10-93e4-64f1d5c399c4 -> 2021-01-31 15:25:43.741815:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = null
+135b9b75-8d62-4a10-93e4-64f1d5c399c4 -> 2021-01-31 15:25:43.757390:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+135b9b75-8d62-4a10-93e4-64f1d5c399c4 -> 2021-01-31 15:25:43.772724:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+135b9b75-8d62-4a10-93e4-64f1d5c399c4 -> 1.551259:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+135b9b75-8d62-4a10-93e4-64f1d5c399c4 -> 1.694907:message:mDwn:mRegular:SUCCESS:lot = 1
+135b9b75-8d62-4a10-93e4-64f1d5c399c4 -> 2021-01-31 15:25:45.462649:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+135b9b75-8d62-4a10-93e4-64f1d5c399c4 -> 2021-01-31 15:25:45.478019:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+135b9b75-8d62-4a10-93e4-64f1d5c399c4 -> 1.676715:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+135b9b75-8d62-4a10-93e4-64f1d5c399c4 -> 1.904366:message:mDwn:mRegular:SUCCESS:lot = 1
+aec85e58-79da-4e57-b3d1-16c5da06d6a8 -> 2021-01-31 15:25:47.959006:message:nseUpd:updFins:GET:upd = false
+aec85e58-79da-4e57-b3d1-16c5da06d6a8 -> 2021-01-31 15:25:48.000511:message:nseUpd.__exgHolidays__:GET:start = "2021-01-31", stop = "2021-01-31"
+aec85e58-79da-4e57-b3d1-16c5da06d6a8 -> 2021-01-31 15:25:48.000511:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-31", lot = 0
+aec85e58-79da-4e57-b3d1-16c5da06d6a8 -> 2021-01-31 15:25:48.229068:message:nseUpd.__exgHolidays__:GET:start = "2021-01-31", stop = "2021-01-31"
+aec85e58-79da-4e57-b3d1-16c5da06d6a8 -> 2021-01-31 15:25:48.229068:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-31", lot = 0
+aec85e58-79da-4e57-b3d1-16c5da06d6a8 -> 2021-01-31 15:25:48.548459:message:nse:getFinData:GET:reqList = [], allowedSegs = ["EQ"]
+aec85e58-79da-4e57-b3d1-16c5da06d6a8 -> 2021-01-31 15:25:48.563933:message:mDwn:mRegular:GET:urlList = []
+aec85e58-79da-4e57-b3d1-16c5da06d6a8 -> 0.011871:message:mDwn:mRegular:SUCCESS:lot = 0
+aec85e58-79da-4e57-b3d1-16c5da06d6a8 -> 2021-01-31 15:25:48.585872:message:mDwn:mRegular:GET:urlList = []
+aec85e58-79da-4e57-b3d1-16c5da06d6a8 -> 0.01074:message:mDwn:mRegular:SUCCESS:lot = 0
+aec85e58-79da-4e57-b3d1-16c5da06d6a8 -> 0.785078:message:nseUpd:updFins:SUCCESS:upd = false
+678b38b8-75ca-48b8-b97c-5c07a7923342 -> 2021-01-31 15:25:59.436382:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = null
+678b38b8-75ca-48b8-b97c-5c07a7923342 -> 2021-01-31 15:25:59.479009:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+678b38b8-75ca-48b8-b97c-5c07a7923342 -> 2021-01-31 15:25:59.503926:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+678b38b8-75ca-48b8-b97c-5c07a7923342 -> 1.788612:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+678b38b8-75ca-48b8-b97c-5c07a7923342 -> 1.951415:message:mDwn:mRegular:SUCCESS:lot = 1
+678b38b8-75ca-48b8-b97c-5c07a7923342 -> 2021-01-31 15:26:01.462612:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+678b38b8-75ca-48b8-b97c-5c07a7923342 -> 2021-01-31 15:26:01.507848:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+678b38b8-75ca-48b8-b97c-5c07a7923342 -> 1.19282:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+678b38b8-75ca-48b8-b97c-5c07a7923342 -> 1.376166:message:mDwn:mRegular:SUCCESS:lot = 1
+5457aa2c-845a-439d-bcbe-c6da1ad90210 -> 2021-01-31 15:26:03.440128:message:nseUpd:updFins:GET:upd = false
+5457aa2c-845a-439d-bcbe-c6da1ad90210 -> 2021-01-31 15:26:03.468885:message:nseUpd.__exgHolidays__:GET:start = "2021-01-31", stop = "2021-01-31"
+5457aa2c-845a-439d-bcbe-c6da1ad90210 -> 2021-01-31 15:26:03.468885:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-31", lot = 0
+5457aa2c-845a-439d-bcbe-c6da1ad90210 -> 2021-01-31 15:26:03.645218:message:nseUpd.__exgHolidays__:GET:start = "2021-01-31", stop = "2021-01-31"
+5457aa2c-845a-439d-bcbe-c6da1ad90210 -> 2021-01-31 15:26:03.645218:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-31", lot = 0
+5457aa2c-845a-439d-bcbe-c6da1ad90210 -> 2021-01-31 15:26:03.957771:message:nse:getFinData:GET:reqList = [], allowedSegs = ["EQ"]
+5457aa2c-845a-439d-bcbe-c6da1ad90210 -> 2021-01-31 15:26:03.975348:message:mDwn:mRegular:GET:urlList = []
+5457aa2c-845a-439d-bcbe-c6da1ad90210 -> 0.01343:message:mDwn:mRegular:SUCCESS:lot = 0
+5457aa2c-845a-439d-bcbe-c6da1ad90210 -> 2021-01-31 15:26:03.999018:message:mDwn:mRegular:GET:urlList = []
+5457aa2c-845a-439d-bcbe-c6da1ad90210 -> 0.012551:message:mDwn:mRegular:SUCCESS:lot = 0
+5457aa2c-845a-439d-bcbe-c6da1ad90210 -> 0.718592:message:nseUpd:updFins:SUCCESS:upd = false
+b0d0d432-bff9-43e6-8e9e-def9c3849738 -> 2021-01-31 15:31:00.728273:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = null
+b0d0d432-bff9-43e6-8e9e-def9c3849738 -> 2021-01-31 15:31:00.757023:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+b0d0d432-bff9-43e6-8e9e-def9c3849738 -> 2021-01-31 15:31:00.767304:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+b0d0d432-bff9-43e6-8e9e-def9c3849738 -> 2.249293:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+b0d0d432-bff9-43e6-8e9e-def9c3849738 -> 2.379293:message:mDwn:mRegular:SUCCESS:lot = 1
+b0d0d432-bff9-43e6-8e9e-def9c3849738 -> 2021-01-31 15:31:03.147728:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+b0d0d432-bff9-43e6-8e9e-def9c3849738 -> 2021-01-31 15:31:03.164545:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+b0d0d432-bff9-43e6-8e9e-def9c3849738 -> 1.947267:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+b0d0d432-bff9-43e6-8e9e-def9c3849738 -> 2.088587:message:mDwn:mRegular:SUCCESS:lot = 1
+2117d08e-eab1-4636-b4ca-7b6edf9bbd56 -> 2021-01-31 15:31:05.867540:message:nseUpd:updFins:GET:upd = false
+2117d08e-eab1-4636-b4ca-7b6edf9bbd56 -> 2021-01-31 15:31:05.875222:message:nseUpd.__exgHolidays__:GET:start = "2021-01-31", stop = "2021-01-31"
+2117d08e-eab1-4636-b4ca-7b6edf9bbd56 -> 2021-01-31 15:31:05.875222:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-31", lot = 0
+2117d08e-eab1-4636-b4ca-7b6edf9bbd56 -> 2021-01-31 15:31:06.056845:message:nseUpd.__exgHolidays__:GET:start = "2021-01-31", stop = "2021-01-31"
+2117d08e-eab1-4636-b4ca-7b6edf9bbd56 -> 2021-01-31 15:31:06.056845:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-31", lot = 0
+2117d08e-eab1-4636-b4ca-7b6edf9bbd56 -> 2021-01-31 15:31:06.472469:message:nse:getFinData:GET:reqList = [], allowedSegs = ["EQ"]
+2117d08e-eab1-4636-b4ca-7b6edf9bbd56 -> 2021-01-31 15:31:06.486840:message:mDwn:mRegular:GET:urlList = []
+2117d08e-eab1-4636-b4ca-7b6edf9bbd56 -> 0.014451:message:mDwn:mRegular:SUCCESS:lot = 0
+2117d08e-eab1-4636-b4ca-7b6edf9bbd56 -> 2021-01-31 15:31:06.511304:message:mDwn:mRegular:GET:urlList = []
+2117d08e-eab1-4636-b4ca-7b6edf9bbd56 -> 0.012007:message:mDwn:mRegular:SUCCESS:lot = 0
+2117d08e-eab1-4636-b4ca-7b6edf9bbd56 -> 0.802885:message:nseUpd:updFins:SUCCESS:upd = false
+3dc500ec-cf36-4779-b2d9-022c8e7eeee0 -> 2021-01-31 15:32:59.791409:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = null
+3dc500ec-cf36-4779-b2d9-022c8e7eeee0 -> 2021-01-31 15:32:59.813885:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+3dc500ec-cf36-4779-b2d9-022c8e7eeee0 -> 2021-01-31 15:32:59.823804:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+3dc500ec-cf36-4779-b2d9-022c8e7eeee0 -> 1.628622:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+3dc500ec-cf36-4779-b2d9-022c8e7eeee0 -> 1.762731:message:mDwn:mRegular:SUCCESS:lot = 1
+3dc500ec-cf36-4779-b2d9-022c8e7eeee0 -> 2021-01-31 15:33:01.596422:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+3dc500ec-cf36-4779-b2d9-022c8e7eeee0 -> 2021-01-31 15:33:01.616585:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+3dc500ec-cf36-4779-b2d9-022c8e7eeee0 -> 1.370926:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+3dc500ec-cf36-4779-b2d9-022c8e7eeee0 -> 1.518908:message:mDwn:mRegular:SUCCESS:lot = 1
+d366b704-b036-4d43-814b-f2c1a9c0639e -> 2021-01-31 15:33:03.740200:message:nseUpd:updFins:GET:upd = false
+d366b704-b036-4d43-814b-f2c1a9c0639e -> 2021-01-31 15:33:03.748142:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+d366b704-b036-4d43-814b-f2c1a9c0639e -> 2021-01-31 15:33:03.748142:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 0
+d366b704-b036-4d43-814b-f2c1a9c0639e -> 2021-01-31 15:33:03.942412:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+d366b704-b036-4d43-814b-f2c1a9c0639e -> 2021-01-31 15:33:03.942412:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 0
+d366b704-b036-4d43-814b-f2c1a9c0639e -> 2021-01-31 15:33:04.544448:message:nse:getFinData:GET:reqList = ["2021-01-30", "2021-01-29"], allowedSegs = ["EQ"]
+d366b704-b036-4d43-814b-f2c1a9c0639e -> 2021-01-31 15:33:04.560710:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_30012021.CSV", "enc": "utf-8"}, {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+d366b704-b036-4d43-814b-f2c1a9c0639e -> 2021-01-31 15:33:04.584451:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_30012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+f3d2093f-1c6a-482f-b26e-bf5322c78c1a -> 2021-01-31 15:34:55.870923:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = null
+f3d2093f-1c6a-482f-b26e-bf5322c78c1a -> 2021-01-31 15:34:55.895421:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+f3d2093f-1c6a-482f-b26e-bf5322c78c1a -> 2021-01-31 15:34:55.905474:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+f3d2093f-1c6a-482f-b26e-bf5322c78c1a -> 1.650658:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+f3d2093f-1c6a-482f-b26e-bf5322c78c1a -> 1.787894:message:mDwn:mRegular:SUCCESS:lot = 1
+f3d2093f-1c6a-482f-b26e-bf5322c78c1a -> 2021-01-31 15:34:57.697517:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+f3d2093f-1c6a-482f-b26e-bf5322c78c1a -> 2021-01-31 15:34:57.715083:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+f3d2093f-1c6a-482f-b26e-bf5322c78c1a -> 1.829272:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+f3d2093f-1c6a-482f-b26e-bf5322c78c1a -> 1.980668:message:mDwn:mRegular:SUCCESS:lot = 1
+7c55e117-e0d9-406b-bb17-673aaa585904 -> 2021-01-31 15:35:00.303514:message:nseUpd:updFins:GET:upd = false
+7c55e117-e0d9-406b-bb17-673aaa585904 -> 2021-01-31 15:35:00.311371:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+7c55e117-e0d9-406b-bb17-673aaa585904 -> 2021-01-31 15:35:00.311371:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 0
+70c3e7e5-100f-455e-9f8a-c0d888a05ad4 -> 2021-01-31 15:37:17.609495:message:nse:getHoliday:GET:start = 2021, stop = 2021
+70c3e7e5-100f-455e-9f8a-c0d888a05ad4 -> 2021-01-31 15:37:17.645839:message:dwn:regular:GET:params = {"url": "https://www1.nseindia.com/global/content/market_timings_holidays/market_timings_holidays.jsp?pageName=0&dateRange=&fromDate=01-01-2021&toDate=31-12-2021&tabActive=trading&load=false", "enc": "utf-8"}
+70c3e7e5-100f-455e-9f8a-c0d888a05ad4 -> 2021-01-31 15:37:17.645839:message:dwn:regular:PUT:params = {"url": "https://www1.nseindia.com/global/content/market_timings_holidays/market_timings_holidays.jsp?pageName=0&dateRange=&fromDate=01-01-2021&toDate=31-12-2021&tabActive=trading&load=false", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "www1.nseindia.com", "Referer": "www1.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+70c3e7e5-100f-455e-9f8a-c0d888a05ad4 -> 0.886625:message:dwn:regular:SUCCESS:params = {"url": "https://www1.nseindia.com/global/content/market_timings_holidays/market_timings_holidays.jsp?pageName=0&dateRange=&fromDate=01-01-2021&toDate=31-12-2021&tabActive=trading&load=false", "enc": "utf-8"}
+70c3e7e5-100f-455e-9f8a-c0d888a05ad4 -> 1.017534:message:nse:getHoliday:SUCCESS:lot = 117
+cba12e73-b347-4dcc-959f-7ce1333eb9bb -> 2021-01-31 15:39:12.375694:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+cba12e73-b347-4dcc-959f-7ce1333eb9bb -> 2021-01-31 15:39:12.530870:message:nse:getHoliday:GET:start = 2021, stop = 2021
+cba12e73-b347-4dcc-959f-7ce1333eb9bb -> 2021-01-31 15:39:12.538654:message:dwn:regular:GET:params = {"url": "https://www1.nseindia.com/global/content/market_timings_holidays/market_timings_holidays.jsp?pageName=0&dateRange=&fromDate=01-01-2021&toDate=31-12-2021&tabActive=trading&load=false", "enc": "utf-8"}
+cba12e73-b347-4dcc-959f-7ce1333eb9bb -> 2021-01-31 15:39:12.538654:message:dwn:regular:PUT:params = {"url": "https://www1.nseindia.com/global/content/market_timings_holidays/market_timings_holidays.jsp?pageName=0&dateRange=&fromDate=01-01-2021&toDate=31-12-2021&tabActive=trading&load=false", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "www1.nseindia.com", "Referer": "www1.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+cba12e73-b347-4dcc-959f-7ce1333eb9bb -> 0.671454:message:dwn:regular:SUCCESS:params = {"url": "https://www1.nseindia.com/global/content/market_timings_holidays/market_timings_holidays.jsp?pageName=0&dateRange=&fromDate=01-01-2021&toDate=31-12-2021&tabActive=trading&load=false", "enc": "utf-8"}
+cba12e73-b347-4dcc-959f-7ce1333eb9bb -> 0.750608:message:nse:getHoliday:SUCCESS:lot = 117
+cba12e73-b347-4dcc-959f-7ce1333eb9bb -> 1.209651:message:nseUpd:updHolidays:SUCCESS:upd = false
+3f712884-f4e3-40c8-baa4-8ef16ebf391f -> 2021-01-31 15:41:41.883996:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+3f712884-f4e3-40c8-baa4-8ef16ebf391f -> 2021-01-31 15:41:42.083011:message:nse:getHoliday:GET:start = 2021, stop = 2021
+3f712884-f4e3-40c8-baa4-8ef16ebf391f -> 2021-01-31 15:41:42.099804:message:dwn:regular:GET:params = {"url": "https://www1.nseindia.com/global/content/market_timings_holidays/market_timings_holidays.jsp?pageName=0&dateRange=&fromDate=01-01-2021&toDate=31-12-2021&tabActive=trading&load=false", "enc": "utf-8"}
+3f712884-f4e3-40c8-baa4-8ef16ebf391f -> 2021-01-31 15:41:42.099804:message:dwn:regular:PUT:params = {"url": "https://www1.nseindia.com/global/content/market_timings_holidays/market_timings_holidays.jsp?pageName=0&dateRange=&fromDate=01-01-2021&toDate=31-12-2021&tabActive=trading&load=false", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "www1.nseindia.com", "Referer": "www1.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+3f712884-f4e3-40c8-baa4-8ef16ebf391f -> 0.670041:message:dwn:regular:SUCCESS:params = {"url": "https://www1.nseindia.com/global/content/market_timings_holidays/market_timings_holidays.jsp?pageName=0&dateRange=&fromDate=01-01-2021&toDate=31-12-2021&tabActive=trading&load=false", "enc": "utf-8"}
+3f712884-f4e3-40c8-baa4-8ef16ebf391f -> 0.774907:message:nse:getHoliday:SUCCESS:lot = 117
+3f712884-f4e3-40c8-baa4-8ef16ebf391f -> 1.293677:message:nseUpd:updHolidays:SUCCESS:upd = false
+4691f625-e128-4034-b9be-df62af9245b0 -> 2021-01-31 15:42:27.739707:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+df1d83c4-f3ce-4503-843e-6c75337a7fee -> 2021-01-31 15:45:35.067640:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+df1d83c4-f3ce-4503-843e-6c75337a7fee -> 0.188804:message:nseUpd:updHolidays:SUCCESS:upd = false
+2e76dee1-762b-46b3-a5fe-15487cfabaf4 -> 2021-01-31 15:49:17.925880:message:nseUpd:updFins:GET:upd = false
+2e76dee1-762b-46b3-a5fe-15487cfabaf4 -> 2021-01-31 15:49:17.933269:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+2e76dee1-762b-46b3-a5fe-15487cfabaf4 -> 0.16004:message:nseUpd:updHolidays:SUCCESS:upd = false
+2e76dee1-762b-46b3-a5fe-15487cfabaf4 -> 2021-01-31 15:49:18.100576:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+2e76dee1-762b-46b3-a5fe-15487cfabaf4 -> 2021-01-31 15:49:18.100576:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 117
+08742a10-07cc-43d1-abac-660a45e0e5f5 -> 2021-01-31 15:49:50.935292:message:nseUpd:updFins:GET:upd = false
+08742a10-07cc-43d1-abac-660a45e0e5f5 -> 2021-01-31 15:49:50.942726:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+08742a10-07cc-43d1-abac-660a45e0e5f5 -> 0.15999:message:nseUpd:updHolidays:SUCCESS:upd = false
+08742a10-07cc-43d1-abac-660a45e0e5f5 -> 2021-01-31 15:49:51.110181:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+08742a10-07cc-43d1-abac-660a45e0e5f5 -> 2021-01-31 15:49:51.110181:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 117
+08742a10-07cc-43d1-abac-660a45e0e5f5 -> 2021-01-31 15:49:51.330804:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+08742a10-07cc-43d1-abac-660a45e0e5f5 -> 2021-01-31 15:49:51.330804:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 117
+08742a10-07cc-43d1-abac-660a45e0e5f5 -> 2021-01-31 15:49:51.724055:message:nse:getFinData:GET:reqList = [], allowedSegs = ["EQ"]
+08742a10-07cc-43d1-abac-660a45e0e5f5 -> 2021-01-31 15:49:51.745500:message:mDwn:mRegular:GET:urlList = []
+08742a10-07cc-43d1-abac-660a45e0e5f5 -> 0.015933:message:mDwn:mRegular:SUCCESS:lot = 0
+08742a10-07cc-43d1-abac-660a45e0e5f5 -> 2021-01-31 15:49:51.773242:message:mDwn:mRegular:GET:urlList = []
+08742a10-07cc-43d1-abac-660a45e0e5f5 -> 0.013918:message:mDwn:mRegular:SUCCESS:lot = 0
+08742a10-07cc-43d1-abac-660a45e0e5f5 -> 1.010519:message:nseUpd:updFins:SUCCESS:upd = false
+3e99f40e-8ff5-4730-a013-556ec192c2d9 -> 2021-01-31 15:54:31.775441:message:nseUpd:updFins:GET:upd = false
+3e99f40e-8ff5-4730-a013-556ec192c2d9 -> 2021-01-31 15:54:31.788532:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+3e99f40e-8ff5-4730-a013-556ec192c2d9 -> 0.177333:message:nseUpd:updHolidays:SUCCESS:upd = false
+3e99f40e-8ff5-4730-a013-556ec192c2d9 -> 2021-01-31 15:54:31.978647:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+3e99f40e-8ff5-4730-a013-556ec192c2d9 -> 2021-01-31 15:54:31.978647:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 0
+3e99f40e-8ff5-4730-a013-556ec192c2d9 -> 2021-01-31 15:54:32.188508:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+3e99f40e-8ff5-4730-a013-556ec192c2d9 -> 2021-01-31 15:54:32.188508:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 0
+3e99f40e-8ff5-4730-a013-556ec192c2d9 -> 2021-01-31 15:54:32.644101:message:nse:getFinData:GET:reqList = [], allowedSegs = ["EQ"]
+3e99f40e-8ff5-4730-a013-556ec192c2d9 -> 2021-01-31 15:54:32.658276:message:mDwn:mRegular:GET:urlList = []
+3e99f40e-8ff5-4730-a013-556ec192c2d9 -> 0.013213:message:mDwn:mRegular:SUCCESS:lot = 0
+3e99f40e-8ff5-4730-a013-556ec192c2d9 -> 2021-01-31 15:54:32.682154:message:mDwn:mRegular:GET:urlList = []
+3e99f40e-8ff5-4730-a013-556ec192c2d9 -> 0.012012:message:mDwn:mRegular:SUCCESS:lot = 0
+3e99f40e-8ff5-4730-a013-556ec192c2d9 -> 1.06461:message:nseUpd:updFins:SUCCESS:upd = false
+5153f682-9e2d-445a-8a33-f31048f8f6aa -> 2021-01-31 15:54:51.007275:message:nseUpd:updFins:GET:upd = false
+5153f682-9e2d-445a-8a33-f31048f8f6aa -> 2021-01-31 15:54:51.020892:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+5153f682-9e2d-445a-8a33-f31048f8f6aa -> 0.176471:message:nseUpd:updHolidays:SUCCESS:upd = false
+5153f682-9e2d-445a-8a33-f31048f8f6aa -> 2021-01-31 15:54:51.210211:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+5153f682-9e2d-445a-8a33-f31048f8f6aa -> 2021-01-31 15:54:51.210211:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 0
+5153f682-9e2d-445a-8a33-f31048f8f6aa -> 2021-01-31 15:54:51.423708:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+5153f682-9e2d-445a-8a33-f31048f8f6aa -> 2021-01-31 15:54:51.423708:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 0
+5153f682-9e2d-445a-8a33-f31048f8f6aa -> 2021-01-31 15:54:51.789766:message:nse:getFinData:GET:reqList = [], allowedSegs = ["EQ"]
+5153f682-9e2d-445a-8a33-f31048f8f6aa -> 2021-01-31 15:54:51.804506:message:mDwn:mRegular:GET:urlList = []
+5153f682-9e2d-445a-8a33-f31048f8f6aa -> 0.013634:message:mDwn:mRegular:SUCCESS:lot = 0
+5153f682-9e2d-445a-8a33-f31048f8f6aa -> 2021-01-31 15:54:51.829002:message:mDwn:mRegular:GET:urlList = []
+5153f682-9e2d-445a-8a33-f31048f8f6aa -> 0.013222:message:mDwn:mRegular:SUCCESS:lot = 0
+5153f682-9e2d-445a-8a33-f31048f8f6aa -> 0.980804:message:nseUpd:updFins:SUCCESS:upd = false
+fcdc355b-564c-488d-b9da-b6973215c0cc -> 2021-01-31 15:55:08.074138:message:nseUpd:updFins:GET:upd = false
+fcdc355b-564c-488d-b9da-b6973215c0cc -> 2021-01-31 15:55:08.087032:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+fcdc355b-564c-488d-b9da-b6973215c0cc -> 0.171704:message:nseUpd:updHolidays:SUCCESS:upd = false
+fcdc355b-564c-488d-b9da-b6973215c0cc -> 2021-01-31 15:55:08.271341:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+fcdc355b-564c-488d-b9da-b6973215c0cc -> 2021-01-31 15:55:08.271341:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 0
+fcdc355b-564c-488d-b9da-b6973215c0cc -> 2021-01-31 15:55:08.491449:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+fcdc355b-564c-488d-b9da-b6973215c0cc -> 2021-01-31 15:55:08.491449:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 0
+fcdc355b-564c-488d-b9da-b6973215c0cc -> 2021-01-31 15:55:08.865533:message:nse:getFinData:GET:reqList = [], allowedSegs = ["EQ"]
+fcdc355b-564c-488d-b9da-b6973215c0cc -> 2021-01-31 15:55:08.880863:message:mDwn:mRegular:GET:urlList = []
+fcdc355b-564c-488d-b9da-b6973215c0cc -> 0.014097:message:mDwn:mRegular:SUCCESS:lot = 0
+fcdc355b-564c-488d-b9da-b6973215c0cc -> 2021-01-31 15:55:08.904900:message:mDwn:mRegular:GET:urlList = []
+fcdc355b-564c-488d-b9da-b6973215c0cc -> 0.012328:message:mDwn:mRegular:SUCCESS:lot = 0
+fcdc355b-564c-488d-b9da-b6973215c0cc -> 0.989041:message:nseUpd:updFins:SUCCESS:upd = false
+e02bb45c-7e6a-4ded-803f-85093732b937 -> 2021-01-31 15:55:28.196411:message:nseUpd:updFins:GET:upd = false
+e02bb45c-7e6a-4ded-803f-85093732b937 -> 2021-01-31 15:55:28.209668:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+e02bb45c-7e6a-4ded-803f-85093732b937 -> 0.175893:message:nseUpd:updHolidays:SUCCESS:upd = false
+e02bb45c-7e6a-4ded-803f-85093732b937 -> 2021-01-31 15:55:28.396466:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+da149b8b-5d82-4916-a075-654d04582b03 -> 2021-01-31 15:55:44.086469:message:nseUpd:updFins:GET:upd = false
+da149b8b-5d82-4916-a075-654d04582b03 -> 2021-01-31 15:55:44.099235:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+da149b8b-5d82-4916-a075-654d04582b03 -> 0.173676:message:nseUpd:updHolidays:SUCCESS:upd = false
+da149b8b-5d82-4916-a075-654d04582b03 -> 2021-01-31 15:55:44.284999:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+da149b8b-5d82-4916-a075-654d04582b03 -> 2021-01-31 15:55:44.284999:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 0
+da149b8b-5d82-4916-a075-654d04582b03 -> 2021-01-31 15:55:44.503774:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+da149b8b-5d82-4916-a075-654d04582b03 -> 2021-01-31 15:55:44.503774:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 0
+da149b8b-5d82-4916-a075-654d04582b03 -> 2021-01-31 15:55:44.870485:message:nse:getFinData:GET:reqList = [], allowedSegs = ["EQ"]
+da149b8b-5d82-4916-a075-654d04582b03 -> 2021-01-31 15:55:44.886120:message:mDwn:mRegular:GET:urlList = []
+da149b8b-5d82-4916-a075-654d04582b03 -> 0.014043:message:mDwn:mRegular:SUCCESS:lot = 0
+da149b8b-5d82-4916-a075-654d04582b03 -> 2021-01-31 15:55:44.910593:message:mDwn:mRegular:GET:urlList = []
+da149b8b-5d82-4916-a075-654d04582b03 -> 0.013491:message:mDwn:mRegular:SUCCESS:lot = 0
+da149b8b-5d82-4916-a075-654d04582b03 -> 0.983511:message:nseUpd:updFins:SUCCESS:upd = false
+dbf62449-6e9d-46a2-b990-9e9cd655ca0f -> 2021-01-31 15:56:10.484125:message:nseUpd:updFins:GET:upd = false
+dbf62449-6e9d-46a2-b990-9e9cd655ca0f -> 2021-01-31 15:56:10.493958:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+dbf62449-6e9d-46a2-b990-9e9cd655ca0f -> 0.170017:message:nseUpd:updHolidays:SUCCESS:upd = false
+dbf62449-6e9d-46a2-b990-9e9cd655ca0f -> 2021-01-31 15:56:10.675146:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+dbf62449-6e9d-46a2-b990-9e9cd655ca0f -> 2021-01-31 15:56:10.675146:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 0
+dbf62449-6e9d-46a2-b990-9e9cd655ca0f -> 2021-01-31 15:56:10.885254:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+dbf62449-6e9d-46a2-b990-9e9cd655ca0f -> 2021-01-31 15:56:10.885254:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 0
+dbf62449-6e9d-46a2-b990-9e9cd655ca0f -> 2021-01-31 15:56:11.248856:message:nse:getFinData:GET:reqList = [], allowedSegs = ["EQ"]
+dbf62449-6e9d-46a2-b990-9e9cd655ca0f -> 2021-01-31 15:56:11.262224:message:mDwn:mRegular:GET:urlList = []
+dbf62449-6e9d-46a2-b990-9e9cd655ca0f -> 0.014907:message:mDwn:mRegular:SUCCESS:lot = 0
+dbf62449-6e9d-46a2-b990-9e9cd655ca0f -> 2021-01-31 15:56:11.287035:message:mDwn:mRegular:GET:urlList = []
+dbf62449-6e9d-46a2-b990-9e9cd655ca0f -> 0.012141:message:mDwn:mRegular:SUCCESS:lot = 0
+dbf62449-6e9d-46a2-b990-9e9cd655ca0f -> 0.961886:message:nseUpd:updFins:SUCCESS:upd = false
+f2014e1f-7c4d-43a0-9d98-19ad47866d7b -> 2021-01-31 15:57:13.451316:message:nseUpd:updFins:GET:upd = false
+f2014e1f-7c4d-43a0-9d98-19ad47866d7b -> 2021-01-31 15:57:13.464188:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+f2014e1f-7c4d-43a0-9d98-19ad47866d7b -> 0.178805:message:nseUpd:updHolidays:SUCCESS:upd = false
+f2014e1f-7c4d-43a0-9d98-19ad47866d7b -> 2021-01-31 15:57:13.658123:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+f2014e1f-7c4d-43a0-9d98-19ad47866d7b -> 2021-01-31 15:57:13.658123:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+f2014e1f-7c4d-43a0-9d98-19ad47866d7b -> 2021-01-31 15:57:13.892956:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+f2014e1f-7c4d-43a0-9d98-19ad47866d7b -> 2021-01-31 15:57:13.892956:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+f2014e1f-7c4d-43a0-9d98-19ad47866d7b -> 2021-01-31 15:57:14.281282:message:nse:getFinData:GET:reqList = [], allowedSegs = ["EQ"]
+f2014e1f-7c4d-43a0-9d98-19ad47866d7b -> 2021-01-31 15:57:14.298543:message:mDwn:mRegular:GET:urlList = []
+f2014e1f-7c4d-43a0-9d98-19ad47866d7b -> 0.015223:message:mDwn:mRegular:SUCCESS:lot = 0
+f2014e1f-7c4d-43a0-9d98-19ad47866d7b -> 2021-01-31 15:57:14.325310:message:mDwn:mRegular:GET:urlList = []
+f2014e1f-7c4d-43a0-9d98-19ad47866d7b -> 0.012617:message:mDwn:mRegular:SUCCESS:lot = 0
+f2014e1f-7c4d-43a0-9d98-19ad47866d7b -> 1.033922:message:nseUpd:updFins:SUCCESS:upd = false
+e22406e4-0a84-4dd7-b442-d22844c44c7b -> 2021-01-31 15:57:57.802350:message:nseUpd:updFins:GET:upd = false
+e22406e4-0a84-4dd7-b442-d22844c44c7b -> 2021-01-31 15:57:57.809584:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+e22406e4-0a84-4dd7-b442-d22844c44c7b -> 0.158977:message:nseUpd:updHolidays:SUCCESS:upd = false
+e22406e4-0a84-4dd7-b442-d22844c44c7b -> 2021-01-31 15:57:57.975624:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+e22406e4-0a84-4dd7-b442-d22844c44c7b -> 2021-01-31 15:57:57.975624:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+e22406e4-0a84-4dd7-b442-d22844c44c7b -> 2021-01-31 15:57:58.152494:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+e22406e4-0a84-4dd7-b442-d22844c44c7b -> 2021-01-31 15:57:58.152494:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+e22406e4-0a84-4dd7-b442-d22844c44c7b -> 2021-01-31 15:57:58.470683:message:nse:getFinData:GET:reqList = [], allowedSegs = ["EQ"]
+e22406e4-0a84-4dd7-b442-d22844c44c7b -> 2021-01-31 15:57:58.479005:message:mDwn:mRegular:GET:urlList = []
+e22406e4-0a84-4dd7-b442-d22844c44c7b -> 0.009475:message:mDwn:mRegular:SUCCESS:lot = 0
+e22406e4-0a84-4dd7-b442-d22844c44c7b -> 2021-01-31 15:57:58.495472:message:mDwn:mRegular:GET:urlList = []
+e22406e4-0a84-4dd7-b442-d22844c44c7b -> 0.008329:message:mDwn:mRegular:SUCCESS:lot = 0
+e22406e4-0a84-4dd7-b442-d22844c44c7b -> 0.844555:message:nseUpd:updFins:SUCCESS:upd = false
+12c1f08f-4ce8-4190-b407-53fc6dec1329 -> 2021-01-31 15:58:24.813137:message:nseUpd:updFins:GET:upd = false
+12c1f08f-4ce8-4190-b407-53fc6dec1329 -> 2021-01-31 15:58:24.825281:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+12c1f08f-4ce8-4190-b407-53fc6dec1329 -> 0.17945:message:nseUpd:updHolidays:SUCCESS:upd = false
+12c1f08f-4ce8-4190-b407-53fc6dec1329 -> 2021-01-31 15:58:25.016937:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+12c1f08f-4ce8-4190-b407-53fc6dec1329 -> 2021-01-31 15:58:25.016937:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+12c1f08f-4ce8-4190-b407-53fc6dec1329 -> 2021-01-31 15:58:25.222139:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+12c1f08f-4ce8-4190-b407-53fc6dec1329 -> 2021-01-31 15:58:25.222139:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+12c1f08f-4ce8-4190-b407-53fc6dec1329 -> 2021-01-31 15:58:25.600502:message:nse:getFinData:GET:reqList = [], allowedSegs = ["EQ"]
+12c1f08f-4ce8-4190-b407-53fc6dec1329 -> 2021-01-31 15:58:25.616371:message:mDwn:mRegular:GET:urlList = []
+12c1f08f-4ce8-4190-b407-53fc6dec1329 -> 0.013481:message:mDwn:mRegular:SUCCESS:lot = 0
+12c1f08f-4ce8-4190-b407-53fc6dec1329 -> 2021-01-31 15:58:25.640700:message:mDwn:mRegular:GET:urlList = []
+12c1f08f-4ce8-4190-b407-53fc6dec1329 -> 0.010958:message:mDwn:mRegular:SUCCESS:lot = 0
+12c1f08f-4ce8-4190-b407-53fc6dec1329 -> 0.985982:message:nseUpd:updFins:SUCCESS:upd = false
+1736e5da-b3c0-4486-a3dd-a551d1e3e7ee -> 2021-01-31 15:59:00.491001:message:nseUpd:updFins:GET:upd = false
+1736e5da-b3c0-4486-a3dd-a551d1e3e7ee -> 2021-01-31 15:59:00.503120:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+1736e5da-b3c0-4486-a3dd-a551d1e3e7ee -> 0.177602:message:nseUpd:updHolidays:SUCCESS:upd = false
+1736e5da-b3c0-4486-a3dd-a551d1e3e7ee -> 2021-01-31 15:59:00.694148:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+1736e5da-b3c0-4486-a3dd-a551d1e3e7ee -> 2021-01-31 15:59:00.694148:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+1736e5da-b3c0-4486-a3dd-a551d1e3e7ee -> 2021-01-31 15:59:00.907133:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+1736e5da-b3c0-4486-a3dd-a551d1e3e7ee -> 2021-01-31 15:59:00.907133:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+1736e5da-b3c0-4486-a3dd-a551d1e3e7ee -> 2021-01-31 15:59:01.317974:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = ["EQ"]
+1736e5da-b3c0-4486-a3dd-a551d1e3e7ee -> 2021-01-31 15:59:01.336542:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+1736e5da-b3c0-4486-a3dd-a551d1e3e7ee -> 2021-01-31 15:59:01.357680:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+1736e5da-b3c0-4486-a3dd-a551d1e3e7ee -> 6.691749:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+1736e5da-b3c0-4486-a3dd-a551d1e3e7ee -> 6.900544:message:mDwn:mRegular:SUCCESS:lot = 1
+1736e5da-b3c0-4486-a3dd-a551d1e3e7ee -> 2021-01-31 15:59:08.256464:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+1736e5da-b3c0-4486-a3dd-a551d1e3e7ee -> 2021-01-31 15:59:08.286711:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+1736e5da-b3c0-4486-a3dd-a551d1e3e7ee -> 1.395221:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+1736e5da-b3c0-4486-a3dd-a551d1e3e7ee -> 1.614846:message:mDwn:mRegular:SUCCESS:lot = 1
+7d759246-06e3-44dc-8641-1d935d4dd6a7 -> 2021-01-31 16:00:19.874425:message:nseUpd:updFins:GET:upd = false
+7d759246-06e3-44dc-8641-1d935d4dd6a7 -> 2021-01-31 16:00:19.882545:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+7d759246-06e3-44dc-8641-1d935d4dd6a7 -> 0.159184:message:nseUpd:updHolidays:SUCCESS:upd = false
+7d759246-06e3-44dc-8641-1d935d4dd6a7 -> 2021-01-31 16:00:20.048872:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+7d759246-06e3-44dc-8641-1d935d4dd6a7 -> 2021-01-31 16:00:20.048872:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+7d759246-06e3-44dc-8641-1d935d4dd6a7 -> 2021-01-31 16:00:20.227739:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+7d759246-06e3-44dc-8641-1d935d4dd6a7 -> 2021-01-31 16:00:20.227739:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+7d759246-06e3-44dc-8641-1d935d4dd6a7 -> 2021-01-31 16:00:20.575215:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = ["EQ"]
+7d759246-06e3-44dc-8641-1d935d4dd6a7 -> 2021-01-31 16:00:20.583034:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+7d759246-06e3-44dc-8641-1d935d4dd6a7 -> 2021-01-31 16:00:20.593720:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+7d759246-06e3-44dc-8641-1d935d4dd6a7 -> 4.218315:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+7d759246-06e3-44dc-8641-1d935d4dd6a7 -> 4.432023:message:mDwn:mRegular:SUCCESS:lot = 1
+7d759246-06e3-44dc-8641-1d935d4dd6a7 -> 2021-01-31 16:00:25.033406:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+7d759246-06e3-44dc-8641-1d935d4dd6a7 -> 2021-01-31 16:00:25.073514:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+7d759246-06e3-44dc-8641-1d935d4dd6a7 -> 5.10913:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+7d759246-06e3-44dc-8641-1d935d4dd6a7 -> 5.30488:message:mDwn:mRegular:SUCCESS:lot = 1
+a258adb6-91a4-42ac-8f3b-5bbe7fe731b7 -> 2021-01-31 16:01:00.377963:message:nseUpd:updFins:GET:upd = false
+a258adb6-91a4-42ac-8f3b-5bbe7fe731b7 -> 2021-01-31 16:01:00.390515:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+a258adb6-91a4-42ac-8f3b-5bbe7fe731b7 -> 0.180683:message:nseUpd:updHolidays:SUCCESS:upd = false
+a258adb6-91a4-42ac-8f3b-5bbe7fe731b7 -> 2021-01-31 16:01:00.584797:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+a258adb6-91a4-42ac-8f3b-5bbe7fe731b7 -> 2021-01-31 16:01:00.584797:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+a258adb6-91a4-42ac-8f3b-5bbe7fe731b7 -> 2021-01-31 16:01:00.796706:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+a258adb6-91a4-42ac-8f3b-5bbe7fe731b7 -> 2021-01-31 16:01:00.796706:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+a258adb6-91a4-42ac-8f3b-5bbe7fe731b7 -> 2021-01-31 16:01:01.199864:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = ["EQ"]
+a258adb6-91a4-42ac-8f3b-5bbe7fe731b7 -> 2021-01-31 16:01:01.215238:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+a258adb6-91a4-42ac-8f3b-5bbe7fe731b7 -> 2021-01-31 16:01:01.234405:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+a258adb6-91a4-42ac-8f3b-5bbe7fe731b7 -> 2.221383:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+a258adb6-91a4-42ac-8f3b-5bbe7fe731b7 -> 2.397297:message:mDwn:mRegular:SUCCESS:lot = 1
+a258adb6-91a4-42ac-8f3b-5bbe7fe731b7 -> 2021-01-31 16:01:03.648346:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+a258adb6-91a4-42ac-8f3b-5bbe7fe731b7 -> 2021-01-31 16:01:03.692885:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+a258adb6-91a4-42ac-8f3b-5bbe7fe731b7 -> 1.702249:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+a258adb6-91a4-42ac-8f3b-5bbe7fe731b7 -> 1.883303:message:mDwn:mRegular:SUCCESS:lot = 1
+dcb27d53-ac02-4a53-938b-8564a678bd3b -> 2021-01-31 16:03:03.932110:message:nseUpd:updFins:GET:upd = false
+dcb27d53-ac02-4a53-938b-8564a678bd3b -> 2021-01-31 16:03:03.942742:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+dcb27d53-ac02-4a53-938b-8564a678bd3b -> 0.173957:message:nseUpd:updHolidays:SUCCESS:upd = false
+dcb27d53-ac02-4a53-938b-8564a678bd3b -> 2021-01-31 16:03:04.128369:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+dcb27d53-ac02-4a53-938b-8564a678bd3b -> 2021-01-31 16:03:04.128369:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+dcb27d53-ac02-4a53-938b-8564a678bd3b -> 2021-01-31 16:03:04.336376:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+dcb27d53-ac02-4a53-938b-8564a678bd3b -> 2021-01-31 16:03:04.336376:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+dcb27d53-ac02-4a53-938b-8564a678bd3b -> 2021-01-31 16:03:04.732755:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = ["EQ"]
+dcb27d53-ac02-4a53-938b-8564a678bd3b -> 2021-01-31 16:03:04.748578:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+dcb27d53-ac02-4a53-938b-8564a678bd3b -> 2021-01-31 16:03:04.767103:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+dcb27d53-ac02-4a53-938b-8564a678bd3b -> 15.088856:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+dcb27d53-ac02-4a53-938b-8564a678bd3b -> 15.319141:message:mDwn:mRegular:SUCCESS:lot = 1
+dcb27d53-ac02-4a53-938b-8564a678bd3b -> 2021-01-31 16:03:20.086849:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+dcb27d53-ac02-4a53-938b-8564a678bd3b -> 2021-01-31 16:03:20.137569:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+dcb27d53-ac02-4a53-938b-8564a678bd3b -> 1.765932:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+dcb27d53-ac02-4a53-938b-8564a678bd3b -> 1.956342:message:mDwn:mRegular:SUCCESS:lot = 1
+21833285-1267-4d0c-9fe3-adf6678e73fb -> 2021-01-31 16:04:07.793989:message:nseUpd:updFins:GET:upd = false
+21833285-1267-4d0c-9fe3-adf6678e73fb -> 2021-01-31 16:04:07.804529:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+21833285-1267-4d0c-9fe3-adf6678e73fb -> 0.172368:message:nseUpd:updHolidays:SUCCESS:upd = false
+21833285-1267-4d0c-9fe3-adf6678e73fb -> 2021-01-31 16:04:07.988418:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+21833285-1267-4d0c-9fe3-adf6678e73fb -> 2021-01-31 16:04:07.988418:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+21833285-1267-4d0c-9fe3-adf6678e73fb -> 2021-01-31 16:04:08.192311:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+21833285-1267-4d0c-9fe3-adf6678e73fb -> 2021-01-31 16:04:08.192311:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+21833285-1267-4d0c-9fe3-adf6678e73fb -> 2021-01-31 16:04:08.595618:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = ["EQ"]
+21833285-1267-4d0c-9fe3-adf6678e73fb -> 2021-01-31 16:04:08.611243:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+21833285-1267-4d0c-9fe3-adf6678e73fb -> 2021-01-31 16:04:08.630319:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+21833285-1267-4d0c-9fe3-adf6678e73fb -> 1.581091:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+21833285-1267-4d0c-9fe3-adf6678e73fb -> 1.745149:message:mDwn:mRegular:SUCCESS:lot = 1
+21833285-1267-4d0c-9fe3-adf6678e73fb -> 2021-01-31 16:04:10.374806:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+21833285-1267-4d0c-9fe3-adf6678e73fb -> 2021-01-31 16:04:10.414292:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+21833285-1267-4d0c-9fe3-adf6678e73fb -> 1.783619:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+21833285-1267-4d0c-9fe3-adf6678e73fb -> 1.992057:message:mDwn:mRegular:SUCCESS:lot = 1
+fccbff7b-4e54-4807-aaa4-8571ab0e6469 -> 2021-01-31 16:04:29.102655:message:nseUpd:updFins:GET:upd = false
+fccbff7b-4e54-4807-aaa4-8571ab0e6469 -> 2021-01-31 16:04:29.112956:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+fccbff7b-4e54-4807-aaa4-8571ab0e6469 -> 0.168893:message:nseUpd:updHolidays:SUCCESS:upd = false
+fccbff7b-4e54-4807-aaa4-8571ab0e6469 -> 2021-01-31 16:04:29.292539:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+fccbff7b-4e54-4807-aaa4-8571ab0e6469 -> 2021-01-31 16:04:29.292539:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+fccbff7b-4e54-4807-aaa4-8571ab0e6469 -> 2021-01-31 16:04:29.490526:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+fccbff7b-4e54-4807-aaa4-8571ab0e6469 -> 2021-01-31 16:04:29.490526:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+fccbff7b-4e54-4807-aaa4-8571ab0e6469 -> 2021-01-31 16:04:29.922379:message:nse:getFinData:GET:reqList = [], allowedSegs = ["EQ"]
+fccbff7b-4e54-4807-aaa4-8571ab0e6469 -> 2021-01-31 16:04:29.936436:message:mDwn:mRegular:GET:urlList = []
+fccbff7b-4e54-4807-aaa4-8571ab0e6469 -> 0.013215:message:mDwn:mRegular:SUCCESS:lot = 0
+fccbff7b-4e54-4807-aaa4-8571ab0e6469 -> 2021-01-31 16:04:29.959635:message:mDwn:mRegular:GET:urlList = []
+fccbff7b-4e54-4807-aaa4-8571ab0e6469 -> 0.011403:message:mDwn:mRegular:SUCCESS:lot = 0
+fccbff7b-4e54-4807-aaa4-8571ab0e6469 -> 1.015329:message:nseUpd:updFins:SUCCESS:upd = false
+a2aa2cf1-6276-48fb-a0fd-acd7b50eeaa8 -> 2021-01-31 16:04:51.624276:message:nseUpd:updFins:GET:upd = false
+a2aa2cf1-6276-48fb-a0fd-acd7b50eeaa8 -> 2021-01-31 16:04:51.635462:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+a2aa2cf1-6276-48fb-a0fd-acd7b50eeaa8 -> 0.169307:message:nseUpd:updHolidays:SUCCESS:upd = false
+a2aa2cf1-6276-48fb-a0fd-acd7b50eeaa8 -> 2021-01-31 16:04:51.815398:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+a2aa2cf1-6276-48fb-a0fd-acd7b50eeaa8 -> 2021-01-31 16:04:51.815398:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+a2aa2cf1-6276-48fb-a0fd-acd7b50eeaa8 -> 2021-01-31 16:04:52.013568:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+a2aa2cf1-6276-48fb-a0fd-acd7b50eeaa8 -> 2021-01-31 16:04:52.013568:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+a2aa2cf1-6276-48fb-a0fd-acd7b50eeaa8 -> 2021-01-31 16:04:52.472763:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = ["EQ"]
+a2aa2cf1-6276-48fb-a0fd-acd7b50eeaa8 -> 2021-01-31 16:04:52.488014:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+a2aa2cf1-6276-48fb-a0fd-acd7b50eeaa8 -> 2021-01-31 16:04:52.507324:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+a2aa2cf1-6276-48fb-a0fd-acd7b50eeaa8 -> 1.321471:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+a2aa2cf1-6276-48fb-a0fd-acd7b50eeaa8 -> 1.490261:message:mDwn:mRegular:SUCCESS:lot = 1
+a2aa2cf1-6276-48fb-a0fd-acd7b50eeaa8 -> 2021-01-31 16:04:53.993899:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+a2aa2cf1-6276-48fb-a0fd-acd7b50eeaa8 -> 2021-01-31 16:04:54.024178:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+a2aa2cf1-6276-48fb-a0fd-acd7b50eeaa8 -> 1.158518:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+a2aa2cf1-6276-48fb-a0fd-acd7b50eeaa8 -> 1.325028:message:mDwn:mRegular:SUCCESS:lot = 1
+bbac3250-87b1-4925-acdf-0d1e77cceba5 -> 2021-01-31 16:06:40.898620:message:nseUpd:updFins:GET:upd = false
+bbac3250-87b1-4925-acdf-0d1e77cceba5 -> 2021-01-31 16:06:40.909714:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+bbac3250-87b1-4925-acdf-0d1e77cceba5 -> 0.182289:message:nseUpd:updHolidays:SUCCESS:upd = false
+bbac3250-87b1-4925-acdf-0d1e77cceba5 -> 2021-01-31 16:06:41.103971:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+bbac3250-87b1-4925-acdf-0d1e77cceba5 -> 2021-01-31 16:06:41.103971:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+bbac3250-87b1-4925-acdf-0d1e77cceba5 -> 2021-01-31 16:06:41.313387:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+bbac3250-87b1-4925-acdf-0d1e77cceba5 -> 2021-01-31 16:06:41.313387:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+bbac3250-87b1-4925-acdf-0d1e77cceba5 -> 2021-01-31 16:06:41.818724:message:nse:getFinData:GET:reqList = [], allowedSegs = ["EQ"]
+bbac3250-87b1-4925-acdf-0d1e77cceba5 -> 2021-01-31 16:06:41.836584:message:mDwn:mRegular:GET:urlList = []
+bbac3250-87b1-4925-acdf-0d1e77cceba5 -> 0.013484:message:mDwn:mRegular:SUCCESS:lot = 0
+bbac3250-87b1-4925-acdf-0d1e77cceba5 -> 2021-01-31 16:06:41.860004:message:mDwn:mRegular:GET:urlList = []
+bbac3250-87b1-4925-acdf-0d1e77cceba5 -> 0.012477:message:mDwn:mRegular:SUCCESS:lot = 0
+bbac3250-87b1-4925-acdf-0d1e77cceba5 -> 1.12409:message:nseUpd:updFins:SUCCESS:upd = false
+459fbd67-4ce2-4ad4-9894-b319acb6c4a8 -> 2021-01-31 16:06:49.604312:message:nseUpd:updFins:GET:upd = false
+459fbd67-4ce2-4ad4-9894-b319acb6c4a8 -> 2021-01-31 16:06:49.617051:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+459fbd67-4ce2-4ad4-9894-b319acb6c4a8 -> 0.182128:message:nseUpd:updHolidays:SUCCESS:upd = false
+459fbd67-4ce2-4ad4-9894-b319acb6c4a8 -> 2021-01-31 16:06:49.812545:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+459fbd67-4ce2-4ad4-9894-b319acb6c4a8 -> 2021-01-31 16:06:49.812545:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+459fbd67-4ce2-4ad4-9894-b319acb6c4a8 -> 2021-01-31 16:06:50.023015:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+459fbd67-4ce2-4ad4-9894-b319acb6c4a8 -> 2021-01-31 16:06:50.023015:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+459fbd67-4ce2-4ad4-9894-b319acb6c4a8 -> 2021-01-31 16:06:50.425293:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = ["EQ"]
+459fbd67-4ce2-4ad4-9894-b319acb6c4a8 -> 2021-01-31 16:06:50.442473:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+459fbd67-4ce2-4ad4-9894-b319acb6c4a8 -> 2021-01-31 16:06:50.468928:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+459fbd67-4ce2-4ad4-9894-b319acb6c4a8 -> 2.54653:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+459fbd67-4ce2-4ad4-9894-b319acb6c4a8 -> 2.775873:message:mDwn:mRegular:SUCCESS:lot = 1
+459fbd67-4ce2-4ad4-9894-b319acb6c4a8 -> 2021-01-31 16:06:53.230931:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+459fbd67-4ce2-4ad4-9894-b319acb6c4a8 -> 2021-01-31 16:06:53.257366:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+459fbd67-4ce2-4ad4-9894-b319acb6c4a8 -> 1.498208:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+459fbd67-4ce2-4ad4-9894-b319acb6c4a8 -> 1.712417:message:mDwn:mRegular:SUCCESS:lot = 1
+99d2b465-1c9e-453b-a897-3ef7ffcca528 -> 2021-01-31 16:07:58.646625:message:nseUpd:updFins:GET:upd = false
+99d2b465-1c9e-453b-a897-3ef7ffcca528 -> 2021-01-31 16:07:58.659815:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+99d2b465-1c9e-453b-a897-3ef7ffcca528 -> 0.183871:message:nseUpd:updHolidays:SUCCESS:upd = false
+99d2b465-1c9e-453b-a897-3ef7ffcca528 -> 2021-01-31 16:07:58.857932:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+99d2b465-1c9e-453b-a897-3ef7ffcca528 -> 2021-01-31 16:07:58.857932:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+99d2b465-1c9e-453b-a897-3ef7ffcca528 -> 2021-01-31 16:07:59.069552:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+99d2b465-1c9e-453b-a897-3ef7ffcca528 -> 2021-01-31 16:07:59.069552:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+99d2b465-1c9e-453b-a897-3ef7ffcca528 -> 2021-01-31 16:07:59.533738:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = ["EQ"]
+99d2b465-1c9e-453b-a897-3ef7ffcca528 -> 2021-01-31 16:07:59.557779:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+99d2b465-1c9e-453b-a897-3ef7ffcca528 -> 2021-01-31 16:07:59.583268:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+99d2b465-1c9e-453b-a897-3ef7ffcca528 -> 1.796698:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+99d2b465-1c9e-453b-a897-3ef7ffcca528 -> 2.002067:message:mDwn:mRegular:SUCCESS:lot = 1
+99d2b465-1c9e-453b-a897-3ef7ffcca528 -> 2021-01-31 16:08:01.588827:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+99d2b465-1c9e-453b-a897-3ef7ffcca528 -> 2021-01-31 16:08:01.623492:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+99d2b465-1c9e-453b-a897-3ef7ffcca528 -> 1.512403:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+99d2b465-1c9e-453b-a897-3ef7ffcca528 -> 1.720118:message:mDwn:mRegular:SUCCESS:lot = 1
+2340d8a6-041c-4efe-94a7-cb08b9a646f8 -> 2021-01-31 16:08:39.730713:message:nseUpd:updFins:GET:upd = false
+2340d8a6-041c-4efe-94a7-cb08b9a646f8 -> 2021-01-31 16:08:39.743959:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+2340d8a6-041c-4efe-94a7-cb08b9a646f8 -> 0.183889:message:nseUpd:updHolidays:SUCCESS:upd = false
+2340d8a6-041c-4efe-94a7-cb08b9a646f8 -> 2021-01-31 16:08:39.941639:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+2340d8a6-041c-4efe-94a7-cb08b9a646f8 -> 2021-01-31 16:08:39.941639:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+2340d8a6-041c-4efe-94a7-cb08b9a646f8 -> 2021-01-31 16:08:40.156479:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+2340d8a6-041c-4efe-94a7-cb08b9a646f8 -> 2021-01-31 16:08:40.156479:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+2340d8a6-041c-4efe-94a7-cb08b9a646f8 -> 2021-01-31 16:08:40.551075:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = ["EQ"]
+2340d8a6-041c-4efe-94a7-cb08b9a646f8 -> 2021-01-31 16:08:40.566591:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+2340d8a6-041c-4efe-94a7-cb08b9a646f8 -> 2021-01-31 16:08:40.590649:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+2340d8a6-041c-4efe-94a7-cb08b9a646f8 -> 1.420317:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+2340d8a6-041c-4efe-94a7-cb08b9a646f8 -> 1.599323:message:mDwn:mRegular:SUCCESS:lot = 1
+2340d8a6-041c-4efe-94a7-cb08b9a646f8 -> 2021-01-31 16:08:42.186561:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+2340d8a6-041c-4efe-94a7-cb08b9a646f8 -> 2021-01-31 16:08:42.220453:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+2340d8a6-041c-4efe-94a7-cb08b9a646f8 -> 1.058461:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+2340d8a6-041c-4efe-94a7-cb08b9a646f8 -> 1.226089:message:mDwn:mRegular:SUCCESS:lot = 1
+97dcbb16-41f7-4694-a58c-0419de086442 -> 2021-01-31 16:09:54.383868:message:nseUpd:updFins:GET:upd = false
+97dcbb16-41f7-4694-a58c-0419de086442 -> 2021-01-31 16:09:54.396934:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+97dcbb16-41f7-4694-a58c-0419de086442 -> 0.177073:message:nseUpd:updHolidays:SUCCESS:upd = false
+97dcbb16-41f7-4694-a58c-0419de086442 -> 2021-01-31 16:09:54.586349:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+97dcbb16-41f7-4694-a58c-0419de086442 -> 2021-01-31 16:09:54.586349:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+97dcbb16-41f7-4694-a58c-0419de086442 -> 2021-01-31 16:09:54.794652:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+97dcbb16-41f7-4694-a58c-0419de086442 -> 2021-01-31 16:09:54.794652:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+97dcbb16-41f7-4694-a58c-0419de086442 -> 2021-01-31 16:09:55.181210:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = ["EQ"]
+97dcbb16-41f7-4694-a58c-0419de086442 -> 2021-01-31 16:09:55.198585:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+97dcbb16-41f7-4694-a58c-0419de086442 -> 2021-01-31 16:09:55.221692:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+97dcbb16-41f7-4694-a58c-0419de086442 -> 1.804741:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+97dcbb16-41f7-4694-a58c-0419de086442 -> 2.009521:message:mDwn:mRegular:SUCCESS:lot = 1
+97dcbb16-41f7-4694-a58c-0419de086442 -> 2021-01-31 16:09:57.230486:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+97dcbb16-41f7-4694-a58c-0419de086442 -> 2021-01-31 16:09:57.257266:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+97dcbb16-41f7-4694-a58c-0419de086442 -> 1.444641:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+97dcbb16-41f7-4694-a58c-0419de086442 -> 1.606483:message:mDwn:mRegular:SUCCESS:lot = 1
+97dcbb16-41f7-4694-a58c-0419de086442 -> 4.913266:message:nseUpd:updFins:SUCCESS:upd = false
+2e1d1a2e-1b70-4791-bdf4-138e43292417 -> 2021-01-31 16:10:53.846272:message:nseUpd:updFins:GET:upd = false
+2e1d1a2e-1b70-4791-bdf4-138e43292417 -> 2021-01-31 16:10:53.860078:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+2e1d1a2e-1b70-4791-bdf4-138e43292417 -> 0.182477:message:nseUpd:updHolidays:SUCCESS:upd = false
+2e1d1a2e-1b70-4791-bdf4-138e43292417 -> 2021-01-31 16:10:54.055595:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+2e1d1a2e-1b70-4791-bdf4-138e43292417 -> 2021-01-31 16:10:54.055595:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+2e1d1a2e-1b70-4791-bdf4-138e43292417 -> 2021-01-31 16:10:54.273100:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+2e1d1a2e-1b70-4791-bdf4-138e43292417 -> 2021-01-31 16:10:54.273100:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+2e1d1a2e-1b70-4791-bdf4-138e43292417 -> 2021-01-31 16:10:54.739844:message:nse:getFinData:GET:reqList = [], allowedSegs = ["EQ"]
+2e1d1a2e-1b70-4791-bdf4-138e43292417 -> 2021-01-31 16:10:54.757189:message:mDwn:mRegular:GET:urlList = []
+2e1d1a2e-1b70-4791-bdf4-138e43292417 -> 0.014633:message:mDwn:mRegular:SUCCESS:lot = 0
+2e1d1a2e-1b70-4791-bdf4-138e43292417 -> 2021-01-31 16:10:54.782400:message:mDwn:mRegular:GET:urlList = []
+2e1d1a2e-1b70-4791-bdf4-138e43292417 -> 0.012768:message:mDwn:mRegular:SUCCESS:lot = 0
+2e1d1a2e-1b70-4791-bdf4-138e43292417 -> 1.097056:message:nseUpd:updFins:SUCCESS:upd = false
+bb54e40b-dd1b-46bb-a7a9-28b976b18ee8 -> 2021-01-31 16:11:13.708643:message:nseUpd:updFins:GET:upd = false
+bb54e40b-dd1b-46bb-a7a9-28b976b18ee8 -> 2021-01-31 16:11:13.719572:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+bb54e40b-dd1b-46bb-a7a9-28b976b18ee8 -> 0.178035:message:nseUpd:updHolidays:SUCCESS:upd = false
+bb54e40b-dd1b-46bb-a7a9-28b976b18ee8 -> 2021-01-31 16:11:13.909498:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+bb54e40b-dd1b-46bb-a7a9-28b976b18ee8 -> 2021-01-31 16:11:13.909498:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+bb54e40b-dd1b-46bb-a7a9-28b976b18ee8 -> 2021-01-31 16:11:14.120541:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+bb54e40b-dd1b-46bb-a7a9-28b976b18ee8 -> 2021-01-31 16:11:14.120541:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+bb54e40b-dd1b-46bb-a7a9-28b976b18ee8 -> 2021-01-31 16:11:14.510915:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = ["EQ"]
+bb54e40b-dd1b-46bb-a7a9-28b976b18ee8 -> 2021-01-31 16:11:14.527688:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+bb54e40b-dd1b-46bb-a7a9-28b976b18ee8 -> 2021-01-31 16:11:14.552360:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+bb54e40b-dd1b-46bb-a7a9-28b976b18ee8 -> 2.735038:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+bb54e40b-dd1b-46bb-a7a9-28b976b18ee8 -> 2.926488:message:mDwn:mRegular:SUCCESS:lot = 1
+bb54e40b-dd1b-46bb-a7a9-28b976b18ee8 -> 2021-01-31 16:11:17.476688:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+bb54e40b-dd1b-46bb-a7a9-28b976b18ee8 -> 2021-01-31 16:11:17.512768:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+bb54e40b-dd1b-46bb-a7a9-28b976b18ee8 -> 1.491828:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+bb54e40b-dd1b-46bb-a7a9-28b976b18ee8 -> 1.669575:message:mDwn:mRegular:SUCCESS:lot = 1
+bb54e40b-dd1b-46bb-a7a9-28b976b18ee8 -> 5.914222:message:nseUpd:updFins:SUCCESS:upd = false
+c5b0e9f5-df3e-4e28-80b5-170accb7037d -> 2021-01-31 19:38:38.701377:message:nseUpd:updFins:GET:upd = false
+c5b0e9f5-df3e-4e28-80b5-170accb7037d -> 2021-01-31 19:38:38.711955:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+c5b0e9f5-df3e-4e28-80b5-170accb7037d -> 0.165866:message:nseUpd:updHolidays:SUCCESS:upd = false
+c5b0e9f5-df3e-4e28-80b5-170accb7037d -> 2021-01-31 19:38:38.888795:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+c5b0e9f5-df3e-4e28-80b5-170accb7037d -> 2021-01-31 19:38:38.888795:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+c5b0e9f5-df3e-4e28-80b5-170accb7037d -> 2021-01-31 19:38:39.119277:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+c5b0e9f5-df3e-4e28-80b5-170accb7037d -> 2021-01-31 19:38:39.119277:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+c5b0e9f5-df3e-4e28-80b5-170accb7037d -> 2021-01-31 19:38:39.445692:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = ["EQ"]
+c5b0e9f5-df3e-4e28-80b5-170accb7037d -> 2021-01-31 19:38:39.453709:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+c5b0e9f5-df3e-4e28-80b5-170accb7037d -> 2021-01-31 19:38:39.465050:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+c5b0e9f5-df3e-4e28-80b5-170accb7037d -> 3.257792:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+c5b0e9f5-df3e-4e28-80b5-170accb7037d -> 3.439247:message:mDwn:mRegular:SUCCESS:lot = 1
+c5b0e9f5-df3e-4e28-80b5-170accb7037d -> 2021-01-31 19:38:42.909319:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+c5b0e9f5-df3e-4e28-80b5-170accb7037d -> 2021-01-31 19:38:42.952960:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+c5b0e9f5-df3e-4e28-80b5-170accb7037d -> 2.977926:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+c5b0e9f5-df3e-4e28-80b5-170accb7037d -> 3.18311:message:mDwn:mRegular:SUCCESS:lot = 1
+85afe105-95d7-4af1-97f7-407ad039bd43 -> 2021-01-31 19:44:57.049126:message:nseUpd:updFins:GET:upd = false
+85afe105-95d7-4af1-97f7-407ad039bd43 -> 2021-01-31 19:44:57.060248:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+85afe105-95d7-4af1-97f7-407ad039bd43 -> 0.182164:message:nseUpd:updHolidays:SUCCESS:upd = false
+85afe105-95d7-4af1-97f7-407ad039bd43 -> 2021-01-31 19:44:57.254092:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+85afe105-95d7-4af1-97f7-407ad039bd43 -> 2021-01-31 19:44:57.254092:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+85afe105-95d7-4af1-97f7-407ad039bd43 -> 2021-01-31 19:44:57.442368:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+85afe105-95d7-4af1-97f7-407ad039bd43 -> 2021-01-31 19:44:57.442368:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+85afe105-95d7-4af1-97f7-407ad039bd43 -> 2021-01-31 19:44:57.855738:message:nse:getFinData:GET:reqList = [], allowedSegs = ["EQ"]
+85afe105-95d7-4af1-97f7-407ad039bd43 -> 2021-01-31 19:44:57.872420:message:mDwn:mRegular:GET:urlList = []
+85afe105-95d7-4af1-97f7-407ad039bd43 -> 0.012535:message:mDwn:mRegular:SUCCESS:lot = 0
+85afe105-95d7-4af1-97f7-407ad039bd43 -> 2021-01-31 19:44:57.894418:message:mDwn:mRegular:GET:urlList = []
+85afe105-95d7-4af1-97f7-407ad039bd43 -> 0.011959:message:mDwn:mRegular:SUCCESS:lot = 0
+d2a04cd4-dd4b-4cb1-b2ee-aac146cf74d6 -> 2021-01-31 19:47:56.774577:message:nseUpd:updFins:GET:upd = false
+d2a04cd4-dd4b-4cb1-b2ee-aac146cf74d6 -> 2021-01-31 19:47:56.787511:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+d2a04cd4-dd4b-4cb1-b2ee-aac146cf74d6 -> 0.186281:message:nseUpd:updHolidays:SUCCESS:upd = false
+d2a04cd4-dd4b-4cb1-b2ee-aac146cf74d6 -> 2021-01-31 19:47:56.986540:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+d2a04cd4-dd4b-4cb1-b2ee-aac146cf74d6 -> 2021-01-31 19:47:56.986540:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+d2a04cd4-dd4b-4cb1-b2ee-aac146cf74d6 -> 2021-01-31 19:47:57.185358:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+d2a04cd4-dd4b-4cb1-b2ee-aac146cf74d6 -> 2021-01-31 19:47:57.185358:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+d2a04cd4-dd4b-4cb1-b2ee-aac146cf74d6 -> 2021-01-31 19:47:57.630203:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = ["EQ"]
+d2a04cd4-dd4b-4cb1-b2ee-aac146cf74d6 -> 2021-01-31 19:47:57.645003:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+d2a04cd4-dd4b-4cb1-b2ee-aac146cf74d6 -> 2021-01-31 19:47:57.665797:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+d2a04cd4-dd4b-4cb1-b2ee-aac146cf74d6 -> 1.510899:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+d2a04cd4-dd4b-4cb1-b2ee-aac146cf74d6 -> 1.704873:message:mDwn:mRegular:SUCCESS:lot = 1
+d2a04cd4-dd4b-4cb1-b2ee-aac146cf74d6 -> 2021-01-31 19:47:59.369557:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+d2a04cd4-dd4b-4cb1-b2ee-aac146cf74d6 -> 2021-01-31 19:47:59.396594:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+d2a04cd4-dd4b-4cb1-b2ee-aac146cf74d6 -> 1.457538:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+d2a04cd4-dd4b-4cb1-b2ee-aac146cf74d6 -> 1.623604:message:mDwn:mRegular:SUCCESS:lot = 1
+44643052-2bc2-466a-9339-b066bbc103da -> 2021-01-31 19:51:23.032556:message:nseUpd:updFins:GET:upd = false
+44643052-2bc2-466a-9339-b066bbc103da -> 2021-01-31 19:51:23.044110:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+44643052-2bc2-466a-9339-b066bbc103da -> 0.187711:message:nseUpd:updHolidays:SUCCESS:upd = false
+44643052-2bc2-466a-9339-b066bbc103da -> 2021-01-31 19:51:23.244023:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+44643052-2bc2-466a-9339-b066bbc103da -> 2021-01-31 19:51:23.244023:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+44643052-2bc2-466a-9339-b066bbc103da -> 2021-01-31 19:51:23.442665:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+44643052-2bc2-466a-9339-b066bbc103da -> 2021-01-31 19:51:23.442665:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+44643052-2bc2-466a-9339-b066bbc103da -> 2021-01-31 19:51:23.840722:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = ["EQ"]
+44643052-2bc2-466a-9339-b066bbc103da -> 2021-01-31 19:51:23.858171:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+44643052-2bc2-466a-9339-b066bbc103da -> 2021-01-31 19:51:23.884908:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+44643052-2bc2-466a-9339-b066bbc103da -> 1.996075:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+44643052-2bc2-466a-9339-b066bbc103da -> 2.218819:message:mDwn:mRegular:SUCCESS:lot = 1
+44643052-2bc2-466a-9339-b066bbc103da -> 2021-01-31 19:51:26.098551:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+44643052-2bc2-466a-9339-b066bbc103da -> 2021-01-31 19:51:26.148248:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+44643052-2bc2-466a-9339-b066bbc103da -> 2.757681:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+44643052-2bc2-466a-9339-b066bbc103da -> 2.969635:message:mDwn:mRegular:SUCCESS:lot = 1
+3181e9ba-d11f-4731-9469-a02845fbdfa9 -> 2021-01-31 19:52:16.345894:message:nseUpd:updFins:GET:upd = false
+3181e9ba-d11f-4731-9469-a02845fbdfa9 -> 2021-01-31 19:52:16.358682:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+3181e9ba-d11f-4731-9469-a02845fbdfa9 -> 0.192719:message:nseUpd:updHolidays:SUCCESS:upd = false
+3181e9ba-d11f-4731-9469-a02845fbdfa9 -> 2021-01-31 19:52:16.563470:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+3181e9ba-d11f-4731-9469-a02845fbdfa9 -> 2021-01-31 19:52:16.563470:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+3181e9ba-d11f-4731-9469-a02845fbdfa9 -> 2021-01-31 19:52:16.764345:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+3181e9ba-d11f-4731-9469-a02845fbdfa9 -> 2021-01-31 19:52:16.764345:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+3181e9ba-d11f-4731-9469-a02845fbdfa9 -> 2021-01-31 19:52:17.233167:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = ["EQ"]
+3181e9ba-d11f-4731-9469-a02845fbdfa9 -> 2021-01-31 19:52:17.251320:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+3181e9ba-d11f-4731-9469-a02845fbdfa9 -> 2021-01-31 19:52:17.277299:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+3181e9ba-d11f-4731-9469-a02845fbdfa9 -> 2.094724:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+3181e9ba-d11f-4731-9469-a02845fbdfa9 -> 2.26341:message:mDwn:mRegular:SUCCESS:lot = 1
+3181e9ba-d11f-4731-9469-a02845fbdfa9 -> 2021-01-31 19:52:19.532000:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+3181e9ba-d11f-4731-9469-a02845fbdfa9 -> 2021-01-31 19:52:19.567057:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+3181e9ba-d11f-4731-9469-a02845fbdfa9 -> 1.927255:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+3181e9ba-d11f-4731-9469-a02845fbdfa9 -> 2.119694:message:mDwn:mRegular:SUCCESS:lot = 1
+02f688e1-a72d-41bc-9ab7-4cfc2b4859e4 -> 2021-01-31 20:11:33.141842:message:nseUpd:updFins:GET:upd = false
+02f688e1-a72d-41bc-9ab7-4cfc2b4859e4 -> 2021-01-31 20:11:33.154873:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+02f688e1-a72d-41bc-9ab7-4cfc2b4859e4 -> 0.247921:message:nseUpd:updHolidays:SUCCESS:upd = false
+02f688e1-a72d-41bc-9ab7-4cfc2b4859e4 -> 2021-01-31 20:11:33.416931:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+02f688e1-a72d-41bc-9ab7-4cfc2b4859e4 -> 2021-01-31 20:11:33.416931:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+02f688e1-a72d-41bc-9ab7-4cfc2b4859e4 -> 2021-01-31 20:11:33.623058:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+02f688e1-a72d-41bc-9ab7-4cfc2b4859e4 -> 2021-01-31 20:11:33.623058:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+02f688e1-a72d-41bc-9ab7-4cfc2b4859e4 -> 2021-01-31 20:11:34.061696:message:nse:getFinData:GET:reqList = [], allowedSegs = ["EQ"]
+02f688e1-a72d-41bc-9ab7-4cfc2b4859e4 -> 2021-01-31 20:11:34.081787:message:mDwn:mRegular:GET:urlList = []
+02f688e1-a72d-41bc-9ab7-4cfc2b4859e4 -> 0.015572:message:mDwn:mRegular:SUCCESS:lot = 0
+02f688e1-a72d-41bc-9ab7-4cfc2b4859e4 -> 2021-01-31 20:11:34.110841:message:mDwn:mRegular:GET:urlList = []
+02f688e1-a72d-41bc-9ab7-4cfc2b4859e4 -> 0.017479:message:mDwn:mRegular:SUCCESS:lot = 0
+02f688e1-a72d-41bc-9ab7-4cfc2b4859e4 -> 1.012405:message:nseUpd:updFins:SUCCESS:upd = false
+ed1da0b3-4a3c-4177-807a-f7740f4a66f9 -> 2021-01-31 20:11:42.399477:message:nseUpd:updFins:GET:upd = false
+ed1da0b3-4a3c-4177-807a-f7740f4a66f9 -> 2021-01-31 20:11:42.412523:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+ed1da0b3-4a3c-4177-807a-f7740f4a66f9 -> 0.191612:message:nseUpd:updHolidays:SUCCESS:upd = false
+ed1da0b3-4a3c-4177-807a-f7740f4a66f9 -> 2021-01-31 20:11:42.616202:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+ed1da0b3-4a3c-4177-807a-f7740f4a66f9 -> 2021-01-31 20:11:42.616202:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+ed1da0b3-4a3c-4177-807a-f7740f4a66f9 -> 2021-01-31 20:11:42.874001:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+ed1da0b3-4a3c-4177-807a-f7740f4a66f9 -> 2021-01-31 20:11:42.874001:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+ed1da0b3-4a3c-4177-807a-f7740f4a66f9 -> 2021-01-31 20:11:43.337756:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = ["EQ"]
+ed1da0b3-4a3c-4177-807a-f7740f4a66f9 -> 2021-01-31 20:11:43.355978:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+ed1da0b3-4a3c-4177-807a-f7740f4a66f9 -> 2021-01-31 20:11:43.382307:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+ed1da0b3-4a3c-4177-807a-f7740f4a66f9 -> 2.428757:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+ed1da0b3-4a3c-4177-807a-f7740f4a66f9 -> 2.612733:message:mDwn:mRegular:SUCCESS:lot = 1
+ed1da0b3-4a3c-4177-807a-f7740f4a66f9 -> 2021-01-31 20:11:45.989888:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+ed1da0b3-4a3c-4177-807a-f7740f4a66f9 -> 2021-01-31 20:11:46.026488:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+ed1da0b3-4a3c-4177-807a-f7740f4a66f9 -> 2.219036:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+ed1da0b3-4a3c-4177-807a-f7740f4a66f9 -> 2.444381:message:mDwn:mRegular:SUCCESS:lot = 1
+f304093c-4313-4a17-a688-233ee8579092 -> 2021-01-31 20:12:08.868434:message:nseUpd:updFins:GET:upd = false
+f304093c-4313-4a17-a688-233ee8579092 -> 2021-01-31 20:12:08.875939:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+f304093c-4313-4a17-a688-233ee8579092 -> 0.177541:message:nseUpd:updHolidays:SUCCESS:upd = false
+f304093c-4313-4a17-a688-233ee8579092 -> 2021-01-31 20:12:09.062286:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+f304093c-4313-4a17-a688-233ee8579092 -> 2021-01-31 20:12:09.062286:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+f304093c-4313-4a17-a688-233ee8579092 -> 2021-01-31 20:12:09.237308:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+f304093c-4313-4a17-a688-233ee8579092 -> 2021-01-31 20:12:09.237308:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+f304093c-4313-4a17-a688-233ee8579092 -> 2021-01-31 20:12:09.570369:message:nse:getFinData:GET:reqList = [], allowedSegs = ["EQ"]
+f304093c-4313-4a17-a688-233ee8579092 -> 2021-01-31 20:12:09.578579:message:mDwn:mRegular:GET:urlList = []
+f304093c-4313-4a17-a688-233ee8579092 -> 0.010297:message:mDwn:mRegular:SUCCESS:lot = 0
+f304093c-4313-4a17-a688-233ee8579092 -> 2021-01-31 20:12:09.596333:message:mDwn:mRegular:GET:urlList = []
+f304093c-4313-4a17-a688-233ee8579092 -> 0.008829:message:mDwn:mRegular:SUCCESS:lot = 0
+f304093c-4313-4a17-a688-233ee8579092 -> 0.75465:message:nseUpd:updFins:SUCCESS:upd = false
+ac84a092-f82d-41cf-b512-cf82b5892c55 -> 2021-01-31 20:12:16.213567:message:nseUpd:updFins:GET:upd = false
+ac84a092-f82d-41cf-b512-cf82b5892c55 -> 2021-01-31 20:12:16.221762:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+ac84a092-f82d-41cf-b512-cf82b5892c55 -> 0.17866:message:nseUpd:updHolidays:SUCCESS:upd = false
+ac84a092-f82d-41cf-b512-cf82b5892c55 -> 2021-01-31 20:12:16.413882:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+ac84a092-f82d-41cf-b512-cf82b5892c55 -> 2021-01-31 20:12:16.413882:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+ac84a092-f82d-41cf-b512-cf82b5892c55 -> 2021-01-31 20:12:16.624198:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+ac84a092-f82d-41cf-b512-cf82b5892c55 -> 2021-01-31 20:12:16.624198:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+ac84a092-f82d-41cf-b512-cf82b5892c55 -> 2021-01-31 20:12:17.067170:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = ["EQ"]
+ac84a092-f82d-41cf-b512-cf82b5892c55 -> 2021-01-31 20:12:17.081909:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+ac84a092-f82d-41cf-b512-cf82b5892c55 -> 2021-01-31 20:12:17.106622:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+ac84a092-f82d-41cf-b512-cf82b5892c55 -> 2.289755:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+ac84a092-f82d-41cf-b512-cf82b5892c55 -> 2.467043:message:mDwn:mRegular:SUCCESS:lot = 1
+ac84a092-f82d-41cf-b512-cf82b5892c55 -> 2021-01-31 20:12:19.567016:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+ac84a092-f82d-41cf-b512-cf82b5892c55 -> 2021-01-31 20:12:19.613659:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+ac84a092-f82d-41cf-b512-cf82b5892c55 -> 2.286312:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+ac84a092-f82d-41cf-b512-cf82b5892c55 -> 2.474731:message:mDwn:mRegular:SUCCESS:lot = 1
+ac84a092-f82d-41cf-b512-cf82b5892c55 -> 46.053257:message:nseUpd:updFins:SUCCESS:upd = false
+e8e0f798-f020-4574-958c-75ac3995bf94 -> 2021-01-31 20:14:35.376635:message:nseUpd:updFins:GET:upd = false
+e8e0f798-f020-4574-958c-75ac3995bf94 -> 2021-01-31 20:14:35.389951:message:nseUpd:updHolidays:GET:start = 2021, stop = 2021, upd = false
+e8e0f798-f020-4574-958c-75ac3995bf94 -> 0.187373:message:nseUpd:updHolidays:SUCCESS:upd = false
+e8e0f798-f020-4574-958c-75ac3995bf94 -> 2021-01-31 20:14:35.590756:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+e8e0f798-f020-4574-958c-75ac3995bf94 -> 2021-01-31 20:14:35.590756:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+e8e0f798-f020-4574-958c-75ac3995bf94 -> 2021-01-31 20:14:35.794826:message:nseUpd.__exgHolidays__:GET:start = "2021-01-29", stop = "2021-01-31"
+e8e0f798-f020-4574-958c-75ac3995bf94 -> 2021-01-31 20:14:35.794826:message:nseUpd.__exgHolidays__:SUCESS:start = "2021-01-29", lot = 2
+e8e0f798-f020-4574-958c-75ac3995bf94 -> 2021-01-31 20:14:36.194232:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = ["EQ"]
+e8e0f798-f020-4574-958c-75ac3995bf94 -> 2021-01-31 20:14:36.212625:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+e8e0f798-f020-4574-958c-75ac3995bf94 -> 2021-01-31 20:14:36.239736:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+e8e0f798-f020-4574-958c-75ac3995bf94 -> 2.641247:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+e8e0f798-f020-4574-958c-75ac3995bf94 -> 2.819448:message:mDwn:mRegular:SUCCESS:lot = 1
+e8e0f798-f020-4574-958c-75ac3995bf94 -> 2021-01-31 20:14:39.049606:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+e8e0f798-f020-4574-958c-75ac3995bf94 -> 2021-01-31 20:14:39.081696:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+e8e0f798-f020-4574-958c-75ac3995bf94 -> 2.297428:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+e8e0f798-f020-4574-958c-75ac3995bf94 -> 2.497857:message:mDwn:mRegular:SUCCESS:lot = 1
+e8e0f798-f020-4574-958c-75ac3995bf94 -> 20.06912:message:nseUpd:updFins:SUCCESS:upd = false
+184e854b-6f04-4439-b887-7c6402732da3 -> 2021-01-31 21:01:56.411464:message:dwn:regular:GET:params = {"url": "https://www.nseindia.com/market-data/securities-available-for-trading", "enc": "utf-8"}
+184e854b-6f04-4439-b887-7c6402732da3 -> 2021-01-31 21:01:56.411464:message:dwn:regular:PUT:params = {"url": "https://www.nseindia.com/market-data/securities-available-for-trading", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "www.nseindia.com", "Referer": "www.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+184e854b-6f04-4439-b887-7c6402732da3 -> 3.342195:message:dwn:regular:SUCCESS:params = {"url": "https://www.nseindia.com/market-data/securities-available-for-trading", "enc": "utf-8"}
+e317609a-ee74-4f4e-adf0-7e28aae388f2 -> 2021-01-31 21:02:13.281756:message:dwn:regular:GET:params = {"url": "https://www.nseindia.com/market-data/securities-available-for-trading", "enc": "utf-8"}
+e317609a-ee74-4f4e-adf0-7e28aae388f2 -> 2021-01-31 21:02:13.281756:message:dwn:regular:PUT:params = {"url": "https://www.nseindia.com/market-data/securities-available-for-trading", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "www.nseindia.com", "Referer": "www.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+e317609a-ee74-4f4e-adf0-7e28aae388f2 -> 3.638404:message:dwn:regular:SUCCESS:params = {"url": "https://www.nseindia.com/market-data/securities-available-for-trading", "enc": "utf-8"}
+082dc623-f400-4b52-b89f-51159adacd4d -> 2021-01-31 21:02:48.209400:message:dwn:regular:GET:params = {"url": "https://www.nseindia.com/market-data/securities-available-for-trading", "enc": "utf-8"}
+082dc623-f400-4b52-b89f-51159adacd4d -> 2021-01-31 21:02:48.209400:message:dwn:regular:PUT:params = {"url": "https://www.nseindia.com/market-data/securities-available-for-trading", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "www.nseindia.com", "Referer": "www.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+082dc623-f400-4b52-b89f-51159adacd4d -> 3.920895:message:dwn:regular:SUCCESS:params = {"url": "https://www.nseindia.com/market-data/securities-available-for-trading", "enc": "utf-8"}
+009a2b22-552d-44d3-bd11-3a5dab591ab5 -> 2021-01-31 21:03:48.219705:message:dwn:regular:GET:params = {"url": "https://www.nseindia.com/market-data/securities-available-for-trading", "enc": "utf-8"}
+009a2b22-552d-44d3-bd11-3a5dab591ab5 -> 2021-01-31 21:03:48.219705:message:dwn:regular:PUT:params = {"url": "https://www.nseindia.com/market-data/securities-available-for-trading", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "www.nseindia.com", "Referer": "www.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+009a2b22-552d-44d3-bd11-3a5dab591ab5 -> 4.609619:message:dwn:regular:SUCCESS:params = {"url": "https://www.nseindia.com/market-data/securities-available-for-trading", "enc": "utf-8"}
+c7377d49-ab96-453f-a658-5e6eeb1bceca -> 2021-01-31 21:04:38.747803:message:dwn:regular:GET:params = {"url": "https://www.nseindia.com/market-data/securities-available-for-trading", "enc": "utf-8"}
+c7377d49-ab96-453f-a658-5e6eeb1bceca -> 2021-01-31 21:04:38.747803:message:dwn:regular:PUT:params = {"url": "https://www.nseindia.com/market-data/securities-available-for-trading", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "www.nseindia.com", "Referer": "www.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+c7377d49-ab96-453f-a658-5e6eeb1bceca -> 4.590159:message:dwn:regular:SUCCESS:params = {"url": "https://www.nseindia.com/market-data/securities-available-for-trading", "enc": "utf-8"}
+50ca19aa-ad0c-4c87-bb01-ca9d47b8f7e6 -> 2021-01-31 21:05:38.370426:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+50ca19aa-ad0c-4c87-bb01-ca9d47b8f7e6 -> 2021-01-31 21:05:38.370426:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+50ca19aa-ad0c-4c87-bb01-ca9d47b8f7e6 -> 2.483663:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+bf478a8e-3be1-4297-ba3d-894101990d2d -> 2021-01-31 21:06:33.913835:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+bf478a8e-3be1-4297-ba3d-894101990d2d -> 2021-01-31 21:06:33.913835:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+bf478a8e-3be1-4297-ba3d-894101990d2d -> 3.003929:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+e8f210cf-0178-4849-ba00-500f08ce15b3 -> 2021-01-31 21:08:45.008521:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+e8f210cf-0178-4849-ba00-500f08ce15b3 -> 2021-01-31 21:08:45.008521:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+e8f210cf-0178-4849-ba00-500f08ce15b3 -> 2.843539:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+ee256e28-339f-4e8d-a54a-c7580128a6ee -> 2021-01-31 21:09:23.360810:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+ee256e28-339f-4e8d-a54a-c7580128a6ee -> 2021-01-31 21:09:23.360810:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+ee256e28-339f-4e8d-a54a-c7580128a6ee -> 3.364294:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+a24ca0c2-8614-4e45-a72f-8eec6525ed36 -> 2021-01-31 21:17:32.059902:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = null
+a24ca0c2-8614-4e45-a72f-8eec6525ed36 -> 2021-01-31 21:17:32.083975:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+a24ca0c2-8614-4e45-a72f-8eec6525ed36 -> 2021-01-31 21:17:32.093724:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+a24ca0c2-8614-4e45-a72f-8eec6525ed36 -> 2.402828:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+a24ca0c2-8614-4e45-a72f-8eec6525ed36 -> 2.570097:message:mDwn:mRegular:SUCCESS:lot = 1
+a24ca0c2-8614-4e45-a72f-8eec6525ed36 -> 2021-01-31 21:17:34.664087:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+a24ca0c2-8614-4e45-a72f-8eec6525ed36 -> 2021-01-31 21:17:34.679811:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+a24ca0c2-8614-4e45-a72f-8eec6525ed36 -> 2.993104:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+a24ca0c2-8614-4e45-a72f-8eec6525ed36 -> 3.169454:message:mDwn:mRegular:SUCCESS:lot = 1
+c930fa68-7961-49c6-9360-6f2ee8480529 -> 2021-01-31 21:18:12.177896:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = null
+c930fa68-7961-49c6-9360-6f2ee8480529 -> 2021-01-31 21:18:12.202790:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+c930fa68-7961-49c6-9360-6f2ee8480529 -> 2021-01-31 21:18:12.212232:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+c930fa68-7961-49c6-9360-6f2ee8480529 -> 2.33423:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+c930fa68-7961-49c6-9360-6f2ee8480529 -> 2.46004:message:mDwn:mRegular:SUCCESS:lot = 1
+c930fa68-7961-49c6-9360-6f2ee8480529 -> 2021-01-31 21:18:14.673938:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+c930fa68-7961-49c6-9360-6f2ee8480529 -> 2021-01-31 21:18:14.690877:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+c930fa68-7961-49c6-9360-6f2ee8480529 -> 2.315254:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+c930fa68-7961-49c6-9360-6f2ee8480529 -> 2.480227:message:mDwn:mRegular:SUCCESS:lot = 1
+dfd9ec55-979d-46fa-852a-d7950eee3e7b -> 2021-01-31 21:19:39.432573:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = null
+dfd9ec55-979d-46fa-852a-d7950eee3e7b -> 2021-01-31 21:19:39.454989:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+dfd9ec55-979d-46fa-852a-d7950eee3e7b -> 2021-01-31 21:19:39.486517:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+dfd9ec55-979d-46fa-852a-d7950eee3e7b -> 2.657271:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+dfd9ec55-979d-46fa-852a-d7950eee3e7b -> 2.857259:message:mDwn:mRegular:SUCCESS:lot = 1
+dfd9ec55-979d-46fa-852a-d7950eee3e7b -> 2021-01-31 21:19:42.332155:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+dfd9ec55-979d-46fa-852a-d7950eee3e7b -> 2021-01-31 21:19:42.373311:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+dfd9ec55-979d-46fa-852a-d7950eee3e7b -> 3.5519:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+dfd9ec55-979d-46fa-852a-d7950eee3e7b -> 3.786381:message:mDwn:mRegular:SUCCESS:lot = 1
+a240cb46-63e0-46a7-8de8-eb3d41ef1218 -> 2021-01-31 21:21:19.150566:message:nse:getFinData:GET:reqList = ["2021-01-29"], allowedSegs = null
+a240cb46-63e0-46a7-8de8-eb3d41ef1218 -> 2021-01-31 21:21:19.186418:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}]
+a240cb46-63e0-46a7-8de8-eb3d41ef1218 -> 2021-01-31 21:21:19.211037:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+a240cb46-63e0-46a7-8de8-eb3d41ef1218 -> 2.879538:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+a240cb46-63e0-46a7-8de8-eb3d41ef1218 -> 3.085637:message:mDwn:mRegular:SUCCESS:lot = 1
+a240cb46-63e0-46a7-8de8-eb3d41ef1218 -> 2021-01-31 21:21:22.283010:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}]
+a240cb46-63e0-46a7-8de8-eb3d41ef1218 -> 2021-01-31 21:21:22.309900:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+a240cb46-63e0-46a7-8de8-eb3d41ef1218 -> 1.968886:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+a240cb46-63e0-46a7-8de8-eb3d41ef1218 -> 2.13559:message:mDwn:mRegular:SUCCESS:lot = 1
+fa3e2599-6815-45e1-b071-a1ec69af67cc -> 2021-01-31 21:22:01.871664:message:nse:getFinData:GET:reqList = ["2021-01-29", "2021-01-28"], allowedSegs = null
+fa3e2599-6815-45e1-b071-a1ec69af67cc -> 2021-01-31 21:22:01.908812:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}, {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_28012021.CSV", "enc": "utf-8"}]
+fa3e2599-6815-45e1-b071-a1ec69af67cc -> 2021-01-31 21:22:01.936842:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+fa3e2599-6815-45e1-b071-a1ec69af67cc -> 2.689957:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+fa3e2599-6815-45e1-b071-a1ec69af67cc -> 2021-01-31 21:22:04.788385:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_28012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+fa3e2599-6815-45e1-b071-a1ec69af67cc -> 1.493096:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_28012021.CSV"
+fa3e2599-6815-45e1-b071-a1ec69af67cc -> 4.514281:message:mDwn:mRegular:SUCCESS:lot = 2
+fa3e2599-6815-45e1-b071-a1ec69af67cc -> 2021-01-31 21:22:06.444149:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}, {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_28012021.csv", "enc": "utf-8"}]
+fa3e2599-6815-45e1-b071-a1ec69af67cc -> 2021-01-31 21:22:06.494390:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+fa3e2599-6815-45e1-b071-a1ec69af67cc -> 2.376694:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+fa3e2599-6815-45e1-b071-a1ec69af67cc -> 2021-01-31 21:22:09.008448:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_28012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+fa3e2599-6815-45e1-b071-a1ec69af67cc -> 2.244042:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_28012021.csv"
+fa3e2599-6815-45e1-b071-a1ec69af67cc -> 5.018528:message:mDwn:mRegular:SUCCESS:lot = 2
+5a3b42a3-26be-4f26-b0e4-9feaa1218e4f -> 2021-01-31 21:23:21.142749:message:nse:getFinData:GET:reqList = ["2021-01-29", "2021-01-28"], allowedSegs = null
+5a3b42a3-26be-4f26-b0e4-9feaa1218e4f -> 2021-01-31 21:23:21.183473:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}, {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_28012021.CSV", "enc": "utf-8"}]
+5a3b42a3-26be-4f26-b0e4-9feaa1218e4f -> 2021-01-31 21:23:21.215529:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+5a3b42a3-26be-4f26-b0e4-9feaa1218e4f -> 2.117603:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+5a3b42a3-26be-4f26-b0e4-9feaa1218e4f -> 2021-01-31 21:23:23.507176:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_28012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+5a3b42a3-26be-4f26-b0e4-9feaa1218e4f -> 1.461209:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_28012021.CSV"
+5a3b42a3-26be-4f26-b0e4-9feaa1218e4f -> 3.928472:message:mDwn:mRegular:SUCCESS:lot = 2
+5a3b42a3-26be-4f26-b0e4-9feaa1218e4f -> 2021-01-31 21:23:25.134849:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}, {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_28012021.csv", "enc": "utf-8"}]
+5a3b42a3-26be-4f26-b0e4-9feaa1218e4f -> 2021-01-31 21:23:25.195032:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+5a3b42a3-26be-4f26-b0e4-9feaa1218e4f -> 2.182519:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+5a3b42a3-26be-4f26-b0e4-9feaa1218e4f -> 2021-01-31 21:23:27.535682:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_28012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+5a3b42a3-26be-4f26-b0e4-9feaa1218e4f -> 2.187206:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_28012021.csv"
+5a3b42a3-26be-4f26-b0e4-9feaa1218e4f -> 4.731466:message:mDwn:mRegular:SUCCESS:lot = 2
+a556715c-7113-4876-9faf-270c7eb4cb31 -> 2021-01-31 21:24:13.717517:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+a556715c-7113-4876-9faf-270c7eb4cb31 -> 2021-01-31 21:24:13.717517:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+a556715c-7113-4876-9faf-270c7eb4cb31 -> 2.697408:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+9aaef976-a1f8-4183-bc79-efb1a1b625a7 -> 2021-01-31 21:24:50.931485:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+9aaef976-a1f8-4183-bc79-efb1a1b625a7 -> 2021-01-31 21:24:50.931485:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+9aaef976-a1f8-4183-bc79-efb1a1b625a7 -> 1.568081:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+e7e98173-621c-49d0-a601-e307a572da8e -> 2021-01-31 21:25:04.848976:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+e7e98173-621c-49d0-a601-e307a572da8e -> 2021-01-31 21:25:04.848976:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+e7e98173-621c-49d0-a601-e307a572da8e -> 1.773546:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+96d60a27-3feb-463f-82b9-b0e0e3e5d816 -> 2021-01-31 21:25:06.730801:message:nse:getFinData:GET:reqList = ["2021-01-29", "2021-01-28"], allowedSegs = null
+96d60a27-3feb-463f-82b9-b0e0e3e5d816 -> 2021-01-31 21:25:06.787600:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8"}, {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_28012021.CSV", "enc": "utf-8"}]
+96d60a27-3feb-463f-82b9-b0e0e3e5d816 -> 2021-01-31 21:25:06.817114:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+96d60a27-3feb-463f-82b9-b0e0e3e5d816 -> 1.056251:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_29012021.CSV"
+96d60a27-3feb-463f-82b9-b0e0e3e5d816 -> 2021-01-31 21:25:08.014046:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_28012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+96d60a27-3feb-463f-82b9-b0e0e3e5d816 -> 0.630628:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_28012021.CSV"
+96d60a27-3feb-463f-82b9-b0e0e3e5d816 -> 2.021422:message:mDwn:mRegular:SUCCESS:lot = 2
+96d60a27-3feb-463f-82b9-b0e0e3e5d816 -> 2021-01-31 21:25:08.831956:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8"}, {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_28012021.csv", "enc": "utf-8"}]
+96d60a27-3feb-463f-82b9-b0e0e3e5d816 -> 2021-01-31 21:25:08.869375:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+96d60a27-3feb-463f-82b9-b0e0e3e5d816 -> 1.501806:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_29012021.csv"
+96d60a27-3feb-463f-82b9-b0e0e3e5d816 -> 2021-01-31 21:25:10.550575:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_28012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+96d60a27-3feb-463f-82b9-b0e0e3e5d816 -> 0.787953:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_28012021.csv"
+96d60a27-3feb-463f-82b9-b0e0e3e5d816 -> 2.643615:message:mDwn:mRegular:SUCCESS:lot = 2
+d41651c1-cefd-4dee-9cd5-1113e3102429 -> 2021-01-31 21:25:18.121419:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+d41651c1-cefd-4dee-9cd5-1113e3102429 -> 2021-01-31 21:25:18.121419:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+d41651c1-cefd-4dee-9cd5-1113e3102429 -> 2.145595:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}

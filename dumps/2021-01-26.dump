@@ -1,0 +1,113 @@
+e18b899d-7e28-4901-ac25-5da97ba12deb -> 2021-01-26 12:59:20.249200:messge:dwn:regular:GET:params = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS", "cookie": true}
+e18b899d-7e28-4901-ac25-5da97ba12deb -> 2021-01-26 12:59:20.249200:messge:dwn:regular:PUT:params = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS", "enc": "rek", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "www.nseindia.com", "Referer": "www.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "cookie": true}
+e18b899d-7e28-4901-ac25-5da97ba12deb -> 12.073125:messge:dwn:regular:SUCCESS:params = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS", "cookie": true}
+0cdbdaa5-5361-4a30-8f84-04f1550197a1 -> 2021-01-26 13:48:33.170014:messge:quoteReq:getMquote:GET:
+2524ea04-4e59-4811-bf73-194cd8603a4d -> 2021-01-26 13:49:20.915039:messge:quoteReq:getMquote:GET:
+218d8230-4e80-46d6-af58-45e6aa1040ba -> 2021-01-26 13:49:58.931622:messge:quoteReq:getMquote:GET:
+218d8230-4e80-46d6-af58-45e6aa1040ba -> 2021-01-26 13:49:59.009902:messge:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+a6b50c53-bcd3-41f0-af89-4921065f2cd4 -> 2021-01-26 13:50:22.239296:messge:quoteReq:getMquote:GET:
+a6b50c53-bcd3-41f0-af89-4921065f2cd4 -> 2021-01-26 13:50:22.296011:messge:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+57d1e2d8-75e5-4c19-a1f9-b0bd62d96123 -> 2021-01-26 13:56:12.360665:messge:quoteReq:getMquote:GET:
+57d1e2d8-75e5-4c19-a1f9-b0bd62d96123 -> 2021-01-26 13:56:12.428510:messge:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+57d1e2d8-75e5-4c19-a1f9-b0bd62d96123 -> 2.340778:messge:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+57d1e2d8-75e5-4c19-a1f9-b0bd62d96123 -> 2.433921:messge:quoteReq:getMquote:SUCCESS:
+57d1e2d8-75e5-4c19-a1f9-b0bd62d96123 -> 2021-01-26 13:56:14.816527:messge:quoteReq:getMquote:GET:quoteList = [["KTKBANK", "NSE", false]]
+57d1e2d8-75e5-4c19-a1f9-b0bd62d96123 -> 2021-01-26 13:56:14.889057:messge:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=KTKBANK&section=trade_info"}}]
+57d1e2d8-75e5-4c19-a1f9-b0bd62d96123 -> 0.702706:messge:dwnXasync:pull:SUCCESS:lot = 1
+57d1e2d8-75e5-4c19-a1f9-b0bd62d96123 -> 0.824034:messge:quoteReq:getMquote:SUCCESS:lot = 1
+6647bdaa-df2e-4cc8-ba27-9c05d9d4bc88 -> 2021-01-26 14:01:25.328873:messge:quoteReq:getMquote:GET:
+6647bdaa-df2e-4cc8-ba27-9c05d9d4bc88 -> 2021-01-26 14:01:25.398778:messge:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+6647bdaa-df2e-4cc8-ba27-9c05d9d4bc88 -> 1.060844:messge:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+6647bdaa-df2e-4cc8-ba27-9c05d9d4bc88 -> 1.163403:messge:quoteReq:getMquote:SUCCESS:
+52f6797e-14b5-4f14-9a9a-dbbca0e59fff -> 2021-01-26 14:02:21.146422:messge:quoteReq:getMquote:GET:
+52f6797e-14b5-4f14-9a9a-dbbca0e59fff -> 2021-01-26 14:02:21.218443:messge:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+52f6797e-14b5-4f14-9a9a-dbbca0e59fff -> 1.087472:messge:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+52f6797e-14b5-4f14-9a9a-dbbca0e59fff -> 1.224895:messge:quoteReq:getMquote:SUCCESS:
+52f6797e-14b5-4f14-9a9a-dbbca0e59fff -> 2021-01-26 14:02:22.392803:messge:quoteReq:getMquote:GET:quoteList = ["TCS", "NSE", false]
+985d05cc-fdf3-4173-83c0-296a4c33ff13 -> 2021-01-26 14:03:16.703421:messge:quoteReq:getMquote:GET:
+985d05cc-fdf3-4173-83c0-296a4c33ff13 -> 2021-01-26 14:03:16.770731:messge:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+985d05cc-fdf3-4173-83c0-296a4c33ff13 -> 1.438311:messge:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+985d05cc-fdf3-4173-83c0-296a4c33ff13 -> 1.535405:messge:quoteReq:getMquote:SUCCESS:
+985d05cc-fdf3-4173-83c0-296a4c33ff13 -> 2021-01-26 14:03:18.268926:messge:quoteReq:getMquote:GET:quoteList = ["TCS", "NSE", false]
+7d201de1-0be5-42f1-808d-869e3c00666a -> 2021-01-26 14:03:36.726864:messge:quoteReq:getMquote:GET:
+7d201de1-0be5-42f1-808d-869e3c00666a -> 2021-01-26 14:03:36.777695:messge:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+7d201de1-0be5-42f1-808d-869e3c00666a -> 1.528804:messge:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+7d201de1-0be5-42f1-808d-869e3c00666a -> 1.611474:messge:quoteReq:getMquote:SUCCESS:
+7d201de1-0be5-42f1-808d-869e3c00666a -> 2021-01-26 14:03:38.363070:messge:quoteReq:getMquote:GET:quoteList = [["TCS", "NSE", false]]
+7d201de1-0be5-42f1-808d-869e3c00666a -> 2021-01-26 14:03:38.432071:messge:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}}]
+7d201de1-0be5-42f1-808d-869e3c00666a -> 0.472409:messge:dwnXasync:pull:SUCCESS:lot = 1
+7d201de1-0be5-42f1-808d-869e3c00666a -> 0.552392:messge:quoteReq:getMquote:SUCCESS:lot = 1
+fbca6958-a606-49f1-b8db-4bfe0490497d -> 2021-01-26 14:30:03.114671:messge:quoteReq:getMquote:GET:
+fbca6958-a606-49f1-b8db-4bfe0490497d -> 2021-01-26 14:30:03.184193:messge:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+d201486b-a734-4bed-ad25-933a4bf694b3 -> 2021-01-26 14:30:28.906656:messge:quoteReq:getMquote:GET:
+d201486b-a734-4bed-ad25-933a4bf694b3 -> 2021-01-26 14:30:28.960466:messge:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+a6dcab2b-ef26-4258-9e1a-3ec9090d1d56 -> 2021-01-26 20:58:17.898246:messge:quoteReq:getMquote:GET:
+a6dcab2b-ef26-4258-9e1a-3ec9090d1d56 -> 2021-01-26 20:58:17.963763:messge:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+a6dcab2b-ef26-4258-9e1a-3ec9090d1d56 -> 5.794834:messge:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+a6dcab2b-ef26-4258-9e1a-3ec9090d1d56 -> 5.907497:messge:quoteReq:getMquote:SUCCESS:
+a6dcab2b-ef26-4258-9e1a-3ec9090d1d56 -> 2021-01-26 20:58:23.830130:messge:nse:getFinData:GET:start = "2021-01-11 00:00:00", stop = "2021-01-11 00:00:00", hlList = [], allowedSegs = null
+a6dcab2b-ef26-4258-9e1a-3ec9090d1d56 -> 2021-01-26 20:58:23.865820:messge:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_11012021.CSV", "enc": "utf-8"}]
+a6dcab2b-ef26-4258-9e1a-3ec9090d1d56 -> 2021-01-26 20:58:23.881095:messge:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_11012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+a6dcab2b-ef26-4258-9e1a-3ec9090d1d56 -> 4.279352:messge:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_11012021.CSV"
+a6dcab2b-ef26-4258-9e1a-3ec9090d1d56 -> 4.482368:messge:mDwn:mRegular:SUCCESS:lot = 1
+a6dcab2b-ef26-4258-9e1a-3ec9090d1d56 -> 2021-01-26 20:58:28.367439:messge:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_11012021.csv", "enc": "utf-8"}]
+a6dcab2b-ef26-4258-9e1a-3ec9090d1d56 -> 2021-01-26 20:58:28.405847:messge:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_11012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+a6dcab2b-ef26-4258-9e1a-3ec9090d1d56 -> 3.726538:messge:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_11012021.csv"
+a6dcab2b-ef26-4258-9e1a-3ec9090d1d56 -> 3.945097:messge:mDwn:mRegular:SUCCESS:lot = 1
+a6dcab2b-ef26-4258-9e1a-3ec9090d1d56 -> 8.696787:messge:nse:getFinData:SUCCESS:lot = 1484
+37e723ef-04f7-494c-a95e-c4ca287e4a3b -> 2021-01-26 21:02:07.440460:messge:nse:getFinData:GET:start = "2021-01-11 00:00:00", stop = "2021-01-11 00:00:00", hlList = [], allowedSegs = null
+37e723ef-04f7-494c-a95e-c4ca287e4a3b -> 2021-01-26 21:02:07.477421:messge:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_11012021.CSV", "enc": "utf-8"}]
+37e723ef-04f7-494c-a95e-c4ca287e4a3b -> 2021-01-26 21:02:07.501814:messge:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_11012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+37e723ef-04f7-494c-a95e-c4ca287e4a3b -> 11.303545:messge:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_11012021.CSV"
+37e723ef-04f7-494c-a95e-c4ca287e4a3b -> 11.524868:messge:mDwn:mRegular:SUCCESS:lot = 1
+37e723ef-04f7-494c-a95e-c4ca287e4a3b -> 2021-01-26 21:02:19.020760:messge:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_11012021.csv", "enc": "utf-8"}]
+37e723ef-04f7-494c-a95e-c4ca287e4a3b -> 2021-01-26 21:02:19.054429:messge:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_11012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+37e723ef-04f7-494c-a95e-c4ca287e4a3b -> 15.522881:messge:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_11012021.csv"
+37e723ef-04f7-494c-a95e-c4ca287e4a3b -> 15.747553:messge:mDwn:mRegular:SUCCESS:lot = 1
+37e723ef-04f7-494c-a95e-c4ca287e4a3b -> 27.547319:messge:nse:getFinData:SUCCESS:lot = 1484
+4929dd40-6a4a-48e9-84be-a946ae102f7b -> 2021-01-26 21:06:20.221396:message:nse:getFinData:GET:start = "2021-01-11 00:00:00", stop = "2021-01-11 00:00:00", hlList = [], allowedSegs = null
+4929dd40-6a4a-48e9-84be-a946ae102f7b -> 2021-01-26 21:06:20.242367:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_11012021.CSV", "enc": "utf-8"}]
+4929dd40-6a4a-48e9-84be-a946ae102f7b -> 2021-01-26 21:06:20.251602:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_11012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+4929dd40-6a4a-48e9-84be-a946ae102f7b -> 26.689238:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_11012021.CSV"
+4929dd40-6a4a-48e9-84be-a946ae102f7b -> 26.832937:message:mDwn:mRegular:SUCCESS:lot = 1
+4929dd40-6a4a-48e9-84be-a946ae102f7b -> 2021-01-26 21:06:47.086661:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_11012021.csv", "enc": "utf-8"}]
+4929dd40-6a4a-48e9-84be-a946ae102f7b -> 2021-01-26 21:06:47.101118:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_11012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+4929dd40-6a4a-48e9-84be-a946ae102f7b -> 32.211772:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_11012021.csv"
+4929dd40-6a4a-48e9-84be-a946ae102f7b -> 32.395917:message:mDwn:mRegular:SUCCESS:lot = 1
+4929dd40-6a4a-48e9-84be-a946ae102f7b -> 59.510422:message:nse:getFinData:SUCCESS:lot = 1484
+91ec0319-f20f-4da8-bf6d-61e2b7eff204 -> 2021-01-26 21:07:41.324648:message:nse:getFinData:GET:start = "2021-01-11 00:00:00", stop = "2021-01-11 00:00:00", hlList = [], allowedSegs = null
+91ec0319-f20f-4da8-bf6d-61e2b7eff204 -> 2021-01-26 21:07:41.340415:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_11012021.CSV", "enc": "utf-8"}]
+91ec0319-f20f-4da8-bf6d-61e2b7eff204 -> 2021-01-26 21:07:41.350155:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_11012021.CSV", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+91ec0319-f20f-4da8-bf6d-61e2b7eff204 -> 16.225433:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_11012021.CSV"
+91ec0319-f20f-4da8-bf6d-61e2b7eff204 -> 16.355472:message:mDwn:mRegular:SUCCESS:lot = 1
+91ec0319-f20f-4da8-bf6d-61e2b7eff204 -> 2021-01-26 21:07:57.706530:message:mDwn:mRegular:GET:urlList = [{"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_11012021.csv", "enc": "utf-8"}]
+91ec0319-f20f-4da8-bf6d-61e2b7eff204 -> 2021-01-26 21:07:57.722866:message:mDwn:__fetch__:GET:params = {"url": "https://archives.nseindia.com/products/content/sec_bhavdata_full_11012021.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+91ec0319-f20f-4da8-bf6d-61e2b7eff204 -> 10.59958:message:mDwn:__fetch__:SUCCESS:url = "https://archives.nseindia.com/products/content/sec_bhavdata_full_11012021.csv"
+91ec0319-f20f-4da8-bf6d-61e2b7eff204 -> 10.748642:message:mDwn:mRegular:SUCCESS:lot = 1
+91ec0319-f20f-4da8-bf6d-61e2b7eff204 -> 27.402628:message:nse:getFinData:SUCCESS:lot = 1484
+b952cf28-3d1c-4f20-97eb-1d7e5af5ba13 -> 2021-01-26 21:09:39.584257:message:mDwn:mRegular:GET:urlList = [{"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "dc0ded226697631967a477c22b99ba11"}}, {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "dc0ded226697631967a477c22b99ba11"}}]
+b952cf28-3d1c-4f20-97eb-1d7e5af5ba13 -> 2021-01-26 21:09:39.626597:message:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "dc0ded226697631967a477c22b99ba11"}, "payLoad": null}
+b952cf28-3d1c-4f20-97eb-1d7e5af5ba13 -> 2021-01-26 21:09:39.663078:message:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "dc0ded226697631967a477c22b99ba11"}, "payLoad": null}
+b952cf28-3d1c-4f20-97eb-1d7e5af5ba13 -> 2.880342:message:mDwn:__fetch__:SUCCESS:url = "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE"
+b952cf28-3d1c-4f20-97eb-1d7e5af5ba13 -> 2.96087:message:mDwn:__fetch__:SUCCESS:url = "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE"
+b952cf28-3d1c-4f20-97eb-1d7e5af5ba13 -> 3.125155:message:mDwn:mRegular:SUCCESS:lot = 2
+65a03e85-a57e-4ab7-8482-81c4a53b68e4 -> 2021-01-26 21:12:41.328036:message:samco:__login__:GET:log = false
+65a03e85-a57e-4ab7-8482-81c4a53b68e4 -> 2021-01-26 21:12:41.342149:message:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@T$@L901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+65a03e85-a57e-4ab7-8482-81c4a53b68e4 -> 2021-01-26 21:12:41.342149:message:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@T$@L901\", \"yob\": \"1999\"}"}
+65a03e85-a57e-4ab7-8482-81c4a53b68e4 -> 2.637959:message:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@T$@L901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+65a03e85-a57e-4ab7-8482-81c4a53b68e4 -> 2021-01-26 21:12:43.990573:message:samco:__reqParse__:GET:
+65a03e85-a57e-4ab7-8482-81c4a53b68e4 -> 0.006692:message:samco:__reqParse__:SUCCESS:
+65a03e85-a57e-4ab7-8482-81c4a53b68e4 -> 2021-01-26 21:12:41.328036:message:samco:__login__:SUCCESS:log = true
+65a03e85-a57e-4ab7-8482-81c4a53b68e4 -> 2021-01-26 21:12:44.017401:message:samco:__check__:GET:params = {"symbol": "TCS", "exg": "NSE"}
+65a03e85-a57e-4ab7-8482-81c4a53b68e4 -> 2021-01-26 21:12:44.031314:message:dwn:regular:GET:params = {"url": "https://api.stocknote.com/eqDervSearch/search?searchSymbolName=TCS&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "7d901419b24d73fd143098c13bf8f20f"}}
+65a03e85-a57e-4ab7-8482-81c4a53b68e4 -> 2021-01-26 21:12:44.031314:message:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/eqDervSearch/search?searchSymbolName=TCS&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "7d901419b24d73fd143098c13bf8f20f"}}
+65a03e85-a57e-4ab7-8482-81c4a53b68e4 -> 0.371006:message:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/eqDervSearch/search?searchSymbolName=TCS&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "7d901419b24d73fd143098c13bf8f20f"}}
+65a03e85-a57e-4ab7-8482-81c4a53b68e4 -> 2021-01-26 21:12:44.462929:message:samco:__reqParse__:GET:
+65a03e85-a57e-4ab7-8482-81c4a53b68e4 -> 0.007004:message:samco:__reqParse__:SUCCESS:
+65a03e85-a57e-4ab7-8482-81c4a53b68e4 -> 0.459521:message:samco:__check__:SUCCESS:result = true
+9f3ca1a3-6ad4-4799-a45b-c39c738ffff6 -> 2021-01-26 21:21:20.910997:message:mDwn:mRegular:GET:urlList = [{"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "dc0ded226697631967a477c22b99ba11"}}, {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "dc0ded226697631967a477c22b99ba11"}}]
+9f3ca1a3-6ad4-4799-a45b-c39c738ffff6 -> 2021-01-26 21:21:20.929698:message:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "dc0ded226697631967a477c22b99ba11"}, "payLoad": null}
+9f3ca1a3-6ad4-4799-a45b-c39c738ffff6 -> 2021-01-26 21:21:20.943731:message:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "dc0ded226697631967a477c22b99ba11"}, "payLoad": null}
+9f3ca1a3-6ad4-4799-a45b-c39c738ffff6 -> 1.550794:message:mDwn:__fetch__:SUCCESS:url = "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE"
+9f3ca1a3-6ad4-4799-a45b-c39c738ffff6 -> 1.793874:message:mDwn:__fetch__:SUCCESS:url = "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE"
+9f3ca1a3-6ad4-4799-a45b-c39c738ffff6 -> 1.839055:message:mDwn:mRegular:SUCCESS:lot = 2

@@ -1,0 +1,433 @@
+2d02c1e0-79bd-4379-970c-470273ebc7c1 -> 2021-02-01 10:16:45.987989:message:nse:getSymbols:GET:
+2d02c1e0-79bd-4379-970c-470273ebc7c1 -> 2021-02-01 10:16:45.997514:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+2d02c1e0-79bd-4379-970c-470273ebc7c1 -> 2021-02-01 10:16:45.997514:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+2d02c1e0-79bd-4379-970c-470273ebc7c1 -> 22.700781:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+2d02c1e0-79bd-4379-970c-470273ebc7c1 -> 22.795052:message:nse:getSymbols:SUCCESS:lot = 1683
+c4b76e35-2944-4d5b-a183-60ba3655d146 -> 2021-02-01 10:25:49.853416:message:nseUpd:updSymbols:GET:upd = true
+c4b76e35-2944-4d5b-a183-60ba3655d146 -> 2021-02-01 10:25:49.860974:message:nse:getSymbols:GET:
+c4b76e35-2944-4d5b-a183-60ba3655d146 -> 2021-02-01 10:25:49.868237:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+c4b76e35-2944-4d5b-a183-60ba3655d146 -> 2021-02-01 10:25:49.868237:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+c4b76e35-2944-4d5b-a183-60ba3655d146 -> 2.086028:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+c4b76e35-2944-4d5b-a183-60ba3655d146 -> 2.271349:message:nse:getSymbols:SUCCESS:lot = 1683
+c4b76e35-2944-4d5b-a183-60ba3655d146 -> 2021-02-01 10:25:49.853416:message:nseUpd:updSymbols:SUCCESS:upd = true
+d3fc3524-ef3a-4ffe-960c-d6f774b069f7 -> 2021-02-01 10:33:07.299731:message:nseUpd:updSymbols:GET:upd = true
+d3fc3524-ef3a-4ffe-960c-d6f774b069f7 -> 2021-02-01 10:33:07.307233:message:nse:getSymbols:GET:
+d3fc3524-ef3a-4ffe-960c-d6f774b069f7 -> 2021-02-01 10:33:07.314335:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+d3fc3524-ef3a-4ffe-960c-d6f774b069f7 -> 2021-02-01 10:33:07.314335:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+d3fc3524-ef3a-4ffe-960c-d6f774b069f7 -> 1.021491:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+d3fc3524-ef3a-4ffe-960c-d6f774b069f7 -> 1.195715:message:nse:getSymbols:SUCCESS:lot = 1683
+d3fc3524-ef3a-4ffe-960c-d6f774b069f7 -> 2021-02-01 10:33:07.299731:message:nseUpd:updSymbols:SUCCESS:upd = true
+dbb70eb1-3ea7-4ef9-bb67-7120a8bbd613 -> 2021-02-01 10:34:08.611511:message:nseUpd:updSymbols:GET:upd = true
+dbb70eb1-3ea7-4ef9-bb67-7120a8bbd613 -> 2021-02-01 10:34:08.627752:message:nse:getSymbols:GET:
+dbb70eb1-3ea7-4ef9-bb67-7120a8bbd613 -> 2021-02-01 10:34:08.643530:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+dbb70eb1-3ea7-4ef9-bb67-7120a8bbd613 -> 2021-02-01 10:34:08.643530:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+dbb70eb1-3ea7-4ef9-bb67-7120a8bbd613 -> 1.310094:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+dbb70eb1-3ea7-4ef9-bb67-7120a8bbd613 -> 1.472646:message:nse:getSymbols:SUCCESS:lot = 1683
+dbb70eb1-3ea7-4ef9-bb67-7120a8bbd613 -> 2021-02-01 10:34:08.611511:message:nseUpd:updSymbols:SUCCESS:upd = true
+ab665cbc-24cc-46c6-938f-3ac7050157df -> 2021-02-01 10:35:49.682623:message:nseUpd:updSymbols:GET:upd = true
+ab665cbc-24cc-46c6-938f-3ac7050157df -> 2021-02-01 10:35:49.725614:message:nse:getSymbols:GET:
+ab665cbc-24cc-46c6-938f-3ac7050157df -> 2021-02-01 10:35:49.743810:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+ab665cbc-24cc-46c6-938f-3ac7050157df -> 2021-02-01 10:35:49.743810:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+ab665cbc-24cc-46c6-938f-3ac7050157df -> 1.331624:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+ab665cbc-24cc-46c6-938f-3ac7050157df -> 1.510588:message:nse:getSymbols:SUCCESS:lot = 1683
+ab665cbc-24cc-46c6-938f-3ac7050157df -> 2021-02-01 10:35:49.682623:message:nseUpd:updSymbols:SUCCESS:upd = true
+f9630b58-d993-4655-ba06-0c6265dfc465 -> 2021-02-01 11:26:52.217761:message:nseUpd:updSymbols:GET:upd = true
+f9630b58-d993-4655-ba06-0c6265dfc465 -> 2021-02-01 11:26:52.276324:message:nse:getSymbols:GET:
+f9630b58-d993-4655-ba06-0c6265dfc465 -> 2021-02-01 11:26:52.290667:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+f9630b58-d993-4655-ba06-0c6265dfc465 -> 2021-02-01 11:26:52.290667:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+f9630b58-d993-4655-ba06-0c6265dfc465 -> 3.448548:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+f9630b58-d993-4655-ba06-0c6265dfc465 -> 3.659006:message:nse:getSymbols:SUCCESS:lot = 1683
+14c2b2c1-5c0a-4906-8a46-73555ba5206b -> 2021-02-01 11:28:24.487160:message:nseUpd:updSymbols:GET:upd = true
+14c2b2c1-5c0a-4906-8a46-73555ba5206b -> 2021-02-01 11:28:24.497978:message:nse:getSymbols:GET:
+14c2b2c1-5c0a-4906-8a46-73555ba5206b -> 2021-02-01 11:28:24.509028:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+14c2b2c1-5c0a-4906-8a46-73555ba5206b -> 2021-02-01 11:28:24.509028:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+14c2b2c1-5c0a-4906-8a46-73555ba5206b -> 2.146435:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+14c2b2c1-5c0a-4906-8a46-73555ba5206b -> 2.284199:message:nse:getSymbols:SUCCESS:lot = 1
+7c42ad5e-bf4c-4d39-9044-b7bf650d26d4 -> 2021-02-01 11:28:46.298467:message:nseUpd:updSymbols:GET:upd = true
+7c42ad5e-bf4c-4d39-9044-b7bf650d26d4 -> 2021-02-01 11:28:46.310834:message:nse:getSymbols:GET:
+7c42ad5e-bf4c-4d39-9044-b7bf650d26d4 -> 2021-02-01 11:28:46.323130:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+7c42ad5e-bf4c-4d39-9044-b7bf650d26d4 -> 2021-02-01 11:28:46.323130:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+7c42ad5e-bf4c-4d39-9044-b7bf650d26d4 -> 1.371184:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+7c42ad5e-bf4c-4d39-9044-b7bf650d26d4 -> 1.48897:message:nse:getSymbols:SUCCESS:lot = 1
+f277cb7d-834f-431e-9204-7270a5463413 -> 2021-02-01 11:29:04.421971:message:nseUpd:updSymbols:GET:upd = true
+f277cb7d-834f-431e-9204-7270a5463413 -> 2021-02-01 11:29:04.434695:message:nse:getSymbols:GET:
+f277cb7d-834f-431e-9204-7270a5463413 -> 2021-02-01 11:29:04.449525:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+f277cb7d-834f-431e-9204-7270a5463413 -> 2021-02-01 11:29:04.449525:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+f277cb7d-834f-431e-9204-7270a5463413 -> 2.444055:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+f277cb7d-834f-431e-9204-7270a5463413 -> 2.58633:message:nse:getSymbols:SUCCESS:lot = 1
+22ee672b-00eb-46bf-a0b1-973ad318bcd8 -> 2021-02-01 11:29:20.131990:message:nseUpd:updSymbols:GET:upd = true
+22ee672b-00eb-46bf-a0b1-973ad318bcd8 -> 2021-02-01 11:29:20.144654:message:nse:getSymbols:GET:
+22ee672b-00eb-46bf-a0b1-973ad318bcd8 -> 2021-02-01 11:29:20.158729:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+22ee672b-00eb-46bf-a0b1-973ad318bcd8 -> 2021-02-01 11:29:20.158729:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+22ee672b-00eb-46bf-a0b1-973ad318bcd8 -> 3.559647:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+22ee672b-00eb-46bf-a0b1-973ad318bcd8 -> 3.710687:message:nse:getSymbols:SUCCESS:lot = 1
+22ee672b-00eb-46bf-a0b1-973ad318bcd8 -> 2021-02-01 11:29:20.131990:message:nseUpd:updSymbols:SUCCESS:upd = true
+1b7aeb33-0c38-40f2-928e-41a321450b56 -> 2021-02-01 11:29:43.470814:message:nseUpd:updSymbols:GET:upd = true
+1b7aeb33-0c38-40f2-928e-41a321450b56 -> 2021-02-01 11:29:43.527864:message:nse:getSymbols:GET:
+1b7aeb33-0c38-40f2-928e-41a321450b56 -> 2021-02-01 11:29:43.534788:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+1b7aeb33-0c38-40f2-928e-41a321450b56 -> 2021-02-01 11:29:43.534788:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+1b7aeb33-0c38-40f2-928e-41a321450b56 -> 3.032615:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+1b7aeb33-0c38-40f2-928e-41a321450b56 -> 3.164655:message:nse:getSymbols:SUCCESS:lot = 1683
+1b7aeb33-0c38-40f2-928e-41a321450b56 -> 2021-02-01 11:29:43.470814:message:nseUpd:updSymbols:SUCCESS:upd = true
+8874c682-5512-4976-991d-42c4f2d575bd -> 2021-02-01 12:11:25.982325:message:quoteReq:getMquote:GET:quoteList = ["TCS", "INFY"]
+749e51a8-0eb3-45aa-adcc-253b43d4eeb2 -> 2021-02-01 12:12:13.042216:message:quoteReq:getMquote:GET:quoteList = [["TCS", "NSE", false]]
+e0e85edf-5889-40c5-bf47-aef883fb1962 -> 2021-02-01 12:12:59.749765:message:quoteReq:getMquote:GET:quoteList = [["TCS", "NSE", false]]
+92472257-5f5a-4553-94ff-bad3cf17145c -> 2021-02-01 12:32:51.971707:message:nseReq:__fetch__:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}}]
+92472257-5f5a-4553-94ff-bad3cf17145c -> 2021-02-01 12:32:52.024680:message:nseReq:__default__:GET:
+92472257-5f5a-4553-94ff-bad3cf17145c -> 2021-02-01 12:32:52.064707:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+92472257-5f5a-4553-94ff-bad3cf17145c -> 1.225038:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+92472257-5f5a-4553-94ff-bad3cf17145c -> 1.292773:message:nseReq:__default__:SUCCESS:
+92472257-5f5a-4553-94ff-bad3cf17145c -> 2021-02-01 12:32:53.377895:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}}]
+92472257-5f5a-4553-94ff-bad3cf17145c -> 0.44178:message:dwnXasync:pull:SUCCESS:lot = 1
+b35057cc-e11c-4cab-85ab-a4aa450ea669 -> 2021-02-01 12:33:01.468374:message:nseReq:__fetch__:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}}]
+b35057cc-e11c-4cab-85ab-a4aa450ea669 -> 2021-02-01 12:33:01.498999:message:nseReq:__default__:GET:
+b35057cc-e11c-4cab-85ab-a4aa450ea669 -> 2021-02-01 12:33:01.538961:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+b35057cc-e11c-4cab-85ab-a4aa450ea669 -> 0.955343:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+b35057cc-e11c-4cab-85ab-a4aa450ea669 -> 1.027458:message:nseReq:__default__:SUCCESS:
+b35057cc-e11c-4cab-85ab-a4aa450ea669 -> 2021-02-01 12:33:02.595014:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}}]
+b35057cc-e11c-4cab-85ab-a4aa450ea669 -> 0.980558:message:dwnXasync:pull:SUCCESS:lot = 1
+b35057cc-e11c-4cab-85ab-a4aa450ea669 -> 2021-02-01 12:33:03.609623:message:nseReq:__fetch__:GET:reqList = []
+b35057cc-e11c-4cab-85ab-a4aa450ea669 -> 2021-02-01 12:33:03.637352:message:nseReq:__default__:GET:
+b35057cc-e11c-4cab-85ab-a4aa450ea669 -> 2021-02-01 12:33:03.663767:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+b35057cc-e11c-4cab-85ab-a4aa450ea669 -> 0.780135:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+78afb215-9c75-4a24-ac58-3d467887f57d -> 2021-02-01 12:34:52.094644:message:nseReq:__fetch__:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}}]
+78afb215-9c75-4a24-ac58-3d467887f57d -> 2021-02-01 12:34:52.140154:message:nseReq:__default__:GET:
+78afb215-9c75-4a24-ac58-3d467887f57d -> 2021-02-01 12:34:52.186298:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+78afb215-9c75-4a24-ac58-3d467887f57d -> 1.168452:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+78afb215-9c75-4a24-ac58-3d467887f57d -> 1.281506:message:nseReq:__default__:SUCCESS:
+78afb215-9c75-4a24-ac58-3d467887f57d -> 2021-02-01 12:34:53.484976:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}}]
+78afb215-9c75-4a24-ac58-3d467887f57d -> 0.519106:message:dwnXasync:pull:SUCCESS:lot = 1
+78afb215-9c75-4a24-ac58-3d467887f57d -> 2021-02-01 12:34:54.042145:message:nseReq:__fetch__:GET:reqList = []
+78afb215-9c75-4a24-ac58-3d467887f57d -> 2021-02-01 12:34:54.060611:message:nseReq:__default__:GET:
+78afb215-9c75-4a24-ac58-3d467887f57d -> 2021-02-01 12:34:54.083326:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+78afb215-9c75-4a24-ac58-3d467887f57d -> 1.374382:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+55201024-f749-4e11-b303-52837d1931c9 -> 2021-02-01 12:35:15.277091:message:nseReq:__fetch__:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}}]
+55201024-f749-4e11-b303-52837d1931c9 -> 2021-02-01 12:35:15.331606:message:nseReq:__default__:GET:
+55201024-f749-4e11-b303-52837d1931c9 -> 2021-02-01 12:35:15.369549:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+55201024-f749-4e11-b303-52837d1931c9 -> 1.118184:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+55201024-f749-4e11-b303-52837d1931c9 -> 1.2094:message:nseReq:__default__:SUCCESS:
+55201024-f749-4e11-b303-52837d1931c9 -> 2021-02-01 12:35:16.611078:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}}]
+55201024-f749-4e11-b303-52837d1931c9 -> 0.436759:message:dwnXasync:pull:SUCCESS:lot = 1
+55201024-f749-4e11-b303-52837d1931c9 -> 2021-02-01 12:35:17.069777:message:nseReq:__fetch__:GET:reqList = []
+55201024-f749-4e11-b303-52837d1931c9 -> 2021-02-01 12:35:17.095833:message:nseReq:__default__:GET:
+55201024-f749-4e11-b303-52837d1931c9 -> 2021-02-01 12:35:17.113504:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+55201024-f749-4e11-b303-52837d1931c9 -> 1.367441:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:50.823179:message:nseReq:__fetch__:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}}]
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:50.876567:message:nseReq:__default__:GET:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:50.916411:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.840775:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.912347:message:nseReq:__default__:SUCCESS:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:51.854103:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}}]
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.410854:message:dwnXasync:pull:SUCCESS:lot = 1
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:52.298293:message:nseReq:__fetch__:GET:reqList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:52.309596:message:nseReq:__default__:GET:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:52.321736:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.752687:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.792305:message:nseReq:__default__:SUCCESS:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:53.123270:message:dwnXasync:pull:GET:queryList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.018841:message:dwnXasync:pull:SUCCESS:lot = 0
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:53.158352:message:nseReq:__fetch__:GET:reqList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:53.173844:message:nseReq:__default__:GET:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:53.192463:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.300533:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.360398:message:nseReq:__default__:SUCCESS:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:53.545869:message:dwnXasync:pull:GET:queryList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.011666:message:dwnXasync:pull:SUCCESS:lot = 0
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:53.568235:message:nseReq:__fetch__:GET:reqList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:53.579316:message:nseReq:__default__:GET:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:53.591172:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.249402:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.273547:message:nseReq:__default__:SUCCESS:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:53.864805:message:dwnXasync:pull:GET:queryList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.011598:message:dwnXasync:pull:SUCCESS:lot = 0
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:53.887118:message:nseReq:__fetch__:GET:reqList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:53.898041:message:nseReq:__default__:GET:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:53.910621:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.248631:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.281508:message:nseReq:__default__:SUCCESS:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:54.197759:message:dwnXasync:pull:GET:queryList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.020655:message:dwnXasync:pull:SUCCESS:lot = 0
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:54.236747:message:nseReq:__fetch__:GET:reqList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:54.247528:message:nseReq:__default__:GET:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:54.260899:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.31004:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.342471:message:nseReq:__default__:SUCCESS:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:54.601190:message:dwnXasync:pull:GET:queryList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.011422:message:dwnXasync:pull:SUCCESS:lot = 0
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:54.623267:message:nseReq:__fetch__:GET:reqList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:54.634850:message:nseReq:__default__:GET:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:54.647312:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.275526:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.35328:message:nseReq:__default__:SUCCESS:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:55.010125:message:dwnXasync:pull:GET:queryList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.029094:message:dwnXasync:pull:SUCCESS:lot = 0
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:55.054619:message:nseReq:__fetch__:GET:reqList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:55.065762:message:nseReq:__default__:GET:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:55.078313:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.288598:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.341042:message:nseReq:__default__:SUCCESS:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:55.418352:message:dwnXasync:pull:GET:queryList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.011574:message:dwnXasync:pull:SUCCESS:lot = 0
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:55.440943:message:nseReq:__fetch__:GET:reqList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:55.452737:message:nseReq:__default__:GET:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:55.464622:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.24971:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.27357:message:nseReq:__default__:SUCCESS:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:55.739070:message:dwnXasync:pull:GET:queryList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.013617:message:dwnXasync:pull:SUCCESS:lot = 0
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:55.769107:message:nseReq:__fetch__:GET:reqList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:55.786511:message:nseReq:__default__:GET:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:55.806701:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.456647:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.490238:message:nseReq:__default__:SUCCESS:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:56.291576:message:dwnXasync:pull:GET:queryList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.012043:message:dwnXasync:pull:SUCCESS:lot = 0
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:56.315243:message:nseReq:__fetch__:GET:reqList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:56.326290:message:nseReq:__default__:GET:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:56.339438:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.372677:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.45445:message:nseReq:__default__:SUCCESS:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:56.800971:message:dwnXasync:pull:GET:queryList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.022549:message:dwnXasync:pull:SUCCESS:lot = 0
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:56.842969:message:nseReq:__fetch__:GET:reqList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:56.862409:message:nseReq:__default__:GET:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:56.877271:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.371615:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.443676:message:nseReq:__default__:SUCCESS:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:57.317589:message:dwnXasync:pull:GET:queryList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.011576:message:dwnXasync:pull:SUCCESS:lot = 0
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:57.339415:message:nseReq:__fetch__:GET:reqList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:57.351120:message:nseReq:__default__:GET:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:57.363004:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.451368:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.485544:message:nseReq:__default__:SUCCESS:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:57.858760:message:dwnXasync:pull:GET:queryList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 0.020654:message:dwnXasync:pull:SUCCESS:lot = 0
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:57.896895:message:nseReq:__fetch__:GET:reqList = []
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:57.910800:message:nseReq:__default__:GET:
+be9b3ba0-f74e-43f2-88a1-9d9017339611 -> 2021-02-01 12:39:57.926443:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+e5457289-a45e-467a-a54f-fdc73d7df48a -> 2021-02-01 12:40:24.605139:message:nseReq:__fetch__:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}}]
+e5457289-a45e-467a-a54f-fdc73d7df48a -> 2021-02-01 12:40:24.654159:message:nseReq:__default__:GET:
+e5457289-a45e-467a-a54f-fdc73d7df48a -> 2021-02-01 12:40:24.698899:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+e5457289-a45e-467a-a54f-fdc73d7df48a -> 1.483793:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+e5457289-a45e-467a-a54f-fdc73d7df48a -> 1.603674:message:nseReq:__default__:SUCCESS:
+e5457289-a45e-467a-a54f-fdc73d7df48a -> 2021-02-01 12:40:26.329686:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}}]
+e5457289-a45e-467a-a54f-fdc73d7df48a -> 1.185784:message:dwnXasync:pull:SUCCESS:lot = 1
+e5457289-a45e-467a-a54f-fdc73d7df48a -> 2021-02-01 12:40:24.605139:message:nseReq:__fetch__:SUCCESS:lot = 1
+4bf20fcf-2db6-43a0-b3b7-986894be9f20 -> 2021-02-01 12:40:43.670696:message:nseReq:__fetch__:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}}]
+4bf20fcf-2db6-43a0-b3b7-986894be9f20 -> 2021-02-01 12:40:43.700144:message:nseReq:__default__:GET:
+4bf20fcf-2db6-43a0-b3b7-986894be9f20 -> 2021-02-01 12:40:43.739896:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+4bf20fcf-2db6-43a0-b3b7-986894be9f20 -> 1.524256:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+4bf20fcf-2db6-43a0-b3b7-986894be9f20 -> 1.5938:message:nseReq:__default__:SUCCESS:
+4bf20fcf-2db6-43a0-b3b7-986894be9f20 -> 2021-02-01 12:40:45.365757:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}}]
+4bf20fcf-2db6-43a0-b3b7-986894be9f20 -> 0.705658:message:dwnXasync:pull:SUCCESS:lot = 1
+4bf20fcf-2db6-43a0-b3b7-986894be9f20 -> 2021-02-01 12:40:43.670696:message:nseReq:__fetch__:SUCCESS:lot = 1
+d1e5712c-978c-4f9c-9970-33d58c51f4bb -> 2021-02-01 12:49:18.921779:message:nseReq:cPull:GET:reqList = ["https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info", "https://www.nseindia.com/api/quote-equity?symbol=INFY&section=trade_info"]
+d1e5712c-978c-4f9c-9970-33d58c51f4bb -> 2021-02-01 12:49:18.967545:message:nseReq:__default__:GET:
+d1e5712c-978c-4f9c-9970-33d58c51f4bb -> 2021-02-01 12:49:19.007134:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+d1e5712c-978c-4f9c-9970-33d58c51f4bb -> 1.189674:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+d1e5712c-978c-4f9c-9970-33d58c51f4bb -> 1.292149:message:nseReq:__default__:SUCCESS:
+d1e5712c-978c-4f9c-9970-33d58c51f4bb -> 2021-02-01 12:49:20.336457:message:dwnXasync:pull:GET:queryList = ["https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info", "https://www.nseindia.com/api/quote-equity?symbol=INFY&section=trade_info"]
+74febacb-7460-4023-baae-ec04b082f888 -> 2021-02-01 12:51:55.362676:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}}, {"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=INFY&section=trade_info"}}]
+74febacb-7460-4023-baae-ec04b082f888 -> 2021-02-01 12:51:55.414988:message:nseReq:__default__:GET:
+74febacb-7460-4023-baae-ec04b082f888 -> 2021-02-01 12:51:55.457045:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+74febacb-7460-4023-baae-ec04b082f888 -> 0.766209:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+74febacb-7460-4023-baae-ec04b082f888 -> 0.839756:message:nseReq:__default__:SUCCESS:
+74febacb-7460-4023-baae-ec04b082f888 -> 2021-02-01 12:51:56.328217:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}}, {"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=INFY&section=trade_info"}}]
+74febacb-7460-4023-baae-ec04b082f888 -> 1.049835:message:dwnXasync:pull:SUCCESS:lot = 2
+74febacb-7460-4023-baae-ec04b082f888 -> 2021-02-01 12:51:55.362676:message:nseReq:cPull:SUCCESS:lot = 2
+14ebf029-b65a-480a-a6c0-f253eb3af241 -> 2021-02-01 12:52:06.285234:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}}, {"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=INFY&section=trade_info"}}]
+14ebf029-b65a-480a-a6c0-f253eb3af241 -> 2021-02-01 12:52:06.337058:message:nseReq:__default__:GET:
+14ebf029-b65a-480a-a6c0-f253eb3af241 -> 2021-02-01 12:52:06.375768:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+14ebf029-b65a-480a-a6c0-f253eb3af241 -> 0.932229:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+14ebf029-b65a-480a-a6c0-f253eb3af241 -> 0.997983:message:nseReq:__default__:SUCCESS:
+14ebf029-b65a-480a-a6c0-f253eb3af241 -> 2021-02-01 12:52:07.400007:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}}, {"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=INFY&section=trade_info"}}]
+14ebf029-b65a-480a-a6c0-f253eb3af241 -> 0.634008:message:dwnXasync:pull:SUCCESS:lot = 2
+14ebf029-b65a-480a-a6c0-f253eb3af241 -> 2021-02-01 12:52:06.285234:message:nseReq:cPull:SUCCESS:lot = 2
+b8870553-d98c-4a1c-8261-31ac84df0d7c -> 2021-02-01 13:00:03.963836:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}, {"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=INFY"}}]
+b8870553-d98c-4a1c-8261-31ac84df0d7c -> 2021-02-01 13:00:04.012409:message:nseReq:__default__:GET:
+b8870553-d98c-4a1c-8261-31ac84df0d7c -> 2021-02-01 13:00:04.052604:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+b8870553-d98c-4a1c-8261-31ac84df0d7c -> 1.694998:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+b8870553-d98c-4a1c-8261-31ac84df0d7c -> 1.793549:message:nseReq:__default__:SUCCESS:
+b8870553-d98c-4a1c-8261-31ac84df0d7c -> 2021-02-01 13:00:05.869137:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}, {"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=INFY"}}]
+b8870553-d98c-4a1c-8261-31ac84df0d7c -> 0.914291:message:dwnXasync:pull:SUCCESS:lot = 2
+b8870553-d98c-4a1c-8261-31ac84df0d7c -> 2021-02-01 13:00:03.963836:message:nseReq:cPull:SUCCESS:lot = 2
+2ede7467-0a7c-47f3-8a62-d48cd9282916 -> 2021-02-01 13:00:31.282761:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}, {"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=INFY"}}]
+2ede7467-0a7c-47f3-8a62-d48cd9282916 -> 2021-02-01 13:00:31.350717:message:nseReq:__default__:GET:
+2ede7467-0a7c-47f3-8a62-d48cd9282916 -> 2021-02-01 13:00:31.390734:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+2ede7467-0a7c-47f3-8a62-d48cd9282916 -> 0.824412:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+2ede7467-0a7c-47f3-8a62-d48cd9282916 -> 0.896941:message:nseReq:__default__:SUCCESS:
+2ede7467-0a7c-47f3-8a62-d48cd9282916 -> 2021-02-01 13:00:32.309704:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}, {"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=INFY"}}]
+2ede7467-0a7c-47f3-8a62-d48cd9282916 -> 0.640739:message:dwnXasync:pull:SUCCESS:lot = 2
+2ede7467-0a7c-47f3-8a62-d48cd9282916 -> 2021-02-01 13:00:31.282761:message:nseReq:cPull:SUCCESS:lot = 2
+48a8e803-57a0-432f-9c8a-70fd72e57dbf -> 2021-02-01 13:22:31.570081:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}, {"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=INFY"}}]
+48a8e803-57a0-432f-9c8a-70fd72e57dbf -> 2021-02-01 13:22:31.589586:message:nseReq:__default__:GET:
+48a8e803-57a0-432f-9c8a-70fd72e57dbf -> 2021-02-01 13:22:31.623563:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+48a8e803-57a0-432f-9c8a-70fd72e57dbf -> 1.514697:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+48a8e803-57a0-432f-9c8a-70fd72e57dbf -> 1.567602:message:nseReq:__default__:SUCCESS:
+48a8e803-57a0-432f-9c8a-70fd72e57dbf -> 2021-02-01 13:22:33.219767:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}, {"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=INFY"}}]
+48a8e803-57a0-432f-9c8a-70fd72e57dbf -> 3.172811:message:dwnXasync:pull:SUCCESS:lot = 2
+48a8e803-57a0-432f-9c8a-70fd72e57dbf -> 2021-02-01 13:22:31.570081:message:nseReq:cPull:SUCCESS:lot = 2
+5cb9fa2d-9a73-4ea0-95d0-99d09a7edf81 -> 2021-02-01 13:25:16.453556:message:nseUpd:updSymbols:GET:upd = true
+5cb9fa2d-9a73-4ea0-95d0-99d09a7edf81 -> 2021-02-01 13:25:16.479114:message:nse:getSymbols:GET:
+5cb9fa2d-9a73-4ea0-95d0-99d09a7edf81 -> 2021-02-01 13:25:16.491271:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+5cb9fa2d-9a73-4ea0-95d0-99d09a7edf81 -> 2021-02-01 13:25:16.491271:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+5cb9fa2d-9a73-4ea0-95d0-99d09a7edf81 -> 1.770353:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+5cb9fa2d-9a73-4ea0-95d0-99d09a7edf81 -> 1.90646:message:nse:getSymbols:SUCCESS:lot = 1683
+5cb9fa2d-9a73-4ea0-95d0-99d09a7edf81 -> 2021-02-01 13:25:16.453556:message:nseUpd:updSymbols:SUCCESS:upd = true
+0683ab5e-4b4a-44eb-afb0-1637a7390dca -> 2021-02-01 13:27:03.977937:message:nseUpd:updSymbols:GET:upd = true
+0683ab5e-4b4a-44eb-afb0-1637a7390dca -> 2021-02-01 13:27:04.003358:message:nse:getSymbols:GET:
+0683ab5e-4b4a-44eb-afb0-1637a7390dca -> 2021-02-01 13:27:04.016185:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+0683ab5e-4b4a-44eb-afb0-1637a7390dca -> 2021-02-01 13:27:04.016185:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+0683ab5e-4b4a-44eb-afb0-1637a7390dca -> 2.619132:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+0683ab5e-4b4a-44eb-afb0-1637a7390dca -> 2.818359:message:nse:getSymbols:SUCCESS:lot = 1683
+c29f2a3f-2312-4e1c-a676-bd689ed50c59 -> 2021-02-01 13:27:28.278938:message:nseUpd:updSymbols:GET:upd = true
+c29f2a3f-2312-4e1c-a676-bd689ed50c59 -> 2021-02-01 13:27:28.299693:message:nse:getSymbols:GET:
+c29f2a3f-2312-4e1c-a676-bd689ed50c59 -> 2021-02-01 13:27:28.311279:message:dwn:regular:GET:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+c29f2a3f-2312-4e1c-a676-bd689ed50c59 -> 2021-02-01 13:27:28.311279:message:dwn:regular:PUT:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "archives.nseindia.com", "Referer": "archives.nseindia.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}}
+c29f2a3f-2312-4e1c-a676-bd689ed50c59 -> 1.647638:message:dwn:regular:SUCCESS:params = {"url": "https://archives.nseindia.com/content/equities/EQUITY_L.csv", "enc": "utf-8"}
+c29f2a3f-2312-4e1c-a676-bd689ed50c59 -> 1.851759:message:nse:getSymbols:SUCCESS:lot = 1683
+c29f2a3f-2312-4e1c-a676-bd689ed50c59 -> 2021-02-01 13:27:28.278938:message:nseUpd:updSymbols:SUCCESS:upd = true
+c52b0086-e5b5-420d-9c2a-cb0430e4ab07 -> 2021-02-01 13:32:43.149923:message:nseUpd:updSymbols:GET:upd = false, symbolList = true
+4cec0e57-1841-47ce-8e9a-e71c81359744 -> 2021-02-01 13:33:44.472678:message:nseUpd:updSymbols:GET:upd = true, symbolList = ["TCS"]
+4cec0e57-1841-47ce-8e9a-e71c81359744 -> 2021-02-01 13:33:44.498404:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+4cec0e57-1841-47ce-8e9a-e71c81359744 -> 2021-02-01 13:33:44.518464:message:nseReq:__default__:GET:
+4cec0e57-1841-47ce-8e9a-e71c81359744 -> 2021-02-01 13:33:44.560869:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+4cec0e57-1841-47ce-8e9a-e71c81359744 -> 1.341589:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+4cec0e57-1841-47ce-8e9a-e71c81359744 -> 1.410218:message:nseReq:__default__:SUCCESS:
+4cec0e57-1841-47ce-8e9a-e71c81359744 -> 2021-02-01 13:33:45.989027:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+4cec0e57-1841-47ce-8e9a-e71c81359744 -> 1.833984:message:dwnXasync:pull:SUCCESS:lot = 1
+4cec0e57-1841-47ce-8e9a-e71c81359744 -> 2021-02-01 13:33:44.498404:message:nseReq:cPull:SUCCESS:lot = 1
+4cec0e57-1841-47ce-8e9a-e71c81359744 -> 3.438181:message:nseUpd:updSymbols:SUCCESS:lot = 1
+3e7d3d17-407e-43b2-b5a3-53a2d67e1758 -> 2021-02-01 13:44:17.119856:message:nseUpd:updSymbols:GET:upd = true, symbolList = ["TCS"]
+3e7d3d17-407e-43b2-b5a3-53a2d67e1758 -> 2021-02-01 13:44:17.130005:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+3e7d3d17-407e-43b2-b5a3-53a2d67e1758 -> 2021-02-01 13:44:17.137656:message:nseReq:__default__:GET:
+3e7d3d17-407e-43b2-b5a3-53a2d67e1758 -> 2021-02-01 13:44:17.174367:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+3e7d3d17-407e-43b2-b5a3-53a2d67e1758 -> 1.399426:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+3e7d3d17-407e-43b2-b5a3-53a2d67e1758 -> 1.476582:message:nseReq:__default__:SUCCESS:
+3e7d3d17-407e-43b2-b5a3-53a2d67e1758 -> 2021-02-01 13:44:18.669489:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+3e7d3d17-407e-43b2-b5a3-53a2d67e1758 -> 1.168794:message:dwnXasync:pull:SUCCESS:lot = 1
+3e7d3d17-407e-43b2-b5a3-53a2d67e1758 -> 2021-02-01 13:44:17.130005:message:nseReq:cPull:SUCCESS:lot = 1
+3eb12e50-0d06-4955-ad3a-de0397f6a8ec -> 2021-02-01 13:44:55.256665:message:nseUpd:updSymbols:GET:upd = true, symbolList = ["TCS"]
+3eb12e50-0d06-4955-ad3a-de0397f6a8ec -> 2021-02-01 13:44:55.283472:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+3eb12e50-0d06-4955-ad3a-de0397f6a8ec -> 2021-02-01 13:44:55.301661:message:nseReq:__default__:GET:
+3eb12e50-0d06-4955-ad3a-de0397f6a8ec -> 2021-02-01 13:44:55.343673:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+3eb12e50-0d06-4955-ad3a-de0397f6a8ec -> 1.467868:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+3eb12e50-0d06-4955-ad3a-de0397f6a8ec -> 1.546666:message:nseReq:__default__:SUCCESS:
+3eb12e50-0d06-4955-ad3a-de0397f6a8ec -> 2021-02-01 13:44:56.911436:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+3eb12e50-0d06-4955-ad3a-de0397f6a8ec -> 0.339235:message:dwnXasync:pull:SUCCESS:lot = 1
+3eb12e50-0d06-4955-ad3a-de0397f6a8ec -> 2021-02-01 13:44:55.283472:message:nseReq:cPull:SUCCESS:lot = 1
+5c21831d-178e-4ca5-b66d-f0cbb3526aa1 -> 2021-02-01 13:45:37.302352:message:nseUpd:updSymbols:GET:upd = true, symbolList = ["TCS"]
+5c21831d-178e-4ca5-b66d-f0cbb3526aa1 -> 2021-02-01 13:45:37.325755:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+5c21831d-178e-4ca5-b66d-f0cbb3526aa1 -> 2021-02-01 13:45:37.342189:message:nseReq:__default__:GET:
+5c21831d-178e-4ca5-b66d-f0cbb3526aa1 -> 2021-02-01 13:45:37.382947:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+5c21831d-178e-4ca5-b66d-f0cbb3526aa1 -> 1.050131:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+5c21831d-178e-4ca5-b66d-f0cbb3526aa1 -> 1.131998:message:nseReq:__default__:SUCCESS:
+5c21831d-178e-4ca5-b66d-f0cbb3526aa1 -> 2021-02-01 13:45:38.543666:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+5c21831d-178e-4ca5-b66d-f0cbb3526aa1 -> 0.511277:message:dwnXasync:pull:SUCCESS:lot = 1
+5c21831d-178e-4ca5-b66d-f0cbb3526aa1 -> 2021-02-01 13:45:37.325755:message:nseReq:cPull:SUCCESS:lot = 1
+a5527149-29ef-435e-aa74-35ef0992ccfa -> 2021-02-01 13:47:41.178397:message:nseUpd:updSymbols:GET:upd = true, symbolList = ["TCS"]
+a5527149-29ef-435e-aa74-35ef0992ccfa -> 2021-02-01 13:47:41.226365:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+a5527149-29ef-435e-aa74-35ef0992ccfa -> 2021-02-01 13:47:41.245185:message:nseReq:__default__:GET:
+a5527149-29ef-435e-aa74-35ef0992ccfa -> 2021-02-01 13:47:41.289396:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+a5527149-29ef-435e-aa74-35ef0992ccfa -> 1.948796:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+a5527149-29ef-435e-aa74-35ef0992ccfa -> 2.018045:message:nseReq:__default__:SUCCESS:
+a5527149-29ef-435e-aa74-35ef0992ccfa -> 2021-02-01 13:47:43.333185:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+f9836383-76ab-4d90-8892-581de4c1dd2e -> 2021-02-01 13:47:59.872930:message:nseUpd:updSymbols:GET:upd = true, symbolList = ["TCS"]
+f9836383-76ab-4d90-8892-581de4c1dd2e -> 2021-02-01 13:47:59.883118:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+f9836383-76ab-4d90-8892-581de4c1dd2e -> 2021-02-01 13:47:59.891416:message:nseReq:__default__:GET:
+f9836383-76ab-4d90-8892-581de4c1dd2e -> 2021-02-01 13:47:59.928299:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+f9836383-76ab-4d90-8892-581de4c1dd2e -> 1.319326:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+f9836383-76ab-4d90-8892-581de4c1dd2e -> 1.380476:message:nseReq:__default__:SUCCESS:
+f9836383-76ab-4d90-8892-581de4c1dd2e -> 2021-02-01 13:48:01.334691:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+f9836383-76ab-4d90-8892-581de4c1dd2e -> 1.82978:message:dwnXasync:pull:SUCCESS:lot = 1
+f9836383-76ab-4d90-8892-581de4c1dd2e -> 2021-02-01 13:47:59.883118:message:nseReq:cPull:SUCCESS:lot = 1
+40d67e11-0ea6-4c65-a2fc-e74c97b6125a -> 2021-02-01 13:48:46.574356:message:nseUpd:updSymbols:GET:upd = true, symbolList = ["TCS"]
+40d67e11-0ea6-4c65-a2fc-e74c97b6125a -> 2021-02-01 13:48:46.595272:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+40d67e11-0ea6-4c65-a2fc-e74c97b6125a -> 2021-02-01 13:48:46.619695:message:nseReq:__default__:GET:
+40d67e11-0ea6-4c65-a2fc-e74c97b6125a -> 2021-02-01 13:48:46.661441:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+40d67e11-0ea6-4c65-a2fc-e74c97b6125a -> 1.588148:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+40d67e11-0ea6-4c65-a2fc-e74c97b6125a -> 1.696334:message:nseReq:__default__:SUCCESS:
+40d67e11-0ea6-4c65-a2fc-e74c97b6125a -> 2021-02-01 13:48:48.389673:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+40d67e11-0ea6-4c65-a2fc-e74c97b6125a -> 0.418406:message:dwnXasync:pull:SUCCESS:lot = 1
+40d67e11-0ea6-4c65-a2fc-e74c97b6125a -> 2021-02-01 13:48:46.595272:message:nseReq:cPull:SUCCESS:lot = 1
+5688ff4f-6bf5-41e6-a842-ab4931c1f22a -> 2021-02-01 13:49:41.929105:message:nseUpd:updSymbols:GET:upd = true, symbolList = ["TCS"]
+5688ff4f-6bf5-41e6-a842-ab4931c1f22a -> 2021-02-01 13:49:41.956299:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+5688ff4f-6bf5-41e6-a842-ab4931c1f22a -> 2021-02-01 13:49:41.974430:message:nseReq:__default__:GET:
+5688ff4f-6bf5-41e6-a842-ab4931c1f22a -> 2021-02-01 13:49:42.017187:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+5688ff4f-6bf5-41e6-a842-ab4931c1f22a -> 1.628001:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+5688ff4f-6bf5-41e6-a842-ab4931c1f22a -> 1.698649:message:nseReq:__default__:SUCCESS:
+5688ff4f-6bf5-41e6-a842-ab4931c1f22a -> 2021-02-01 13:49:43.737959:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+5688ff4f-6bf5-41e6-a842-ab4931c1f22a -> 1.409396:message:dwnXasync:pull:SUCCESS:lot = 1
+5688ff4f-6bf5-41e6-a842-ab4931c1f22a -> 2021-02-01 13:49:41.956299:message:nseReq:cPull:SUCCESS:lot = 1
+fabd8d6b-ffe5-4e15-9198-2aa6a08be15c -> 2021-02-01 13:51:33.149379:message:nseUpd:updSymbols:GET:upd = true, symbolList = ["TCS"]
+fabd8d6b-ffe5-4e15-9198-2aa6a08be15c -> 2021-02-01 13:51:33.176080:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+fabd8d6b-ffe5-4e15-9198-2aa6a08be15c -> 2021-02-01 13:51:33.193838:message:nseReq:__default__:GET:
+fabd8d6b-ffe5-4e15-9198-2aa6a08be15c -> 2021-02-01 13:51:33.236005:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+fabd8d6b-ffe5-4e15-9198-2aa6a08be15c -> 1.351028:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+fabd8d6b-ffe5-4e15-9198-2aa6a08be15c -> 1.420716:message:nseReq:__default__:SUCCESS:
+fabd8d6b-ffe5-4e15-9198-2aa6a08be15c -> 2021-02-01 13:51:34.687574:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+7004fb85-1c49-4c13-b37f-f2f88d4fde06 -> 2021-02-01 13:52:11.346603:message:nseUpd:updSymbols:GET:upd = true, symbolList = ["TCS"]
+7004fb85-1c49-4c13-b37f-f2f88d4fde06 -> 2021-02-01 13:52:11.383017:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+7004fb85-1c49-4c13-b37f-f2f88d4fde06 -> 2021-02-01 13:52:11.391022:message:nseReq:__default__:GET:
+7004fb85-1c49-4c13-b37f-f2f88d4fde06 -> 2021-02-01 13:52:11.428656:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+7004fb85-1c49-4c13-b37f-f2f88d4fde06 -> 1.5178:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+7004fb85-1c49-4c13-b37f-f2f88d4fde06 -> 1.574451:message:nseReq:__default__:SUCCESS:
+7004fb85-1c49-4c13-b37f-f2f88d4fde06 -> 2021-02-01 13:52:13.021153:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS"}}]
+7004fb85-1c49-4c13-b37f-f2f88d4fde06 -> 0.435346:message:dwnXasync:pull:SUCCESS:lot = 1
+7004fb85-1c49-4c13-b37f-f2f88d4fde06 -> 2021-02-01 13:52:11.383017:message:nseReq:cPull:SUCCESS:lot = 1
+7004fb85-1c49-4c13-b37f-f2f88d4fde06 -> 2.275423:message:nseUpd:updSymbols:SUCCESS:lot = 1
+5c83fe38-2d2a-40b0-8758-f8e1e9cfe0d0 -> 2021-02-01 21:17:42.836923:message:redisClient:__setUp__:GET:check = false
+5c83fe38-2d2a-40b0-8758-f8e1e9cfe0d0 -> 0.030218:message:redisClient:__setUp__:SUCCESS:check = false
+75ac6b5c-6331-4dba-9cca-3e21b9f12192 -> 2021-02-01 21:21:03.308785:message:redisClient:__setUp__:GET:check = false
+75ac6b5c-6331-4dba-9cca-3e21b9f12192 -> 0.025547:message:redisClient:__setUp__:SUCCESS:check = false
+aa04d5fb-797e-4393-94d5-f757307fd01d -> 2021-02-01 21:21:26.919665:message:redisClient:__setUp__:GET:check = false
+aa04d5fb-797e-4393-94d5-f757307fd01d -> 0.040549:message:redisClient:__setUp__:SUCCESS:check = false
+aa04d5fb-797e-4393-94d5-f757307fd01d -> 2021-02-01 21:21:27.125901:message:nseUpd:updQuote:GET:upd = false, symbolList = [["TCS", "NSE", false]]
+d8119aeb-f9c8-4124-a3b0-f031d10fc782 -> 2021-02-01 21:21:38.575844:message:redisClient:__setUp__:GET:check = false
+d8119aeb-f9c8-4124-a3b0-f031d10fc782 -> 0.038671:message:redisClient:__setUp__:SUCCESS:check = false
+d8119aeb-f9c8-4124-a3b0-f031d10fc782 -> 2021-02-01 21:21:38.776939:message:nseUpd:updQuote:GET:upd = false, symbolList = [["TCS", "NSE", false]]
+d8119aeb-f9c8-4124-a3b0-f031d10fc782 -> 0.072178:message:nseUpd:updQuote:GET:upd = false
+b77dd14d-9708-42e9-8df6-3fcab1ba1fad -> 2021-02-01 21:22:21.731057:message:redisClient:__setUp__:GET:check = false
+b77dd14d-9708-42e9-8df6-3fcab1ba1fad -> 0.035833:message:redisClient:__setUp__:SUCCESS:check = false
+b77dd14d-9708-42e9-8df6-3fcab1ba1fad -> 2021-02-01 21:22:21.929238:message:nseUpd:updQuote:GET:upd = false, symbolList = [["TCS", "NSE", false]]
+b77dd14d-9708-42e9-8df6-3fcab1ba1fad -> 0.06745:message:nseUpd:updQuote:GET:upd = false
+af605af3-d3c8-46aa-b8fe-83e7bb9ce2be -> 2021-02-01 21:22:38.391983:message:redisClient:__setUp__:GET:check = false
+af605af3-d3c8-46aa-b8fe-83e7bb9ce2be -> 0.041438:message:redisClient:__setUp__:SUCCESS:check = false
+af605af3-d3c8-46aa-b8fe-83e7bb9ce2be -> 2021-02-01 21:22:38.597457:message:nseUpd:updQuote:GET:upd = true, symbolList = [["TCS", "NSE", false]]
+af605af3-d3c8-46aa-b8fe-83e7bb9ce2be -> 2021-02-01 21:22:38.687664:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+af605af3-d3c8-46aa-b8fe-83e7bb9ce2be -> 2021-02-01 21:22:38.711645:message:nseReq:__default__:GET:
+af605af3-d3c8-46aa-b8fe-83e7bb9ce2be -> 2021-02-01 21:22:38.758112:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}
+af605af3-d3c8-46aa-b8fe-83e7bb9ce2be -> 1.917267:message:dwnXsync:pull:SUCCESS:method = "GET", lot = 1
+af605af3-d3c8-46aa-b8fe-83e7bb9ce2be -> 1.998085:message:nseReq:__default__:SUCCESS:
+af605af3-d3c8-46aa-b8fe-83e7bb9ce2be -> 2021-02-01 21:22:40.780897:message:dwnXasync:pull:GET:queryList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+af605af3-d3c8-46aa-b8fe-83e7bb9ce2be -> 0.626139:message:dwnXasync:pull:SUCCESS:lot = 1
+af605af3-d3c8-46aa-b8fe-83e7bb9ce2be -> 2021-02-01 21:22:38.687664:message:nseReq:cPull:SUCCESS:lot = 1
+af605af3-d3c8-46aa-b8fe-83e7bb9ce2be -> 2.924619:message:nseUpd:updQuote:GET:upd = true
+d159d69f-64b4-495b-8fcd-23132069fdae -> 2021-02-01 21:27:16.585445:message:samco:__login__:GET:log = false
+d159d69f-64b4-495b-8fcd-23132069fdae -> 2021-02-01 21:27:16.605427:message:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@T$@L901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+d159d69f-64b4-495b-8fcd-23132069fdae -> 2021-02-01 21:27:16.605427:message:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@T$@L901\", \"yob\": \"1999\"}"}
+d159d69f-64b4-495b-8fcd-23132069fdae -> 3.820427:message:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@T$@L901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+d159d69f-64b4-495b-8fcd-23132069fdae -> 2021-02-01 21:27:20.490491:message:samco:__reqParse__:GET:
+d159d69f-64b4-495b-8fcd-23132069fdae -> 0.022886:message:samco:__reqParse__:SUCCESS:
+d159d69f-64b4-495b-8fcd-23132069fdae -> 2021-02-01 21:27:16.585445:message:samco:__login__:SUCCESS:log = true
+d159d69f-64b4-495b-8fcd-23132069fdae -> 2021-02-01 21:27:20.564056:message:mDwn:mRegular:GET:urlList = [{"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "adb9ba8007f4a6c5f8f52b96be96463b"}}]
+d159d69f-64b4-495b-8fcd-23132069fdae -> 2021-02-01 21:27:20.592793:message:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "adb9ba8007f4a6c5f8f52b96be96463b"}, "payLoad": null}
+d159d69f-64b4-495b-8fcd-23132069fdae -> 0.62164:message:mDwn:__fetch__:SUCCESS:url = "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE"
+d159d69f-64b4-495b-8fcd-23132069fdae -> 0.673532:message:mDwn:mRegular:SUCCESS:lot = 1
+d159d69f-64b4-495b-8fcd-23132069fdae -> 2021-02-01 21:27:21.247710:message:samco:__blTul__:GET:
+d159d69f-64b4-495b-8fcd-23132069fdae -> 0.010501:message:samco:__blTul__:SUCCESS:
+471a5b82-09dc-45b3-b96b-2bf2c9fd40cb -> 2021-02-01 21:50:35.513331:message:redisClient:__setUp__:GET:check = false
+471a5b82-09dc-45b3-b96b-2bf2c9fd40cb -> 0.02893:message:redisClient:__setUp__:SUCCESS:check = false
+471a5b82-09dc-45b3-b96b-2bf2c9fd40cb -> 2021-02-01 21:50:35.549724:message:redicClient:rSet:GET:toSet = 1
+471a5b82-09dc-45b3-b96b-2bf2c9fd40cb -> 2021-02-01 21:50:35.549724:message:redicClient:rSet:SUCCESS:toSet = true
+6408d2de-a607-440c-a78c-e73ba94b929d -> 2021-02-01 21:50:35.583269:message:redisClient:__setUp__:GET:check = false
+6408d2de-a607-440c-a78c-e73ba94b929d -> 0.021144:message:redisClient:__setUp__:SUCCESS:check = false
+6408d2de-a607-440c-a78c-e73ba94b929d -> 2021-02-01 21:50:35.611441:message:redisClient:rGet:GET:key = "symbolList"
+6408d2de-a607-440c-a78c-e73ba94b929d -> 2021-02-01 21:50:35.611441:message:redisClient:rGet:SUCCESS:lot = 1
+58d13dc3-cc02-4649-b789-74cf06f98592 -> 2021-02-01 21:52:09.884383:message:redisClient:__setUp__:GET:check = false
+58d13dc3-cc02-4649-b789-74cf06f98592 -> 0.064725:message:redisClient:__setUp__:SUCCESS:check = false
+58d13dc3-cc02-4649-b789-74cf06f98592 -> 2021-02-01 21:52:10.126622:message:nseUpd:updQuote:GET:upd = true, symbolList = [["TCS", "NSE", false]]
+58d13dc3-cc02-4649-b789-74cf06f98592 -> 2021-02-01 21:52:10.163849:message:nseReq:cPull:GET:reqList = [{"kwargs": {"url": "https://www.nseindia.com/api/quote-equity?symbol=TCS&section=trade_info"}, "eCode": [200, 401]}]
+58d13dc3-cc02-4649-b789-74cf06f98592 -> 2021-02-01 21:52:10.172147:message:nseReq:__default__:GET:
+58d13dc3-cc02-4649-b789-74cf06f98592 -> 2021-02-01 21:52:10.213889:message:dwnXsync:pull:GET:method = "GET", kwargs = {"url": "https://www.nseindia.com/get-quotes/equity?symbol=TCS"}

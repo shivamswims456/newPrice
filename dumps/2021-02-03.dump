@@ -1,0 +1,128 @@
+95d4a4a1-b6b6-4382-94f0-28f6fdf0f4ae -> 2021-02-03 09:54:43.110368:message:dbSyn:execute:GET:mode = false, parse = true
+95d4a4a1-b6b6-4382-94f0-28f6fdf0f4ae -> 2021-02-03 09:54:43.110368:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+95d4a4a1-b6b6-4382-94f0-28f6fdf0f4ae -> 2021-02-03 09:54:43.165318:message:dbSyn:execute:GET:mode = false, parse = true
+95d4a4a1-b6b6-4382-94f0-28f6fdf0f4ae -> 2021-02-03 09:54:43.165318:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+4613fadf-6a3f-4ed6-818f-54f0fe9a84c7 -> 2021-02-03 09:55:26.035512:message:dbSyn:execute:GET:mode = false, parse = true
+4613fadf-6a3f-4ed6-818f-54f0fe9a84c7 -> 2021-02-03 09:55:26.035512:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+4613fadf-6a3f-4ed6-818f-54f0fe9a84c7 -> 2021-02-03 09:55:26.092176:message:dbSyn:execute:GET:mode = false, parse = true
+4613fadf-6a3f-4ed6-818f-54f0fe9a84c7 -> 2021-02-03 09:55:26.092176:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+bbc14620-10d7-40cb-bcf6-21066f9cec4e -> 2021-02-03 10:00:39.274092:message:dbSyn:execute:GET:mode = false, parse = true
+bbc14620-10d7-40cb-bcf6-21066f9cec4e -> 2021-02-03 10:00:39.274092:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+bbc14620-10d7-40cb-bcf6-21066f9cec4e -> 2021-02-03 10:00:39.335346:message:dbSyn:execute:GET:mode = false, parse = true
+bbc14620-10d7-40cb-bcf6-21066f9cec4e -> 2021-02-03 10:00:39.335346:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+ffc279bf-d327-44f1-a653-ef27913133d3 -> 2021-02-03 10:01:32.363395:message:dbSyn:execute:GET:mode = false, parse = true
+ffc279bf-d327-44f1-a653-ef27913133d3 -> 2021-02-03 10:01:32.363395:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+ffc279bf-d327-44f1-a653-ef27913133d3 -> 2021-02-03 10:01:32.470178:message:dbSyn:execute:GET:mode = false, parse = true
+ffc279bf-d327-44f1-a653-ef27913133d3 -> 2021-02-03 10:01:32.470178:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+35778287-9a5c-4d0b-a25e-938c2cb21a48 -> 2021-02-03 10:01:52.507161:message:dbSyn:execute:GET:mode = false, parse = true
+35778287-9a5c-4d0b-a25e-938c2cb21a48 -> 2021-02-03 10:01:52.507161:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+35778287-9a5c-4d0b-a25e-938c2cb21a48 -> 2021-02-03 10:01:52.610127:message:dbSyn:execute:GET:mode = false, parse = true
+35778287-9a5c-4d0b-a25e-938c2cb21a48 -> 2021-02-03 10:01:52.610127:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+353724d7-26ff-4642-81f1-d3b7f101040f -> 2021-02-03 10:02:54.412486:message:dbSyn:execute:GET:mode = false, parse = true
+353724d7-26ff-4642-81f1-d3b7f101040f -> 2021-02-03 10:02:54.412486:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+353724d7-26ff-4642-81f1-d3b7f101040f -> 2021-02-03 10:02:54.516749:message:dbSyn:execute:GET:mode = false, parse = true
+353724d7-26ff-4642-81f1-d3b7f101040f -> 2021-02-03 10:02:54.516749:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+4b8f26a9-66f0-441f-8d45-4ddf923e7ed4 -> 2021-02-03 10:03:29.453744:message:dbSyn:execute:GET:mode = false, parse = true
+4b8f26a9-66f0-441f-8d45-4ddf923e7ed4 -> 2021-02-03 10:03:29.453744:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+4b8f26a9-66f0-441f-8d45-4ddf923e7ed4 -> 2021-02-03 10:03:29.512572:message:dbSyn:execute:GET:mode = false, parse = true
+4b8f26a9-66f0-441f-8d45-4ddf923e7ed4 -> 2021-02-03 10:03:29.512572:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+5019b5e8-421c-4af3-8f48-00f1869d0a62 -> 2021-02-03 10:03:43.759319:message:dbSyn:execute:GET:mode = false, parse = true
+5019b5e8-421c-4af3-8f48-00f1869d0a62 -> 2021-02-03 10:03:43.759319:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+5019b5e8-421c-4af3-8f48-00f1869d0a62 -> 2021-02-03 10:03:43.817843:message:dbSyn:execute:GET:mode = false, parse = true
+5019b5e8-421c-4af3-8f48-00f1869d0a62 -> 2021-02-03 10:03:43.817843:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+9cfe7a4c-6903-4456-b443-166e61dfe9a8 -> 2021-02-03 10:04:30.283578:message:dbSyn:execute:GET:mode = false, parse = true
+9cfe7a4c-6903-4456-b443-166e61dfe9a8 -> 2021-02-03 10:04:30.283578:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+9cfe7a4c-6903-4456-b443-166e61dfe9a8 -> 2021-02-03 10:04:30.362695:message:dbSyn:execute:GET:mode = false, parse = true
+9cfe7a4c-6903-4456-b443-166e61dfe9a8 -> 2021-02-03 10:04:30.362695:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+9ea26591-5879-4c64-803a-58c2f8328c42 -> 2021-02-03 10:04:59.734585:message:dbSyn:execute:GET:mode = false, parse = true
+9ea26591-5879-4c64-803a-58c2f8328c42 -> 2021-02-03 10:04:59.734585:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+9ea26591-5879-4c64-803a-58c2f8328c42 -> 2021-02-03 10:04:59.791739:message:dbSyn:execute:GET:mode = false, parse = true
+9ea26591-5879-4c64-803a-58c2f8328c42 -> 2021-02-03 10:04:59.791739:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+b8bcbe4c-1997-44aa-93e5-093378ba469d -> 2021-02-03 10:17:54.033281:message:dbSyn:execute:GET:mode = false, parse = true
+b8bcbe4c-1997-44aa-93e5-093378ba469d -> 2021-02-03 10:17:54.033281:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+b8bcbe4c-1997-44aa-93e5-093378ba469d -> 2021-02-03 10:17:54.059762:message:dbSyn:execute:GET:mode = false, parse = true
+b8bcbe4c-1997-44aa-93e5-093378ba469d -> 2021-02-03 10:17:54.059762:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+e21efbb9-e3cb-480b-a958-0704b1d8bac7 -> 2021-02-03 10:19:02.892003:message:dbSyn:execute:GET:mode = false, parse = true
+e21efbb9-e3cb-480b-a958-0704b1d8bac7 -> 2021-02-03 10:19:02.892003:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+e21efbb9-e3cb-480b-a958-0704b1d8bac7 -> 2021-02-03 10:19:02.919194:message:dbSyn:execute:GET:mode = false, parse = true
+e21efbb9-e3cb-480b-a958-0704b1d8bac7 -> 2021-02-03 10:19:02.919194:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+eb9a5bed-74f1-4328-8c32-19350327d991 -> 2021-02-03 10:21:42.795109:message:dbSyn:execute:GET:mode = false, parse = true
+eb9a5bed-74f1-4328-8c32-19350327d991 -> 2021-02-03 10:21:42.795109:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+eb9a5bed-74f1-4328-8c32-19350327d991 -> 2021-02-03 10:21:42.865975:message:dbSyn:execute:GET:mode = false, parse = true
+eb9a5bed-74f1-4328-8c32-19350327d991 -> 2021-02-03 10:21:42.865975:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+04a28a12-5501-481e-9ff7-664e6eb2ee6f -> 2021-02-03 10:21:48.229196:message:dbSyn:execute:GET:mode = false, parse = true
+04a28a12-5501-481e-9ff7-664e6eb2ee6f -> 2021-02-03 10:21:48.229196:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+04a28a12-5501-481e-9ff7-664e6eb2ee6f -> 2021-02-03 10:21:48.297338:message:dbSyn:execute:GET:mode = false, parse = true
+04a28a12-5501-481e-9ff7-664e6eb2ee6f -> 2021-02-03 10:21:48.297338:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+90f232a6-8676-4525-ad4d-b905aac52e38 -> 2021-02-03 10:24:24.004660:message:dbSyn:execute:GET:mode = false, parse = true
+90f232a6-8676-4525-ad4d-b905aac52e38 -> 2021-02-03 10:24:24.004660:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+90f232a6-8676-4525-ad4d-b905aac52e38 -> 2021-02-03 10:24:24.095721:message:dbSyn:execute:GET:mode = false, parse = true
+90f232a6-8676-4525-ad4d-b905aac52e38 -> 2021-02-03 10:24:24.095721:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+44316898-2d4e-4e58-aeaf-58c4474f7c51 -> 2021-02-03 10:24:57.732118:message:dbSyn:execute:GET:mode = false, parse = true
+44316898-2d4e-4e58-aeaf-58c4474f7c51 -> 2021-02-03 10:24:57.732118:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+44316898-2d4e-4e58-aeaf-58c4474f7c51 -> 2021-02-03 10:24:57.804382:message:dbSyn:execute:GET:mode = false, parse = true
+44316898-2d4e-4e58-aeaf-58c4474f7c51 -> 2021-02-03 10:24:57.804382:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+290d0b69-1ac1-4a51-84ed-011d467097e7 -> 2021-02-03 10:25:13.966778:message:dbSyn:execute:GET:mode = false, parse = true
+290d0b69-1ac1-4a51-84ed-011d467097e7 -> 2021-02-03 10:25:13.966778:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+290d0b69-1ac1-4a51-84ed-011d467097e7 -> 2021-02-03 10:25:14.046989:message:dbSyn:execute:GET:mode = false, parse = true
+290d0b69-1ac1-4a51-84ed-011d467097e7 -> 2021-02-03 10:25:14.046989:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+e684dd1a-e084-4ace-a66b-4e36a2c810a1 -> 2021-02-03 10:28:58.261346:message:dbSyn:execute:GET:mode = false, parse = true
+e684dd1a-e084-4ace-a66b-4e36a2c810a1 -> 2021-02-03 10:28:58.261346:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+e684dd1a-e084-4ace-a66b-4e36a2c810a1 -> 2021-02-03 10:28:58.352684:message:dbSyn:execute:GET:mode = false, parse = true
+e684dd1a-e084-4ace-a66b-4e36a2c810a1 -> 2021-02-03 10:28:58.352684:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+96234cf3-6df2-4311-8fe1-ae66a94a8840 -> 2021-02-03 10:34:07.507540:message:dbSyn:execute:GET:mode = false, parse = true
+96234cf3-6df2-4311-8fe1-ae66a94a8840 -> 2021-02-03 10:34:07.507540:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+96234cf3-6df2-4311-8fe1-ae66a94a8840 -> 2021-02-03 10:34:07.563514:message:dbSyn:execute:GET:mode = false, parse = true
+96234cf3-6df2-4311-8fe1-ae66a94a8840 -> 2021-02-03 10:34:07.563514:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+af45c7dc-838d-42e3-b501-93e10f32b47b -> 2021-02-03 10:34:21.042402:message:dbSyn:execute:GET:mode = false, parse = true
+af45c7dc-838d-42e3-b501-93e10f32b47b -> 2021-02-03 10:34:21.042402:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+af45c7dc-838d-42e3-b501-93e10f32b47b -> 2021-02-03 10:34:21.101369:message:dbSyn:execute:GET:mode = false, parse = true
+af45c7dc-838d-42e3-b501-93e10f32b47b -> 2021-02-03 10:34:21.101369:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+0be96b51-8fc0-41cb-862e-dd78b886b830 -> 2021-02-03 10:35:03.539461:message:dbSyn:execute:GET:mode = false, parse = true
+0be96b51-8fc0-41cb-862e-dd78b886b830 -> 2021-02-03 10:35:03.539461:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+0be96b51-8fc0-41cb-862e-dd78b886b830 -> 2021-02-03 10:35:03.624933:message:dbSyn:execute:GET:mode = false, parse = true
+0be96b51-8fc0-41cb-862e-dd78b886b830 -> 2021-02-03 10:35:03.624933:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+8bf9e3d9-9111-47dd-9cd8-03e9c3f1ad34 -> 2021-02-03 10:35:43.946387:message:dbSyn:execute:GET:mode = false, parse = true
+8bf9e3d9-9111-47dd-9cd8-03e9c3f1ad34 -> 2021-02-03 10:35:43.946387:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+8bf9e3d9-9111-47dd-9cd8-03e9c3f1ad34 -> 2021-02-03 10:35:44.021556:message:dbSyn:execute:GET:mode = false, parse = true
+8bf9e3d9-9111-47dd-9cd8-03e9c3f1ad34 -> 2021-02-03 10:35:44.021556:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+e31bdd8e-e8b5-4730-aabe-391c19328ba1 -> 2021-02-03 10:38:21.415138:message:dbSyn:execute:GET:mode = false, parse = true
+e31bdd8e-e8b5-4730-aabe-391c19328ba1 -> 2021-02-03 10:38:21.415138:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+e31bdd8e-e8b5-4730-aabe-391c19328ba1 -> 2021-02-03 10:38:21.462810:message:yahoo:getData:GET:symbol = "TCS", start = "2021-01-15", stop = "2021-02-03", interval = "1m", exg = "NSE"
+e31bdd8e-e8b5-4730-aabe-391c19328ba1 -> 2021-02-03 10:38:21.480497:message:mDwn:mRegular:GET:urlList = [{"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610682300&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610941500&period2=1611309600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1611546300&period2=1611914400&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}, {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1612151100&period2=1612346400&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8"}]
+e31bdd8e-e8b5-4730-aabe-391c19328ba1 -> 2021-02-03 10:38:21.518587:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610682300&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+e31bdd8e-e8b5-4730-aabe-391c19328ba1 -> 2021-02-03 10:38:21.549459:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610941500&period2=1611309600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+e31bdd8e-e8b5-4730-aabe-391c19328ba1 -> 2021-02-03 10:38:21.573497:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1611546300&period2=1611914400&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+e31bdd8e-e8b5-4730-aabe-391c19328ba1 -> 2021-02-03 10:38:21.599218:message:mDwn:__fetch__:GET:params = {"url": "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1612151100&period2=1612346400&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "query1.finance.yahoo.com", "Referer": "query1.finance.yahoo.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+e31bdd8e-e8b5-4730-aabe-391c19328ba1 -> 1.652664:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610682300&period2=1610704800&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+e31bdd8e-e8b5-4730-aabe-391c19328ba1 -> 2.154194:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1612151100&period2=1612346400&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+e31bdd8e-e8b5-4730-aabe-391c19328ba1 -> 2.244195:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1611546300&period2=1611914400&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+e31bdd8e-e8b5-4730-aabe-391c19328ba1 -> 2.307468:message:mDwn:__fetch__:SUCCESS:url = "https://query1.finance.yahoo.com/v8/finance/chart/TCS.NS?symbol=TCS.NS&period1=1610941500&period2=1611309600&interval=1m&includePrePost=true&events=div%7Csplit%7Cearn&lang=en-IN&region=IN&crumb=undefined&corsDomain=in.finance.yahoo.com"
+e31bdd8e-e8b5-4730-aabe-391c19328ba1 -> 2.405716:message:mDwn:mRegular:SUCCESS:lot = 4
+e31bdd8e-e8b5-4730-aabe-391c19328ba1 -> 2.50588:message:yahoo:getData:SUCCESS:lot = 4585
+e31bdd8e-e8b5-4730-aabe-391c19328ba1 -> 2021-02-03 10:38:24.062658:message:dbSyn:execute:GET:mode = false, parse = true
+e31bdd8e-e8b5-4730-aabe-391c19328ba1 -> 2021-02-03 10:38:24.062658:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 0
+7e062f61-832d-4ac8-93fc-5997275b0b85 -> 2021-02-03 10:38:30.149556:message:dbSyn:execute:GET:mode = false, parse = true
+7e062f61-832d-4ac8-93fc-5997275b0b85 -> 2021-02-03 10:38:30.149556:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 12
+7e062f61-832d-4ac8-93fc-5997275b0b85 -> 2021-02-03 10:38:30.207429:message:dbSyn:execute:GET:mode = false, parse = true
+7e062f61-832d-4ac8-93fc-5997275b0b85 -> 2021-02-03 10:38:30.207429:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+966d1b01-b45b-455e-829b-fcc3b5b38a96 -> 2021-02-03 10:38:47.097081:message:dbSyn:execute:GET:mode = false, parse = true
+966d1b01-b45b-455e-829b-fcc3b5b38a96 -> 2021-02-03 10:38:47.097081:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 12
+966d1b01-b45b-455e-829b-fcc3b5b38a96 -> 2021-02-03 10:38:47.184811:message:dbSyn:execute:GET:mode = false, parse = true
+966d1b01-b45b-455e-829b-fcc3b5b38a96 -> 2021-02-03 10:38:47.184811:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+f594032f-ecca-47bf-a6f1-93e2ef4926f1 -> 2021-02-03 10:40:11.325343:message:dbSyn:execute:GET:mode = false, parse = true
+f594032f-ecca-47bf-a6f1-93e2ef4926f1 -> 2021-02-03 10:40:11.325343:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 12
+f594032f-ecca-47bf-a6f1-93e2ef4926f1 -> 2021-02-03 10:40:11.427039:message:dbSyn:execute:GET:mode = false, parse = true
+f594032f-ecca-47bf-a6f1-93e2ef4926f1 -> 2021-02-03 10:40:11.427039:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+08d13c65-1e2d-43c8-b03e-87d8b66297c1 -> 2021-02-03 10:40:32.633002:message:dbSyn:execute:GET:mode = false, parse = true
+08d13c65-1e2d-43c8-b03e-87d8b66297c1 -> 2021-02-03 10:40:32.633002:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 12
+08d13c65-1e2d-43c8-b03e-87d8b66297c1 -> 2021-02-03 10:40:32.743691:message:dbSyn:execute:GET:mode = false, parse = true
+08d13c65-1e2d-43c8-b03e-87d8b66297c1 -> 2021-02-03 10:40:32.743691:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+d7f97f33-9b6c-4277-bc0c-a435b01d4913 -> 2021-02-03 10:42:54.274721:message:dbSyn:execute:GET:mode = false, parse = true
+d7f97f33-9b6c-4277-bc0c-a435b01d4913 -> 2021-02-03 10:42:54.274721:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 12
+d7f97f33-9b6c-4277-bc0c-a435b01d4913 -> 2021-02-03 10:42:54.337869:message:dbSyn:execute:GET:mode = false, parse = true
+d7f97f33-9b6c-4277-bc0c-a435b01d4913 -> 2021-02-03 10:42:54.337869:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7
+e3d46e48-785e-4db3-990d-9d080d982e2e -> 2021-02-03 10:43:07.378407:message:dbSyn:execute:GET:mode = false, parse = true
+e3d46e48-785e-4db3-990d-9d080d982e2e -> 2021-02-03 10:43:07.378407:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 12
+e3d46e48-785e-4db3-990d-9d080d982e2e -> 2021-02-03 10:43:07.441522:message:dbSyn:execute:GET:mode = false, parse = true
+e3d46e48-785e-4db3-990d-9d080d982e2e -> 2021-02-03 10:43:07.441522:message:dbSyn:execute:SUCCESS:mode = false, parse = true, lot = 7

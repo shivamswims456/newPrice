@@ -1,0 +1,9 @@
+{"redis":{"host":"localhost",
+          "port":6379,
+          "passWord":"71231cdaa385155f15399fdbcce6b2cd03c39f057992f7069c15ca081ae7bb43",
+          "db":0},
+ "mySql":{"host":"localhost",
+          "port":3306,
+          "userName":"shivam",
+          "passWord":"e3dd1d7ddd89a259578db6b365c94dbf91bab0ab44d8c37ddfae6efd1a300834"}
+ }

@@ -1,0 +1,517 @@
+f6fcece9-910e-4b93-b55a-befe30244b1c -> 2021-01-23 09:07:36.402244:messge:redisClient:__setUp__:GET:check = false
+f6fcece9-910e-4b93-b55a-befe30244b1c -> 0.06118:messge:redisClient:__setUp__:SUCCESS:check = false
+70647840-cc84-4918-ad8b-7edc86107f56 -> 2021-01-23 09:08:03.560234:messge:redisClient:__setUp__:GET:check = false
+70647840-cc84-4918-ad8b-7edc86107f56 -> 0.03842:messge:redisClient:__setUp__:SUCCESS:check = false
+3459a5c9-4087-41fb-b823-e684f704468a -> 2021-01-23 09:08:30.186186:messge:redisClient:__setUp__:GET:check = false
+3459a5c9-4087-41fb-b823-e684f704468a -> 0.060123:messge:redisClient:__setUp__:SUCCESS:check = false
+3459a5c9-4087-41fb-b823-e684f704468a -> 2021-01-23 09:08:30.257079:messge:redicClient:rSet:GET:toSet = 1
+3459a5c9-4087-41fb-b823-e684f704468a -> 2021-01-23 09:08:30.257079:messge:redicClient:rSet:GET:toSet = true
+99afae4e-67ad-43b8-a6e0-c2fa95408703 -> 2021-01-23 09:08:30.302480:messge:redisClient:__setUp__:GET:check = false
+99afae4e-67ad-43b8-a6e0-c2fa95408703 -> 0.02623:messge:redisClient:__setUp__:SUCCESS:check = false
+99afae4e-67ad-43b8-a6e0-c2fa95408703 -> 2021-01-23 09:08:30.339307:messge:redisClient:rGet:GET:key = "symbolList"
+99afae4e-67ad-43b8-a6e0-c2fa95408703 -> 2021-01-23 09:08:30.339307:messge:redisClient:rGet:GET:lot = 1
+19ae5c41-ff3b-42ca-a747-5b4879be060e -> 2021-01-23 09:09:59.951099:messge:redicClient:rSet:GET:toSet = 1
+19ae5c41-ff3b-42ca-a747-5b4879be060e -> 2021-01-23 09:09:59.951099:messge:redicClient:rSet:GET:toSet = true
+19ae5c41-ff3b-42ca-a747-5b4879be060e -> 2021-01-23 09:09:59.990020:messge:redisClient:rGet:GET:key = "TCS"
+19ae5c41-ff3b-42ca-a747-5b4879be060e -> 2021-01-23 09:10:00.001293:error:redisClient:rGet:ERROR:reason = "KEY NOT FOUND"
+343adeb6-1be4-413a-ad70-14dd1bbb7a73 -> 2021-01-23 09:10:21.310606:messge:redicClient:rSet:GET:toSet = 1
+343adeb6-1be4-413a-ad70-14dd1bbb7a73 -> 2021-01-23 09:10:21.310606:messge:redicClient:rSet:GET:toSet = true
+343adeb6-1be4-413a-ad70-14dd1bbb7a73 -> 2021-01-23 09:10:21.348299:messge:redisClient:rGet:GET:key = "test"
+18e03653-5151-4e22-82a2-651e152946c6 -> 2021-01-23 09:11:46.488843:messge:redicClient:rSet:GET:toSet = 1
+18e03653-5151-4e22-82a2-651e152946c6 -> 2021-01-23 09:11:46.488843:messge:redicClient:rSet:GET:toSet = true
+18e03653-5151-4e22-82a2-651e152946c6 -> 2021-01-23 09:11:46.523957:messge:redisClient:rGet:GET:key = "test"
+18e03653-5151-4e22-82a2-651e152946c6 -> 2021-01-23 09:11:46.523957:messge:redisClient:rGet:GET:lot = 1
+18e03653-5151-4e22-82a2-651e152946c6 -> 2021-01-23 09:11:46.557772:messge:redicClient:rSet:GET:toSet = 1
+18e03653-5151-4e22-82a2-651e152946c6 -> 2021-01-23 09:11:46.557772:messge:redicClient:rSet:GET:toSet = true
+18e03653-5151-4e22-82a2-651e152946c6 -> 2021-01-23 09:11:46.580789:messge:redisClient:rGet:GET:key = "test"
+18e03653-5151-4e22-82a2-651e152946c6 -> 2021-01-23 09:11:46.580789:messge:redisClient:rGet:GET:lot = 1
+7286f54b-c30e-4b90-9047-8f04a840435f -> 2021-01-23 10:10:00.211200:messge:redisClient:__setUp__:GET:check = false
+7286f54b-c30e-4b90-9047-8f04a840435f -> 0.031216:messge:redisClient:__setUp__:SUCCESS:check = false
+2850f323-4927-45b6-a678-fc6bb22aef09 -> 2021-01-23 10:11:17.435928:messge:redisClient:__setUp__:GET:check = false
+2850f323-4927-45b6-a678-fc6bb22aef09 -> 0.076804:messge:redisClient:__setUp__:SUCCESS:check = false
+ef17de87-32f9-49e6-a123-53def19018a8 -> 2021-01-23 10:12:20.545315:messge:redisClient:__setUp__:GET:check = false
+ef17de87-32f9-49e6-a123-53def19018a8 -> 0.028794:messge:redisClient:__setUp__:SUCCESS:check = false
+ad977609-4e04-490e-b5fa-7cdfea2ad110 -> 2021-01-23 10:14:30.421098:messge:samco:__login__:GET:log = false
+ad977609-4e04-490e-b5fa-7cdfea2ad110 -> 2021-01-23 10:14:30.435236:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+ad977609-4e04-490e-b5fa-7cdfea2ad110 -> 2021-01-23 10:14:30.435236:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+ad977609-4e04-490e-b5fa-7cdfea2ad110 -> 2021-01-23 10:14:32.298295:error:dwn:regular:ERROR:connection = "status code not matched"
+1b1621e9-b831-4d3d-bda9-9df060f7e947 -> 2021-01-23 10:15:36.339878:messge:samco:__login__:GET:log = false
+1b1621e9-b831-4d3d-bda9-9df060f7e947 -> 2021-01-23 10:15:36.356886:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+1b1621e9-b831-4d3d-bda9-9df060f7e947 -> 2021-01-23 10:15:36.356886:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+1b1621e9-b831-4d3d-bda9-9df060f7e947 -> 2021-01-23 10:15:38.202797:error:dwn:regular:ERROR:connection = "status code not matched"
+0ba68657-8ae9-4163-a33e-04afc124c7c0 -> 2021-01-23 10:16:12.442894:messge:samco:__login__:GET:log = false
+0ba68657-8ae9-4163-a33e-04afc124c7c0 -> 2021-01-23 10:16:12.454630:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+0ba68657-8ae9-4163-a33e-04afc124c7c0 -> 2021-01-23 10:16:12.454630:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+0ba68657-8ae9-4163-a33e-04afc124c7c0 -> 2021-01-23 10:16:14.312366:error:dwn:regular:ERROR:connection = "status code not matched"
+aa66ea72-026e-4981-8143-821489e8076d -> 2021-01-23 10:17:31.311006:messge:samco:__login__:GET:log = false
+aa66ea72-026e-4981-8143-821489e8076d -> 2021-01-23 10:17:31.321853:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+aa66ea72-026e-4981-8143-821489e8076d -> 2021-01-23 10:17:31.321853:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+aa66ea72-026e-4981-8143-821489e8076d -> 2021-01-23 10:17:34.384741:error:dwn:regular:ERROR:connection = "status code not matched"
+9a66f292-9ae0-462a-976e-651f0d3e0cc9 -> 2021-01-23 10:43:16.086178:messge:samco:__login__:GET:log = false
+9a66f292-9ae0-462a-976e-651f0d3e0cc9 -> 2021-01-23 10:43:16.123696:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "eCode": [200, 500], "enc": "utf-8"}
+9a66f292-9ae0-462a-976e-651f0d3e0cc9 -> 2021-01-23 10:43:16.123696:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200, 500], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+9a66f292-9ae0-462a-976e-651f0d3e0cc9 -> 2.895837:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "eCode": [200, 500], "enc": "utf-8"}
+9a66f292-9ae0-462a-976e-651f0d3e0cc9 -> 2021-01-23 10:43:19.049088:messge:samco:__reqParse__:GET:
+9a66f292-9ae0-462a-976e-651f0d3e0cc9 -> 0.019596:messge:samco:__reqParse__:SUCCESS:
+b3928d3d-7dae-4182-a3b9-fbf12ee731a7 -> 2021-01-23 10:45:12.831083:messge:samco:__login__:GET:log = false
+b3928d3d-7dae-4182-a3b9-fbf12ee731a7 -> 2021-01-23 10:45:12.870276:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "eCode": [200, 500], "enc": "utf-8"}
+b3928d3d-7dae-4182-a3b9-fbf12ee731a7 -> 2021-01-23 10:45:12.870276:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200, 500], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+b3928d3d-7dae-4182-a3b9-fbf12ee731a7 -> 1.863342:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "eCode": [200, 500], "enc": "utf-8"}
+b3928d3d-7dae-4182-a3b9-fbf12ee731a7 -> 2021-01-23 10:45:14.807568:messge:samco:__reqParse__:GET:
+b3928d3d-7dae-4182-a3b9-fbf12ee731a7 -> 0.018182:messge:samco:__reqParse__:SUCCESS:
+1191b11d-3ec9-4fe6-a318-520f8bac61f8 -> 2021-01-23 10:54:58.704472:messge:samco:__login__:GET:log = false
+1191b11d-3ec9-4fe6-a318-520f8bac61f8 -> 2021-01-23 10:54:58.761050:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "eCode": [200, 500], "enc": "utf-8"}
+1191b11d-3ec9-4fe6-a318-520f8bac61f8 -> 2021-01-23 10:54:58.761050:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200, 500], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+1191b11d-3ec9-4fe6-a318-520f8bac61f8 -> 3.946978:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "eCode": [200, 500], "enc": "utf-8"}
+1191b11d-3ec9-4fe6-a318-520f8bac61f8 -> 2021-01-23 10:55:02.769248:messge:samco:__reqParse__:GET:
+1191b11d-3ec9-4fe6-a318-520f8bac61f8 -> 0.01684:messge:samco:__reqParse__:SUCCESS:
+5d6ba200-762a-47d2-b4de-f492c61800eb -> 2021-01-23 11:27:12.511954:messge:samco:__login__:GET:log = false
+5d6ba200-762a-47d2-b4de-f492c61800eb -> 2021-01-23 11:27:12.548294:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "eCode": [200, 500], "enc": "utf-8"}
+5d6ba200-762a-47d2-b4de-f492c61800eb -> 2021-01-23 11:27:12.548294:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200, 500], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+5d6ba200-762a-47d2-b4de-f492c61800eb -> 4.474825:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "eCode": [200, 500], "enc": "utf-8"}
+5d6ba200-762a-47d2-b4de-f492c61800eb -> 2021-01-23 11:27:17.070433:messge:samco:__reqParse__:GET:
+5d6ba200-762a-47d2-b4de-f492c61800eb -> 0.01322:messge:samco:__reqParse__:SUCCESS:
+5d6ba200-762a-47d2-b4de-f492c61800eb -> 2021-01-23 11:27:12.511954:messge:samco:__login__:SUCCESS:log = true
+b5f30e07-9b3c-498d-9a57-a7d2811962e6 -> 2021-01-23 11:28:07.349912:messge:samco:__login__:GET:log = false
+b5f30e07-9b3c-498d-9a57-a7d2811962e6 -> 2021-01-23 11:28:07.382308:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"samID\": \"DA34408\", \"samPhrase\": \"W@t$al901\", \"samCode\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "eCode": [200, 500], "enc": "utf-8"}
+b5f30e07-9b3c-498d-9a57-a7d2811962e6 -> 2021-01-23 11:28:07.382308:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200, 500], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"samID\": \"DA34408\", \"samPhrase\": \"W@t$al901\", \"samCode\": \"1999\"}"}
+b5f30e07-9b3c-498d-9a57-a7d2811962e6 -> 2021-01-23 11:28:07.946027:error:dwn:regular:ERROR:connection = "status code not matched"
+d9817f8d-58a5-436a-b9a8-5d83f53ba3d6 -> 2021-01-23 11:28:22.010880:messge:samco:__login__:GET:log = false
+d9817f8d-58a5-436a-b9a8-5d83f53ba3d6 -> 2021-01-23 11:28:22.052231:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "eCode": [200, 500], "enc": "utf-8"}
+d9817f8d-58a5-436a-b9a8-5d83f53ba3d6 -> 2021-01-23 11:28:22.052231:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200, 500], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+d9817f8d-58a5-436a-b9a8-5d83f53ba3d6 -> 2.888623:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "eCode": [200, 500], "enc": "utf-8"}
+d9817f8d-58a5-436a-b9a8-5d83f53ba3d6 -> 2021-01-23 11:28:25.003937:messge:samco:__reqParse__:GET:
+d9817f8d-58a5-436a-b9a8-5d83f53ba3d6 -> 0.013144:messge:samco:__reqParse__:SUCCESS:
+d9817f8d-58a5-436a-b9a8-5d83f53ba3d6 -> 2021-01-23 11:28:22.010880:messge:samco:__login__:SUCCESS:log = true
+b96ddc8f-da73-4b17-96df-cf6ef1e1a630 -> 2021-01-23 11:30:39.755392:messge:samco:__login__:GET:log = false
+b96ddc8f-da73-4b17-96df-cf6ef1e1a630 -> 2021-01-23 11:30:39.798111:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"passPhrase\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "eCode": [200, 500], "enc": "utf-8"}
+b96ddc8f-da73-4b17-96df-cf6ef1e1a630 -> 2021-01-23 11:30:39.798111:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200, 500], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"passPhrase\": \"W@t$al901\", \"yob\": \"1999\"}"}
+b96ddc8f-da73-4b17-96df-cf6ef1e1a630 -> 2021-01-23 11:30:41.883603:error:dwn:regular:ERROR:connection = "status code not matched"
+a8ef0025-d595-470e-96c6-b5ff523b02a7 -> 2021-01-23 11:31:17.356129:messge:samco:__login__:GET:log = false
+a8ef0025-d595-470e-96c6-b5ff523b02a7 -> 2021-01-23 11:31:17.392227:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"passPhrase\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "eCode": [200, 500], "enc": "utf-8"}
+a8ef0025-d595-470e-96c6-b5ff523b02a7 -> 2021-01-23 11:31:17.392227:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200, 500], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"passPhrase\": \"W@t$al901\", \"yob\": \"1999\"}"}
+234d6627-1e3b-46d3-b8a1-4f4a3628d83c -> 2021-01-23 11:32:27.087149:messge:samco:__login__:GET:log = false
+234d6627-1e3b-46d3-b8a1-4f4a3628d83c -> 2021-01-23 11:32:27.133725:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"passPhrase\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "eCode": [200, 500], "enc": "utf-8"}
+234d6627-1e3b-46d3-b8a1-4f4a3628d83c -> 2021-01-23 11:32:27.133725:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200, 500], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"passPhrase\": \"W@t$al901\", \"yob\": \"1999\"}"}
+234d6627-1e3b-46d3-b8a1-4f4a3628d83c -> 2021-01-23 11:32:28.359087:error:dwn:regular:ERROR:connection = "status code not matched"
+2bb30503-3800-42d8-946d-6c9f8fd2b783 -> 2021-01-23 11:33:22.761929:messge:samco:__login__:GET:log = false
+2bb30503-3800-42d8-946d-6c9f8fd2b783 -> 2021-01-23 11:33:22.799894:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+2bb30503-3800-42d8-946d-6c9f8fd2b783 -> 2021-01-23 11:33:22.799894:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+2bb30503-3800-42d8-946d-6c9f8fd2b783 -> 3.152642:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+2bb30503-3800-42d8-946d-6c9f8fd2b783 -> 2021-01-23 11:33:25.986291:messge:samco:__reqParse__:GET:
+2bb30503-3800-42d8-946d-6c9f8fd2b783 -> 0.021157:messge:samco:__reqParse__:SUCCESS:
+2bb30503-3800-42d8-946d-6c9f8fd2b783 -> 2021-01-23 11:33:22.761929:messge:samco:__login__:SUCCESS:log = true
+c4253200-0e38-4b39-b791-f0582128005f -> 2021-01-23 11:34:06.129524:messge:samco:__login__:GET:log = false
+c4253200-0e38-4b39-b791-f0582128005f -> 2021-01-23 11:34:06.168282:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+c4253200-0e38-4b39-b791-f0582128005f -> 2021-01-23 11:34:06.168282:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}"}
+c4253200-0e38-4b39-b791-f0582128005f -> 2021-01-23 11:34:07.085453:error:dwn:regular:ERROR:connection = "status code not matched"
+9e3fea50-49a5-4d16-9322-9162a0fa84bf -> 2021-01-23 11:34:37.271233:messge:samco:__login__:GET:log = false
+9e3fea50-49a5-4d16-9322-9162a0fa84bf -> 2021-01-23 11:34:37.332055:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+9e3fea50-49a5-4d16-9322-9162a0fa84bf -> 2021-01-23 11:34:37.332055:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}"}
+9e3fea50-49a5-4d16-9322-9162a0fa84bf -> 2021-01-23 11:34:38.074364:error:dwn:regular:ERROR:connection = "status code not matched"
+34f5db20-493b-409a-9457-3875328051ab -> 2021-01-23 11:34:58.527644:messge:samco:__login__:GET:log = false
+34f5db20-493b-409a-9457-3875328051ab -> 2021-01-23 11:34:58.580911:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+34f5db20-493b-409a-9457-3875328051ab -> 2021-01-23 11:34:58.580911:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}"}
+c806e0e8-9b4c-4199-8ba2-7fbd30954e5b -> 2021-01-23 11:35:37.567268:messge:samco:__login__:GET:log = false
+38b94f74-4a7c-454e-96bb-29805ceec7a0 -> 2021-01-23 11:36:01.369327:messge:samco:__login__:GET:log = false
+38b94f74-4a7c-454e-96bb-29805ceec7a0 -> 2021-01-23 11:36:01.421077:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+38b94f74-4a7c-454e-96bb-29805ceec7a0 -> 2021-01-23 11:36:01.421077:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}"}
+38b94f74-4a7c-454e-96bb-29805ceec7a0 -> 2021-01-23 11:36:02.157854:error:dwn:regular:ERROR:connection = "status code not matched"
+c9eef258-c941-4165-8f25-47896091c7bc -> 2021-01-23 11:36:28.143004:messge:samco:__login__:GET:log = false
+c9eef258-c941-4165-8f25-47896091c7bc -> 2021-01-23 11:36:28.200856:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "eCode": [200, 500], "enc": "utf-8"}
+c9eef258-c941-4165-8f25-47896091c7bc -> 2021-01-23 11:36:28.200856:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200, 500], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}"}
+b84f5676-caed-483b-baec-3c319f6513da -> 2021-01-23 11:36:46.513959:messge:samco:__login__:GET:log = false
+b84f5676-caed-483b-baec-3c319f6513da -> 2021-01-23 11:36:46.566824:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "eCode": [200, 500], "enc": "utf-8"}
+b84f5676-caed-483b-baec-3c319f6513da -> 2021-01-23 11:36:46.566824:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200, 500], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}"}
+07b7810d-5776-4742-b428-2e8c71e7c2a9 -> 2021-01-23 11:37:38.722248:messge:samco:__login__:GET:log = false
+07b7810d-5776-4742-b428-2e8c71e7c2a9 -> 2021-01-23 11:37:38.775603:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "eCode": [200, 500], "enc": "utf-8"}
+07b7810d-5776-4742-b428-2e8c71e7c2a9 -> 2021-01-23 11:37:38.775603:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200, 500], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}"}
+07b7810d-5776-4742-b428-2e8c71e7c2a9 -> 2021-01-23 11:37:39.539360:error:dwn:regular:ERROR:connection = "status code not matched"
+d06088b6-ea71-49e0-ae81-82c5d74fc585 -> 2021-01-23 11:38:14.473509:messge:samco:__login__:GET:log = false
+604eaa3a-be83-41e7-8d5e-bc4c9e45bf16 -> 2021-01-23 11:38:41.812309:messge:samco:__login__:GET:log = false
+604eaa3a-be83-41e7-8d5e-bc4c9e45bf16 -> 2021-01-23 11:38:41.872962:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "eCode": [200, 500], "enc": "utf-8"}
+604eaa3a-be83-41e7-8d5e-bc4c9e45bf16 -> 2021-01-23 11:38:41.872962:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200, 500], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}"}
+604eaa3a-be83-41e7-8d5e-bc4c9e45bf16 -> 2021-01-23 11:38:43.155421:error:dwn:regular:ERROR:connection = "status code not matched"
+87186f87-2152-44ca-bd3a-a877f1909cfe -> 2021-01-23 11:39:27.624220:messge:samco:__login__:GET:log = false
+87186f87-2152-44ca-bd3a-a877f1909cfe -> 2021-01-23 11:39:27.671847:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "eCode": [200, 500], "enc": "utf-8"}
+87186f87-2152-44ca-bd3a-a877f1909cfe -> 2021-01-23 11:39:27.671847:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200, 500], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}"}
+87186f87-2152-44ca-bd3a-a877f1909cfe -> 2021-01-23 11:39:28.248873:error:dwn:regular:ERROR:connection = "status code not matched"
+a09c6d38-dc1e-4220-a383-16d395b361e0 -> 2021-01-23 11:40:24.671696:messge:samco:__login__:GET:log = false
+a09c6d38-dc1e-4220-a383-16d395b361e0 -> 2021-01-23 11:40:24.724645:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+a09c6d38-dc1e-4220-a383-16d395b361e0 -> 2021-01-23 11:40:24.724645:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+a09c6d38-dc1e-4220-a383-16d395b361e0 -> 2.700362:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+a09c6d38-dc1e-4220-a383-16d395b361e0 -> 2021-01-23 11:40:27.514048:messge:samco:__reqParse__:GET:
+a09c6d38-dc1e-4220-a383-16d395b361e0 -> 0.028156:messge:samco:__reqParse__:SUCCESS:
+a09c6d38-dc1e-4220-a383-16d395b361e0 -> 2021-01-23 11:40:24.671696:messge:samco:__login__:SUCCESS:log = true
+80c5689a-e2a9-43bd-8008-e15477beafdf -> 2021-01-23 11:41:04.141553:messge:samco:__login__:GET:log = false
+80c5689a-e2a9-43bd-8008-e15477beafdf -> 2021-01-23 11:41:04.193427:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+80c5689a-e2a9-43bd-8008-e15477beafdf -> 2021-01-23 11:41:04.193427:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userName\": \"DA34408\", \"passWord\": \"W@t$al901\", \"code\": \"1999\"}"}
+80c5689a-e2a9-43bd-8008-e15477beafdf -> 2021-01-23 11:41:04.785704:error:dwn:regular:ERROR:connection = "status code not matched"
+a76cd39d-4d62-470f-a215-3f3a3ab7b85f -> 2021-01-23 11:41:24.566285:messge:samco:__login__:GET:log = false
+a76cd39d-4d62-470f-a215-3f3a3ab7b85f -> 2021-01-23 11:41:24.603446:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+a76cd39d-4d62-470f-a215-3f3a3ab7b85f -> 2021-01-23 11:41:24.603446:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+a76cd39d-4d62-470f-a215-3f3a3ab7b85f -> 2.321797:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+a76cd39d-4d62-470f-a215-3f3a3ab7b85f -> 2021-01-23 11:41:26.974146:messge:samco:__reqParse__:GET:
+a76cd39d-4d62-470f-a215-3f3a3ab7b85f -> 0.015605:messge:samco:__reqParse__:SUCCESS:
+a76cd39d-4d62-470f-a215-3f3a3ab7b85f -> 2021-01-23 11:41:24.566285:messge:samco:__login__:SUCCESS:log = true
+69b46e74-9e5b-42fb-8a2e-e49bcc082f54 -> 2021-01-23 11:42:01.271090:messge:samco:__login__:GET:log = false
+69b46e74-9e5b-42fb-8a2e-e49bcc082f54 -> 2021-01-23 11:42:01.285960:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+69b46e74-9e5b-42fb-8a2e-e49bcc082f54 -> 2021-01-23 11:42:01.285960:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+69b46e74-9e5b-42fb-8a2e-e49bcc082f54 -> 1.522785:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+69b46e74-9e5b-42fb-8a2e-e49bcc082f54 -> 2021-01-23 11:42:02.856496:messge:samco:__reqParse__:GET:
+69b46e74-9e5b-42fb-8a2e-e49bcc082f54 -> 0.019948:messge:samco:__reqParse__:SUCCESS:
+69b46e74-9e5b-42fb-8a2e-e49bcc082f54 -> 2021-01-23 11:42:01.271090:messge:samco:__login__:SUCCESS:log = true
+e509b7dc-e6c8-4e0b-8f6e-e9d9a1936e29 -> 2021-01-23 11:58:32.625927:messge:samco:__login__:GET:log = false
+e509b7dc-e6c8-4e0b-8f6e-e9d9a1936e29 -> 2021-01-23 11:58:32.641951:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+e509b7dc-e6c8-4e0b-8f6e-e9d9a1936e29 -> 2021-01-23 11:58:32.641951:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+e509b7dc-e6c8-4e0b-8f6e-e9d9a1936e29 -> 6.407942:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+e509b7dc-e6c8-4e0b-8f6e-e9d9a1936e29 -> 2021-01-23 11:58:39.084169:messge:samco:__reqParse__:GET:
+e509b7dc-e6c8-4e0b-8f6e-e9d9a1936e29 -> 0.015056:messge:samco:__reqParse__:SUCCESS:
+e509b7dc-e6c8-4e0b-8f6e-e9d9a1936e29 -> 2021-01-23 11:58:32.625927:messge:samco:__login__:SUCCESS:log = true
+8624f5db-4f11-46d9-adac-ae00a1b21946 -> 2021-01-23 11:59:12.775734:messge:samco:__login__:GET:log = false
+8624f5db-4f11-46d9-adac-ae00a1b21946 -> 2021-01-23 11:59:12.789724:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+8624f5db-4f11-46d9-adac-ae00a1b21946 -> 2021-01-23 11:59:12.789724:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+8624f5db-4f11-46d9-adac-ae00a1b21946 -> 1.582104:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+8624f5db-4f11-46d9-adac-ae00a1b21946 -> 2021-01-23 11:59:14.402931:messge:samco:__reqParse__:GET:
+8624f5db-4f11-46d9-adac-ae00a1b21946 -> 0.016962:messge:samco:__reqParse__:SUCCESS:
+8624f5db-4f11-46d9-adac-ae00a1b21946 -> 2021-01-23 11:59:12.775734:messge:samco:__login__:SUCCESS:log = true
+33877aee-21a5-4768-bdc9-1fa81174a2ea -> 2021-01-23 11:59:35.782242:messge:samco:__login__:GET:log = false
+33877aee-21a5-4768-bdc9-1fa81174a2ea -> 2021-01-23 11:59:35.794543:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+33877aee-21a5-4768-bdc9-1fa81174a2ea -> 2021-01-23 11:59:35.794543:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+33877aee-21a5-4768-bdc9-1fa81174a2ea -> 4.416652:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+33877aee-21a5-4768-bdc9-1fa81174a2ea -> 2021-01-23 11:59:40.278142:messge:samco:__reqParse__:GET:
+33877aee-21a5-4768-bdc9-1fa81174a2ea -> 0.013267:messge:samco:__reqParse__:SUCCESS:
+33877aee-21a5-4768-bdc9-1fa81174a2ea -> 2021-01-23 11:59:35.782242:messge:samco:__login__:SUCCESS:log = true
+1074ae07-1295-4fb4-942a-67638bae6537 -> 2021-01-23 11:59:57.286581:messge:samco:__login__:GET:log = false
+1074ae07-1295-4fb4-942a-67638bae6537 -> 2021-01-23 11:59:57.299479:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+1074ae07-1295-4fb4-942a-67638bae6537 -> 2021-01-23 11:59:57.299479:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+1074ae07-1295-4fb4-942a-67638bae6537 -> 4.192624:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+1074ae07-1295-4fb4-942a-67638bae6537 -> 2021-01-23 12:00:01.561923:messge:samco:__reqParse__:GET:
+1074ae07-1295-4fb4-942a-67638bae6537 -> 0.032428:messge:samco:__reqParse__:SUCCESS:
+1074ae07-1295-4fb4-942a-67638bae6537 -> 2021-01-23 11:59:57.286581:messge:samco:__login__:SUCCESS:log = true
+617f7b53-730b-4643-818d-251863745205 -> 2021-01-23 12:01:17.398872:messge:samco:__login__:GET:log = false
+617f7b53-730b-4643-818d-251863745205 -> 2021-01-23 12:01:17.411284:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+617f7b53-730b-4643-818d-251863745205 -> 2021-01-23 12:01:17.411284:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+617f7b53-730b-4643-818d-251863745205 -> 2.520489:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+617f7b53-730b-4643-818d-251863745205 -> 2021-01-23 12:01:19.978058:messge:samco:__reqParse__:GET:
+617f7b53-730b-4643-818d-251863745205 -> 0.015354:messge:samco:__reqParse__:SUCCESS:
+617f7b53-730b-4643-818d-251863745205 -> 2021-01-23 12:01:17.398872:messge:samco:__login__:SUCCESS:log = true
+617f7b53-730b-4643-818d-251863745205 -> 2021-01-23 12:01:20.033725:messge:samco:__check__:GET:params = {"symbol": "TCS", "exg": "NSE"}
+617f7b53-730b-4643-818d-251863745205 -> 2021-01-23 12:01:20.043793:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/eqDervSearch/search?searchSymbolName=TCS&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "44feb4d6bf1f6d9a5bd611896825c00d"}}
+617f7b53-730b-4643-818d-251863745205 -> 2021-01-23 12:01:20.043793:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/eqDervSearch/search?searchSymbolName=TCS&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "44feb4d6bf1f6d9a5bd611896825c00d"}}
+617f7b53-730b-4643-818d-251863745205 -> 0.554417:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/eqDervSearch/search?searchSymbolName=TCS&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "44feb4d6bf1f6d9a5bd611896825c00d"}}
+617f7b53-730b-4643-818d-251863745205 -> 2021-01-23 12:01:20.609533:messge:samco:__reqParse__:GET:
+617f7b53-730b-4643-818d-251863745205 -> 0.007958:messge:samco:__reqParse__:SUCCESS:
+617f7b53-730b-4643-818d-251863745205 -> 0.591948:messge:samco:__check__:SUCCESS:result = true
+617f7b53-730b-4643-818d-251863745205 -> 2021-01-23 12:01:20.650575:messge:samco:__check__:GET:params = {"symbol": "TCS", "exg": "NSE"}
+617f7b53-730b-4643-818d-251863745205 -> 0.021291:messge:samco:__check__:SUCCESS:result = true
+617f7b53-730b-4643-818d-251863745205 -> 2021-01-23 12:01:20.694174:messge:samco:__check__:GET:params = {"symbol": "TCS", "exg": "NSE"}
+617f7b53-730b-4643-818d-251863745205 -> 0.017274:messge:samco:__check__:SUCCESS:result = true
+3f895f4a-ffbc-4b1d-aab8-5811c398272a -> 2021-01-23 11:28:18.532828:messge:samco:__login__:GET:log = false
+3f895f4a-ffbc-4b1d-aab8-5811c398272a -> 2021-01-23 11:28:18.579865:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+3f895f4a-ffbc-4b1d-aab8-5811c398272a -> 2021-01-23 11:28:18.579865:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+3f895f4a-ffbc-4b1d-aab8-5811c398272a -> 2021-01-23 11:28:18.611361:error:dwn:regular:ERROR:connection = "url not accessible"
+8412a6c6-493b-4a9e-b4ee-bc312a67ad7f -> 2021-01-23 11:29:15.540005:messge:samco:__login__:GET:log = false
+8412a6c6-493b-4a9e-b4ee-bc312a67ad7f -> 2021-01-23 11:29:15.549023:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+8412a6c6-493b-4a9e-b4ee-bc312a67ad7f -> 2021-01-23 11:29:15.549023:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+8412a6c6-493b-4a9e-b4ee-bc312a67ad7f -> 3.012123:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+8412a6c6-493b-4a9e-b4ee-bc312a67ad7f -> 2021-01-23 11:29:18.610378:messge:samco:__reqParse__:GET:
+8412a6c6-493b-4a9e-b4ee-bc312a67ad7f -> 0.012603:messge:samco:__reqParse__:SUCCESS:
+8412a6c6-493b-4a9e-b4ee-bc312a67ad7f -> 2021-01-23 11:29:15.540005:messge:samco:__login__:SUCCESS:log = true
+8412a6c6-493b-4a9e-b4ee-bc312a67ad7f -> 2021-01-23 11:29:18.660387:messge:samco:__check__:GET:params = {"symbol": "TCS", "exg": "NSE"}
+8412a6c6-493b-4a9e-b4ee-bc312a67ad7f -> 2021-01-23 11:29:18.675736:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/eqDervSearch/search?searchSymbolName=TCS&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "ea627337225bca7847e6dc5e4f37988d"}}
+8412a6c6-493b-4a9e-b4ee-bc312a67ad7f -> 2021-01-23 11:29:18.675736:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/eqDervSearch/search?searchSymbolName=TCS&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "ea627337225bca7847e6dc5e4f37988d"}}
+8412a6c6-493b-4a9e-b4ee-bc312a67ad7f -> 0.209756:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/eqDervSearch/search?searchSymbolName=TCS&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "ea627337225bca7847e6dc5e4f37988d"}}
+8412a6c6-493b-4a9e-b4ee-bc312a67ad7f -> 2021-01-23 11:29:18.913068:messge:samco:__reqParse__:GET:
+8412a6c6-493b-4a9e-b4ee-bc312a67ad7f -> 0.006988:messge:samco:__reqParse__:SUCCESS:
+8412a6c6-493b-4a9e-b4ee-bc312a67ad7f -> 0.266455:messge:samco:__check__:SUCCESS:result = true
+8412a6c6-493b-4a9e-b4ee-bc312a67ad7f -> 2021-01-23 11:29:18.948845:messge:samco:__check__:GET:params = {"symbol": "TCS", "exg": "NSE"}
+8412a6c6-493b-4a9e-b4ee-bc312a67ad7f -> 0.021972:messge:samco:__check__:SUCCESS:result = true
+8412a6c6-493b-4a9e-b4ee-bc312a67ad7f -> 2021-01-23 11:29:18.991852:messge:samco:__check__:GET:params = {"symbol": "TCS", "exg": "NSE"}
+8412a6c6-493b-4a9e-b4ee-bc312a67ad7f -> 0.016151:messge:samco:__check__:SUCCESS:result = true
+9ccb79f5-1cac-44c2-8f1c-0ab272d986da -> 2021-01-23 12:41:32.733574:messge:redisClient:__setUp__:GET:check = false
+9ccb79f5-1cac-44c2-8f1c-0ab272d986da -> 0.044758:messge:redisClient:__setUp__:SUCCESS:check = false
+9ccb79f5-1cac-44c2-8f1c-0ab272d986da -> 2021-01-23 12:41:32.789361:messge:redicClient:rSet:GET:toSet = 1
+9ccb79f5-1cac-44c2-8f1c-0ab272d986da -> 2021-01-23 12:41:32.789361:messge:redicClient:rSet:GET:toSet = true
+d5a77471-1ce2-49bb-81ce-3f09085be9eb -> 2021-01-23 12:41:32.834458:messge:redisClient:__setUp__:GET:check = false
+d5a77471-1ce2-49bb-81ce-3f09085be9eb -> 0.025886:messge:redisClient:__setUp__:SUCCESS:check = false
+d5a77471-1ce2-49bb-81ce-3f09085be9eb -> 2021-01-23 12:41:32.871110:messge:redisClient:rGet:GET:key = "symbolList"
+d5a77471-1ce2-49bb-81ce-3f09085be9eb -> 2021-01-23 12:41:32.871110:messge:redisClient:rGet:GET:lot = 1
+0e766a24-04ee-4c63-94f6-c9ae3ec12a5e -> 2021-01-23 12:49:39.253239:messge:redisClient:__setUp__:GET:check = false
+0e766a24-04ee-4c63-94f6-c9ae3ec12a5e -> 0.025704:messge:redisClient:__setUp__:SUCCESS:check = false
+4e10627a-d64d-459a-8f01-08e8e6a763df -> 2021-01-23 13:18:24.566520:messge:redisClient:__setUp__:GET:check = false
+4e10627a-d64d-459a-8f01-08e8e6a763df -> 0.02207:messge:redisClient:__setUp__:SUCCESS:check = false
+3556594f-4460-465b-94e3-e7a045c40426 -> 2021-01-23 13:23:56.556486:messge:redisClient:__setUp__:GET:check = false
+3556594f-4460-465b-94e3-e7a045c40426 -> 0.037946:messge:redisClient:__setUp__:SUCCESS:check = false
+ad579200-2e38-4746-bc1a-ed6d5437fe07 -> 2021-01-23 13:27:52.189625:messge:redisClient:__setUp__:GET:check = false
+ad579200-2e38-4746-bc1a-ed6d5437fe07 -> 0.045107:messge:redisClient:__setUp__:SUCCESS:check = false
+025000bf-c634-4896-a405-c4aaa825ba17 -> 2021-01-23 13:29:26.727965:messge:redisClient:__setUp__:GET:check = false
+025000bf-c634-4896-a405-c4aaa825ba17 -> 0.040783:messge:redisClient:__setUp__:SUCCESS:check = false
+6ee43766-f986-4b6d-8ac5-c95e63fa1b50 -> 2021-01-23 13:31:37.312375:messge:redisClient:__setUp__:GET:check = false
+6ee43766-f986-4b6d-8ac5-c95e63fa1b50 -> 0.02457:messge:redisClient:__setUp__:SUCCESS:check = false
+c7b22f28-e0a3-4308-a1c6-ed2fc4f4b9a5 -> 2021-01-23 13:32:17.782288:messge:redisClient:__setUp__:GET:check = false
+c7b22f28-e0a3-4308-a1c6-ed2fc4f4b9a5 -> 0.039587:messge:redisClient:__setUp__:SUCCESS:check = false
+715d1a1b-f1af-402e-b7ee-193620b732d1 -> 2021-01-23 13:32:17.831183:messge:redisClient:__setUp__:GET:check = false
+715d1a1b-f1af-402e-b7ee-193620b732d1 -> 0.022288:messge:redisClient:__setUp__:SUCCESS:check = false
+715d1a1b-f1af-402e-b7ee-193620b732d1 -> 2021-01-23 13:32:17.860722:messge:redicClient:rSet:GET:toSet = 1
+715d1a1b-f1af-402e-b7ee-193620b732d1 -> 2021-01-23 13:32:17.860722:messge:redicClient:rSet:GET:toSet = true
+d55a4c8f-1601-4c1b-9c98-170f935feded -> 2021-01-23 13:32:25.248723:messge:redisClient:__setUp__:GET:check = false
+d55a4c8f-1601-4c1b-9c98-170f935feded -> 0.061288:messge:redisClient:__setUp__:SUCCESS:check = false
+8964e16a-bbad-4100-a842-47200bd3ee6f -> 2021-01-23 13:32:25.322755:messge:redisClient:__setUp__:GET:check = false
+8964e16a-bbad-4100-a842-47200bd3ee6f -> 0.025936:messge:redisClient:__setUp__:SUCCESS:check = false
+8964e16a-bbad-4100-a842-47200bd3ee6f -> 2021-01-23 13:32:25.358960:messge:redicClient:rSet:GET:toSet = 1
+8964e16a-bbad-4100-a842-47200bd3ee6f -> 2021-01-23 13:32:25.358960:messge:redicClient:rSet:GET:toSet = true
+169cafe9-d2ae-4f2f-b581-192cc9e50e55 -> 2021-01-23 13:32:25.401676:messge:redisClient:__setUp__:GET:check = false
+169cafe9-d2ae-4f2f-b581-192cc9e50e55 -> 0.024916:messge:redisClient:__setUp__:SUCCESS:check = false
+169cafe9-d2ae-4f2f-b581-192cc9e50e55 -> 2021-01-23 13:32:25.436639:messge:redisClient:rGet:GET:key = "symbolList"
+169cafe9-d2ae-4f2f-b581-192cc9e50e55 -> 2021-01-23 13:32:25.436639:messge:redisClient:rGet:GET:lot = 1
+cf172faf-06ef-47eb-9ed4-abad805770fb -> 2021-01-23 13:39:10.683331:messge:samco:__login__:GET:log = false
+cf172faf-06ef-47eb-9ed4-abad805770fb -> 2021-01-23 13:39:10.692394:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+cf172faf-06ef-47eb-9ed4-abad805770fb -> 2021-01-23 13:39:10.692394:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+cf172faf-06ef-47eb-9ed4-abad805770fb -> 3.180917:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+cf172faf-06ef-47eb-9ed4-abad805770fb -> 2021-01-23 13:39:13.894385:messge:samco:__reqParse__:GET:
+cf172faf-06ef-47eb-9ed4-abad805770fb -> 0.01235:messge:samco:__reqParse__:SUCCESS:
+cf172faf-06ef-47eb-9ed4-abad805770fb -> 2021-01-23 13:39:10.683331:messge:samco:__login__:SUCCESS:log = true
+26daf5f7-1938-4a10-898c-7d3a48386336 -> 2021-01-23 13:42:39.751970:messge:redisClient:__setUp__:GET:check = false
+26daf5f7-1938-4a10-898c-7d3a48386336 -> 0.037112:messge:redisClient:__setUp__:SUCCESS:check = false
+7e01a013-a72e-4669-bc98-b8886859eda7 -> 2021-01-23 13:46:48.273465:messge:redisClient:__setUp__:GET:check = false
+7e01a013-a72e-4669-bc98-b8886859eda7 -> 0.026954:messge:redisClient:__setUp__:SUCCESS:check = false
+4cbc934f-1004-468f-ac2e-b4245f60dd12 -> 2021-01-23 13:50:19.578872:messge:redisClient:__setUp__:GET:check = false
+4cbc934f-1004-468f-ac2e-b4245f60dd12 -> 0.041053:messge:redisClient:__setUp__:SUCCESS:check = false
+a2f3ebba-d596-4b13-9d7f-3c3b90bcb57e -> 2021-01-23 13:50:47.543990:messge:redisClient:__setUp__:GET:check = false
+a2f3ebba-d596-4b13-9d7f-3c3b90bcb57e -> 0.034053:messge:redisClient:__setUp__:SUCCESS:check = false
+aad18899-f57d-4341-868e-e05d83e59e5f -> 2021-01-23 13:53:04.708627:messge:redisClient:__setUp__:GET:check = false
+aad18899-f57d-4341-868e-e05d83e59e5f -> 0.038263:messge:redisClient:__setUp__:SUCCESS:check = false
+13fc43c7-67fd-496a-b399-3764a6c74f81 -> 2021-01-23 13:54:41.475531:messge:redisClient:__setUp__:GET:check = false
+13fc43c7-67fd-496a-b399-3764a6c74f81 -> 0.069674:messge:redisClient:__setUp__:SUCCESS:check = false
+0cac8e4e-1e8d-4fea-bb3a-84f389b560e9 -> 2021-01-23 13:57:52.530079:messge:redisClient:__setUp__:GET:check = false
+0cac8e4e-1e8d-4fea-bb3a-84f389b560e9 -> 0.027162:messge:redisClient:__setUp__:SUCCESS:check = false
+0cac8e4e-1e8d-4fea-bb3a-84f389b560e9 -> 2021-01-23 13:57:52.566024:messge:redisClient:rGet:GET:key = "symbolList"
+0cac8e4e-1e8d-4fea-bb3a-84f389b560e9 -> 2021-01-23 13:57:52.566024:messge:redisClient:rGet:GET:lot = 1
+ed071a18-b420-4aa4-8326-e7b686e0ac95 -> 2021-01-23 13:58:09.642753:messge:redisClient:__setUp__:GET:check = false
+ed071a18-b420-4aa4-8326-e7b686e0ac95 -> 0.041419:messge:redisClient:__setUp__:SUCCESS:check = false
+ed071a18-b420-4aa4-8326-e7b686e0ac95 -> 2021-01-23 13:58:09.692871:messge:redisClient:rGet:GET:key = "quoteList"
+ed071a18-b420-4aa4-8326-e7b686e0ac95 -> 2021-01-23 13:58:09.705078:error:redisClient:rGet:ERROR:reason = "KEY NOT FOUND"
+a70e787d-0b52-4699-a04b-9af722895a9a -> 2021-01-23 13:59:41.541934:messge:redisClient:__setUp__:GET:check = false
+a70e787d-0b52-4699-a04b-9af722895a9a -> 0.02654:messge:redisClient:__setUp__:SUCCESS:check = false
+a70e787d-0b52-4699-a04b-9af722895a9a -> 2021-01-23 13:59:41.577385:messge:redicClient:rSet:GET:toSet = 1
+a70e787d-0b52-4699-a04b-9af722895a9a -> 2021-01-23 13:59:41.577385:messge:redicClient:rSet:GET:toSet = true
+a70e787d-0b52-4699-a04b-9af722895a9a -> 2021-01-23 13:59:41.600250:messge:redisClient:rGet:GET:key = "quoteList"
+a70e787d-0b52-4699-a04b-9af722895a9a -> 2021-01-23 13:59:41.600250:messge:redisClient:rGet:GET:lot = 2
+35c63d74-b9e4-48ea-b298-b8465401273b -> 2021-01-23 14:04:11.984315:messge:redisClient:__setUp__:GET:check = false
+35c63d74-b9e4-48ea-b298-b8465401273b -> 0.025911:messge:redisClient:__setUp__:SUCCESS:check = false
+35c63d74-b9e4-48ea-b298-b8465401273b -> 2021-01-23 14:04:12.018412:messge:redicClient:rSet:GET:toSet = 1
+35c63d74-b9e4-48ea-b298-b8465401273b -> 2021-01-23 14:04:12.018412:messge:redicClient:rSet:GET:toSet = true
+35c63d74-b9e4-48ea-b298-b8465401273b -> 2021-01-23 14:04:12.033012:messge:redisClient:rGet:GET:key = "quoteList"
+35c63d74-b9e4-48ea-b298-b8465401273b -> 2021-01-23 14:04:12.033012:messge:redisClient:rGet:GET:lot = 2
+2a295ebb-4254-4d65-ba12-ff42369a2b3e -> 2021-01-23 14:04:22.169952:messge:redisClient:__setUp__:GET:check = false
+2a295ebb-4254-4d65-ba12-ff42369a2b3e -> 0.056362:messge:redisClient:__setUp__:SUCCESS:check = false
+2a295ebb-4254-4d65-ba12-ff42369a2b3e -> 2021-01-23 14:04:22.239567:messge:redicClient:rSet:GET:toSet = 1
+2a295ebb-4254-4d65-ba12-ff42369a2b3e -> 2021-01-23 14:04:22.239567:messge:redicClient:rSet:GET:toSet = true
+2a295ebb-4254-4d65-ba12-ff42369a2b3e -> 2021-01-23 14:04:22.262951:messge:redisClient:rGet:GET:key = "quoteList"
+2a295ebb-4254-4d65-ba12-ff42369a2b3e -> 2021-01-23 14:04:22.262951:messge:redisClient:rGet:GET:lot = 2
+f41b6349-0800-47ec-a967-82f8fd3d0c2c -> 2021-01-23 14:39:32.902477:messge:samco:__login__:GET:log = false
+f41b6349-0800-47ec-a967-82f8fd3d0c2c -> 2021-01-23 14:39:32.934316:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+f41b6349-0800-47ec-a967-82f8fd3d0c2c -> 2021-01-23 14:39:32.934316:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+f41b6349-0800-47ec-a967-82f8fd3d0c2c -> 2.341329:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+f41b6349-0800-47ec-a967-82f8fd3d0c2c -> 2021-01-23 14:39:35.310403:messge:samco:__reqParse__:GET:
+f41b6349-0800-47ec-a967-82f8fd3d0c2c -> 0.015682:messge:samco:__reqParse__:SUCCESS:
+f41b6349-0800-47ec-a967-82f8fd3d0c2c -> 2021-01-23 14:39:32.902477:messge:samco:__login__:SUCCESS:log = true
+e2ae6d49-383b-4323-b1e9-284381372a75 -> 2021-01-23 14:39:35.364089:messge:redisClient:__setUp__:GET:check = false
+e2ae6d49-383b-4323-b1e9-284381372a75 -> 0.043226:messge:redisClient:__setUp__:SUCCESS:check = false
+3a3df981-dad1-4f62-b205-70bbe20fa5b7 -> 2021-01-23 19:08:01.968182:messge:samco:__login__:GET:log = false
+3a3df981-dad1-4f62-b205-70bbe20fa5b7 -> 2021-01-23 19:08:01.977112:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+3a3df981-dad1-4f62-b205-70bbe20fa5b7 -> 2021-01-23 19:08:01.977112:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+3a3df981-dad1-4f62-b205-70bbe20fa5b7 -> 1.40488:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+3a3df981-dad1-4f62-b205-70bbe20fa5b7 -> 2021-01-23 19:08:03.454445:messge:samco:__reqParse__:GET:
+3a3df981-dad1-4f62-b205-70bbe20fa5b7 -> 0.026727:messge:samco:__reqParse__:SUCCESS:
+3a3df981-dad1-4f62-b205-70bbe20fa5b7 -> 2021-01-23 19:08:01.968182:messge:samco:__login__:SUCCESS:log = true
+1d0ba9f3-4611-4b36-bc8a-8847000b3308 -> 2021-01-23 19:08:03.523772:messge:redisClient:__setUp__:GET:check = false
+1d0ba9f3-4611-4b36-bc8a-8847000b3308 -> 0.0431:messge:redisClient:__setUp__:SUCCESS:check = false
+65f1f05b-d073-4a32-842c-55f15206c962 -> 2021-01-23 19:08:12.721847:messge:samco:__login__:GET:log = false
+65f1f05b-d073-4a32-842c-55f15206c962 -> 2021-01-23 19:08:12.745118:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+65f1f05b-d073-4a32-842c-55f15206c962 -> 2021-01-23 19:08:12.745118:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+65f1f05b-d073-4a32-842c-55f15206c962 -> 1.514098:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+65f1f05b-d073-4a32-842c-55f15206c962 -> 2021-01-23 19:08:14.353171:messge:samco:__reqParse__:GET:
+65f1f05b-d073-4a32-842c-55f15206c962 -> 0.019407:messge:samco:__reqParse__:SUCCESS:
+65f1f05b-d073-4a32-842c-55f15206c962 -> 2021-01-23 19:08:12.721847:messge:samco:__login__:SUCCESS:log = true
+a84f4a03-14f3-4d12-b934-e0633af445cc -> 2021-01-23 19:08:14.414459:messge:redisClient:__setUp__:GET:check = false
+a84f4a03-14f3-4d12-b934-e0633af445cc -> 0.046694:messge:redisClient:__setUp__:SUCCESS:check = false
+7101e15b-46ad-4aa8-b4d5-dceaca4314d8 -> 2021-01-23 19:08:31.287738:messge:samco:__login__:GET:log = false
+7101e15b-46ad-4aa8-b4d5-dceaca4314d8 -> 2021-01-23 19:08:31.327769:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+7101e15b-46ad-4aa8-b4d5-dceaca4314d8 -> 2021-01-23 19:08:31.327769:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+7101e15b-46ad-4aa8-b4d5-dceaca4314d8 -> 1.190277:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+7101e15b-46ad-4aa8-b4d5-dceaca4314d8 -> 2021-01-23 19:08:32.572020:messge:samco:__reqParse__:GET:
+7101e15b-46ad-4aa8-b4d5-dceaca4314d8 -> 0.034989:messge:samco:__reqParse__:SUCCESS:
+7101e15b-46ad-4aa8-b4d5-dceaca4314d8 -> 2021-01-23 19:08:31.287738:messge:samco:__login__:SUCCESS:log = true
+8f045ad4-be2d-441b-9196-7b3e0b6b0377 -> 2021-01-23 19:08:32.647760:messge:redisClient:__setUp__:GET:check = false
+8f045ad4-be2d-441b-9196-7b3e0b6b0377 -> 0.042597:messge:redisClient:__setUp__:SUCCESS:check = false
+75f1cedd-e7b6-4b53-a51e-89043a3425a1 -> 2021-01-23 19:14:06.358734:messge:samco:__login__:GET:log = false
+75f1cedd-e7b6-4b53-a51e-89043a3425a1 -> 2021-01-23 19:14:06.412331:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+75f1cedd-e7b6-4b53-a51e-89043a3425a1 -> 2021-01-23 19:14:06.412331:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+75f1cedd-e7b6-4b53-a51e-89043a3425a1 -> 2.075104:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+75f1cedd-e7b6-4b53-a51e-89043a3425a1 -> 2021-01-23 19:14:08.534934:messge:samco:__reqParse__:GET:
+75f1cedd-e7b6-4b53-a51e-89043a3425a1 -> 0.020556:messge:samco:__reqParse__:SUCCESS:
+75f1cedd-e7b6-4b53-a51e-89043a3425a1 -> 2021-01-23 19:14:06.358734:messge:samco:__login__:SUCCESS:log = true
+f735b279-7129-4a1f-840d-db21fd7a881d -> 2021-01-23 19:14:08.604223:messge:redisClient:__setUp__:GET:check = false
+f735b279-7129-4a1f-840d-db21fd7a881d -> 0.042323:messge:redisClient:__setUp__:SUCCESS:check = false
+01945a19-dd3b-479d-8f1e-e5982e0de049 -> 2021-01-23 19:14:23.573053:messge:samco:__login__:GET:log = false
+01945a19-dd3b-479d-8f1e-e5982e0de049 -> 2021-01-23 19:14:23.597819:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+01945a19-dd3b-479d-8f1e-e5982e0de049 -> 2021-01-23 19:14:23.597819:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+01945a19-dd3b-479d-8f1e-e5982e0de049 -> 1.564622:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+01945a19-dd3b-479d-8f1e-e5982e0de049 -> 2021-01-23 19:14:25.213530:messge:samco:__reqParse__:GET:
+01945a19-dd3b-479d-8f1e-e5982e0de049 -> 0.027411:messge:samco:__reqParse__:SUCCESS:
+01945a19-dd3b-479d-8f1e-e5982e0de049 -> 2021-01-23 19:14:23.573053:messge:samco:__login__:SUCCESS:log = true
+ee341b3b-e847-4e8d-a030-34b82ce541f8 -> 2021-01-23 19:14:25.282408:messge:redisClient:__setUp__:GET:check = false
+ee341b3b-e847-4e8d-a030-34b82ce541f8 -> 0.036612:messge:redisClient:__setUp__:SUCCESS:check = false
+b5dc1ad0-d8fc-4706-bb83-e567c53d357a -> 2021-01-23 19:14:46.421469:messge:samco:__login__:GET:log = false
+b5dc1ad0-d8fc-4706-bb83-e567c53d357a -> 2021-01-23 19:14:46.475011:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+b5dc1ad0-d8fc-4706-bb83-e567c53d357a -> 2021-01-23 19:14:46.475011:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+b5dc1ad0-d8fc-4706-bb83-e567c53d357a -> 1.418247:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+b5dc1ad0-d8fc-4706-bb83-e567c53d357a -> 2021-01-23 19:14:47.997526:messge:samco:__reqParse__:GET:
+b5dc1ad0-d8fc-4706-bb83-e567c53d357a -> 0.021809:messge:samco:__reqParse__:SUCCESS:
+b5dc1ad0-d8fc-4706-bb83-e567c53d357a -> 2021-01-23 19:14:46.421469:messge:samco:__login__:SUCCESS:log = true
+3ec8f0fd-8d97-4adb-9c28-82afa02a55ef -> 2021-01-23 19:14:48.057308:messge:redisClient:__setUp__:GET:check = false
+3ec8f0fd-8d97-4adb-9c28-82afa02a55ef -> 0.041502:messge:redisClient:__setUp__:SUCCESS:check = false
+39b701f7-4c96-4ef2-a6ef-1a1f19744526 -> 2021-01-23 19:18:42.848153:messge:samco:__login__:GET:log = false
+39b701f7-4c96-4ef2-a6ef-1a1f19744526 -> 2021-01-23 19:18:42.871998:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+39b701f7-4c96-4ef2-a6ef-1a1f19744526 -> 2021-01-23 19:18:42.871998:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+39b701f7-4c96-4ef2-a6ef-1a1f19744526 -> 1.654726:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+39b701f7-4c96-4ef2-a6ef-1a1f19744526 -> 2021-01-23 19:18:44.594126:messge:samco:__reqParse__:GET:
+39b701f7-4c96-4ef2-a6ef-1a1f19744526 -> 0.018191:messge:samco:__reqParse__:SUCCESS:
+39b701f7-4c96-4ef2-a6ef-1a1f19744526 -> 2021-01-23 19:18:42.848153:messge:samco:__login__:SUCCESS:log = true
+a759dff8-9ea1-45f4-81d1-4de0b9c5da28 -> 2021-01-23 19:18:44.653664:messge:redisClient:__setUp__:GET:check = false
+a759dff8-9ea1-45f4-81d1-4de0b9c5da28 -> 0.043138:messge:redisClient:__setUp__:SUCCESS:check = false
+8adf5435-c418-47ae-8173-ab6029caa205 -> 2021-01-23 19:19:36.720939:messge:samco:__login__:GET:log = false
+8adf5435-c418-47ae-8173-ab6029caa205 -> 2021-01-23 19:19:36.748627:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+8adf5435-c418-47ae-8173-ab6029caa205 -> 2021-01-23 19:19:36.748627:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+8adf5435-c418-47ae-8173-ab6029caa205 -> 2.146885:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+8adf5435-c418-47ae-8173-ab6029caa205 -> 2021-01-23 19:19:38.963745:messge:samco:__reqParse__:GET:
+8adf5435-c418-47ae-8173-ab6029caa205 -> 0.020478:messge:samco:__reqParse__:SUCCESS:
+8adf5435-c418-47ae-8173-ab6029caa205 -> 2021-01-23 19:19:36.720939:messge:samco:__login__:SUCCESS:log = true
+8c54d56b-ae49-4ca0-9dc7-faed3925fb64 -> 2021-01-23 19:19:39.032101:messge:redisClient:__setUp__:GET:check = false
+8c54d56b-ae49-4ca0-9dc7-faed3925fb64 -> 0.040171:messge:redisClient:__setUp__:SUCCESS:check = false
+8c54d56b-ae49-4ca0-9dc7-faed3925fb64 -> 2021-01-23 19:19:39.086751:messge:mDwn:mRegular:GET:urlList = [{"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "eCode": [200, 500]}, {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "eCode": [200, 500]}]
+8c54d56b-ae49-4ca0-9dc7-faed3925fb64 -> 2021-01-23 19:19:39.107631:messge:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "api.stocknote.com", "Referer": "api.stocknote.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+8c54d56b-ae49-4ca0-9dc7-faed3925fb64 -> 2021-01-23 19:19:39.140011:messge:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "api.stocknote.com", "Referer": "api.stocknote.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+8c54d56b-ae49-4ca0-9dc7-faed3925fb64 -> 2021-01-23 19:19:40.379246:error:mDwn:__fetch__:ERROR:connection = "status code not matched"
+3e7cff05-c6c5-4e86-9530-18a15602b1e4 -> 2021-01-23 19:20:24.674932:messge:samco:__login__:GET:log = false
+3e7cff05-c6c5-4e86-9530-18a15602b1e4 -> 2021-01-23 19:20:24.683901:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+3e7cff05-c6c5-4e86-9530-18a15602b1e4 -> 2021-01-23 19:20:24.683901:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+3e7cff05-c6c5-4e86-9530-18a15602b1e4 -> 2.797587:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+3e7cff05-c6c5-4e86-9530-18a15602b1e4 -> 2021-01-23 19:20:27.549727:messge:samco:__reqParse__:GET:
+3e7cff05-c6c5-4e86-9530-18a15602b1e4 -> 0.012743:messge:samco:__reqParse__:SUCCESS:
+3e7cff05-c6c5-4e86-9530-18a15602b1e4 -> 2021-01-23 19:20:24.674932:messge:samco:__login__:SUCCESS:log = true
+8ed4bd32-6948-4a41-acdd-0a5981d028e5 -> 2021-01-23 19:20:27.589771:messge:redisClient:__setUp__:GET:check = false
+8ed4bd32-6948-4a41-acdd-0a5981d028e5 -> 0.041533:messge:redisClient:__setUp__:SUCCESS:check = false
+8ed4bd32-6948-4a41-acdd-0a5981d028e5 -> 2021-01-23 19:20:27.645545:messge:mDwn:mRegular:GET:urlList = [{"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "eCode": [200, 500]}, {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "eCode": [200, 500]}]
+8ed4bd32-6948-4a41-acdd-0a5981d028e5 -> 2021-01-23 19:20:27.665557:messge:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "api.stocknote.com", "Referer": "api.stocknote.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+8ed4bd32-6948-4a41-acdd-0a5981d028e5 -> 2021-01-23 19:20:27.687738:messge:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "api.stocknote.com", "Referer": "api.stocknote.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+8ed4bd32-6948-4a41-acdd-0a5981d028e5 -> 2021-01-23 19:20:29.555394:error:mDwn:__fetch__:ERROR:connection = "status code not matched"
+53e41d14-0c59-4aeb-96a4-d2fe26af15c5 -> 2021-01-23 19:21:46.593869:messge:samco:__login__:GET:log = false
+53e41d14-0c59-4aeb-96a4-d2fe26af15c5 -> 2021-01-23 19:21:46.621987:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+53e41d14-0c59-4aeb-96a4-d2fe26af15c5 -> 2021-01-23 19:21:46.621987:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+53e41d14-0c59-4aeb-96a4-d2fe26af15c5 -> 2.181881:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+53e41d14-0c59-4aeb-96a4-d2fe26af15c5 -> 2021-01-23 19:21:48.876933:messge:samco:__reqParse__:GET:
+53e41d14-0c59-4aeb-96a4-d2fe26af15c5 -> 0.011898:messge:samco:__reqParse__:SUCCESS:
+53e41d14-0c59-4aeb-96a4-d2fe26af15c5 -> 2021-01-23 19:21:46.593869:messge:samco:__login__:SUCCESS:log = true
+fe75e75b-aa90-428a-b4a6-3b29b69cbeb1 -> 2021-01-23 19:21:48.918405:messge:redisClient:__setUp__:GET:check = false
+fe75e75b-aa90-428a-b4a6-3b29b69cbeb1 -> 0.035478:messge:redisClient:__setUp__:SUCCESS:check = false
+fe75e75b-aa90-428a-b4a6-3b29b69cbeb1 -> 2021-01-23 19:21:48.966426:messge:mDwn:mRegular:GET:urlList = [{"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "eCode": [200, 500]}, {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "eCode": [200, 500]}]
+fe75e75b-aa90-428a-b4a6-3b29b69cbeb1 -> 2021-01-23 19:21:48.983563:messge:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "api.stocknote.com", "Referer": "api.stocknote.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+fe75e75b-aa90-428a-b4a6-3b29b69cbeb1 -> 2021-01-23 19:21:49.003939:messge:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "api.stocknote.com", "Referer": "api.stocknote.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+86b8c779-9910-46cb-a62a-425d391aedfe -> 2021-01-23 19:22:30.810087:messge:samco:__login__:GET:log = false
+86b8c779-9910-46cb-a62a-425d391aedfe -> 2021-01-23 19:22:30.820009:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+86b8c779-9910-46cb-a62a-425d391aedfe -> 2021-01-23 19:22:30.820009:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+86b8c779-9910-46cb-a62a-425d391aedfe -> 1.131463:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+86b8c779-9910-46cb-a62a-425d391aedfe -> 2021-01-23 19:22:31.982645:messge:samco:__reqParse__:GET:
+86b8c779-9910-46cb-a62a-425d391aedfe -> 0.013201:messge:samco:__reqParse__:SUCCESS:
+86b8c779-9910-46cb-a62a-425d391aedfe -> 2021-01-23 19:22:30.810087:messge:samco:__login__:SUCCESS:log = true
+fba8f168-0327-4b6e-b00a-d10f8b5ce273 -> 2021-01-23 19:22:32.030421:messge:redisClient:__setUp__:GET:check = false
+fba8f168-0327-4b6e-b00a-d10f8b5ce273 -> 0.029657:messge:redisClient:__setUp__:SUCCESS:check = false
+fba8f168-0327-4b6e-b00a-d10f8b5ce273 -> 2021-01-23 19:22:32.068784:messge:mDwn:mRegular:GET:urlList = [{"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "eCode": [200, 500]}, {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "eCode": [200, 500]}]
+fba8f168-0327-4b6e-b00a-d10f8b5ce273 -> 2021-01-23 19:22:32.080453:messge:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "api.stocknote.com", "Referer": "api.stocknote.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+fba8f168-0327-4b6e-b00a-d10f8b5ce273 -> 2021-01-23 19:22:32.094441:messge:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "*/*", "Accept-Language": "en-US,en;q=0.5", "Host": "api.stocknote.com", "Referer": "api.stocknote.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0", "X-Requested-With": "XMLHttpRequest"}, "payLoad": null}
+fba8f168-0327-4b6e-b00a-d10f8b5ce273 -> 2021-01-23 19:22:32.600023:error:mDwn:__fetch__:ERROR:connection = "status code not matched"
+a058e181-8d8b-4bf1-ba7f-04883c708518 -> 2021-01-23 19:23:18.140749:messge:samco:__login__:GET:log = false
+a058e181-8d8b-4bf1-ba7f-04883c708518 -> 2021-01-23 19:23:18.149579:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+a058e181-8d8b-4bf1-ba7f-04883c708518 -> 2021-01-23 19:23:18.149579:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+a058e181-8d8b-4bf1-ba7f-04883c708518 -> 2.233386:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+a058e181-8d8b-4bf1-ba7f-04883c708518 -> 2021-01-23 19:23:20.403457:messge:samco:__reqParse__:GET:
+a058e181-8d8b-4bf1-ba7f-04883c708518 -> 0.013012:messge:samco:__reqParse__:SUCCESS:
+a058e181-8d8b-4bf1-ba7f-04883c708518 -> 2021-01-23 19:23:18.140749:messge:samco:__login__:SUCCESS:log = true
+cab05ae7-b5f9-40f9-b229-289d2185fcf3 -> 2021-01-23 19:23:20.442932:messge:redisClient:__setUp__:GET:check = false
+cab05ae7-b5f9-40f9-b229-289d2185fcf3 -> 0.035762:messge:redisClient:__setUp__:SUCCESS:check = false
+cab05ae7-b5f9-40f9-b229-289d2185fcf3 -> 2021-01-23 19:23:20.491657:messge:mDwn:mRegular:GET:urlList = [{"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "c8b4de16e75f6450e64174f5762155f8"}}, {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "c8b4de16e75f6450e64174f5762155f8"}}]
+cab05ae7-b5f9-40f9-b229-289d2185fcf3 -> 2021-01-23 19:23:20.514784:messge:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "c8b4de16e75f6450e64174f5762155f8"}, "payLoad": null}
+cab05ae7-b5f9-40f9-b229-289d2185fcf3 -> 2021-01-23 19:23:20.533437:messge:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "c8b4de16e75f6450e64174f5762155f8"}, "payLoad": null}
+cab05ae7-b5f9-40f9-b229-289d2185fcf3 -> 1.279404:messge:mDwn:__fetch__:SUCCESS:url = "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE"
+cab05ae7-b5f9-40f9-b229-289d2185fcf3 -> 1.337439:messge:mDwn:__fetch__:SUCCESS:url = "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE"
+cab05ae7-b5f9-40f9-b229-289d2185fcf3 -> 1.39892:messge:mDwn:mRegular:SUCCESS:lot = 2
+0be7da9a-ccde-431d-b71d-55155e52bc87 -> 2021-01-23 19:31:41.219919:messge:samco:__login__:GET:log = false
+0be7da9a-ccde-431d-b71d-55155e52bc87 -> 2021-01-23 19:31:41.228712:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+0be7da9a-ccde-431d-b71d-55155e52bc87 -> 2021-01-23 19:31:41.228712:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+707bd295-4942-4fd3-b73c-fed665148207 -> 2021-01-23 19:32:25.360455:messge:samco:__login__:GET:log = false
+707bd295-4942-4fd3-b73c-fed665148207 -> 2021-01-23 19:32:25.369438:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+707bd295-4942-4fd3-b73c-fed665148207 -> 2021-01-23 19:32:25.369438:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+707bd295-4942-4fd3-b73c-fed665148207 -> 1.348829:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+707bd295-4942-4fd3-b73c-fed665148207 -> 2021-01-23 19:32:26.742168:messge:samco:__reqParse__:GET:
+707bd295-4942-4fd3-b73c-fed665148207 -> 0.012883:messge:samco:__reqParse__:SUCCESS:
+707bd295-4942-4fd3-b73c-fed665148207 -> 2021-01-23 19:32:25.360455:messge:samco:__login__:SUCCESS:log = true
+54f2b3c0-f385-4423-86b8-a81587737337 -> 2021-01-23 19:32:26.788837:messge:redisClient:__setUp__:GET:check = false
+54f2b3c0-f385-4423-86b8-a81587737337 -> 0.040441:messge:redisClient:__setUp__:SUCCESS:check = false
+54f2b3c0-f385-4423-86b8-a81587737337 -> 2021-01-23 19:32:26.841312:messge:mDwn:mRegular:GET:urlList = [{"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "26096ef0b1574e8d336bd7bf01a8fa56"}}, {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "26096ef0b1574e8d336bd7bf01a8fa56"}}]
+54f2b3c0-f385-4423-86b8-a81587737337 -> 2021-01-23 19:32:26.862916:messge:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "26096ef0b1574e8d336bd7bf01a8fa56"}, "payLoad": null}
+54f2b3c0-f385-4423-86b8-a81587737337 -> 2021-01-23 19:32:26.882561:messge:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "26096ef0b1574e8d336bd7bf01a8fa56"}, "payLoad": null}
+54f2b3c0-f385-4423-86b8-a81587737337 -> 0.749114:messge:mDwn:__fetch__:SUCCESS:url = "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE"
+54f2b3c0-f385-4423-86b8-a81587737337 -> 0.808592:messge:mDwn:__fetch__:SUCCESS:url = "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE"
+54f2b3c0-f385-4423-86b8-a81587737337 -> 0.886985:messge:mDwn:mRegular:SUCCESS:lot = 2
+d16aad27-6ae1-44b9-a7a1-1adc0bae00a8 -> 2021-01-23 19:32:54.254995:messge:samco:__login__:GET:log = false
+d16aad27-6ae1-44b9-a7a1-1adc0bae00a8 -> 2021-01-23 19:32:54.280182:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+d16aad27-6ae1-44b9-a7a1-1adc0bae00a8 -> 2021-01-23 19:32:54.280182:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+d16aad27-6ae1-44b9-a7a1-1adc0bae00a8 -> 1.571454:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+d16aad27-6ae1-44b9-a7a1-1adc0bae00a8 -> 2021-01-23 19:32:55.906204:messge:samco:__reqParse__:GET:
+d16aad27-6ae1-44b9-a7a1-1adc0bae00a8 -> 0.02061:messge:samco:__reqParse__:SUCCESS:
+d16aad27-6ae1-44b9-a7a1-1adc0bae00a8 -> 2021-01-23 19:32:54.254995:messge:samco:__login__:SUCCESS:log = true
+9972db7b-c305-42ef-9363-4eef64ceda31 -> 2021-01-23 19:32:55.973419:messge:redisClient:__setUp__:GET:check = false
+9972db7b-c305-42ef-9363-4eef64ceda31 -> 0.044686:messge:redisClient:__setUp__:SUCCESS:check = false
+9972db7b-c305-42ef-9363-4eef64ceda31 -> 2021-01-23 19:32:56.037303:messge:mDwn:mRegular:GET:urlList = [{"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "7160217e1786bfed10e2a660177a1be8"}}, {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "7160217e1786bfed10e2a660177a1be8"}}]
+9972db7b-c305-42ef-9363-4eef64ceda31 -> 2021-01-23 19:32:56.082026:messge:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "7160217e1786bfed10e2a660177a1be8"}, "payLoad": null}
+9972db7b-c305-42ef-9363-4eef64ceda31 -> 2021-01-23 19:32:56.114304:messge:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "7160217e1786bfed10e2a660177a1be8"}, "payLoad": null}
+9972db7b-c305-42ef-9363-4eef64ceda31 -> 0.498164:messge:mDwn:__fetch__:SUCCESS:url = "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE"
+9972db7b-c305-42ef-9363-4eef64ceda31 -> 0.86807:messge:mDwn:__fetch__:SUCCESS:url = "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE"
+9972db7b-c305-42ef-9363-4eef64ceda31 -> 1.033114:messge:mDwn:mRegular:SUCCESS:lot = 2
+abf23499-037a-4352-9705-1995509eeed9 -> 2021-01-23 19:33:08.169650:messge:samco:__login__:GET:log = false
+abf23499-037a-4352-9705-1995509eeed9 -> 2021-01-23 19:33:08.219415:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+abf23499-037a-4352-9705-1995509eeed9 -> 2021-01-23 19:33:08.219415:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+abf23499-037a-4352-9705-1995509eeed9 -> 1.336699:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+abf23499-037a-4352-9705-1995509eeed9 -> 2021-01-23 19:33:09.631522:messge:samco:__reqParse__:GET:
+abf23499-037a-4352-9705-1995509eeed9 -> 0.02165:messge:samco:__reqParse__:SUCCESS:
+abf23499-037a-4352-9705-1995509eeed9 -> 2021-01-23 19:33:08.169650:messge:samco:__login__:SUCCESS:log = true
+c9dcf6df-8bc0-48b0-b934-801e7dbee04b -> 2021-01-23 19:33:09.699966:messge:redisClient:__setUp__:GET:check = false
+c9dcf6df-8bc0-48b0-b934-801e7dbee04b -> 0.029199:messge:redisClient:__setUp__:SUCCESS:check = false
+c9dcf6df-8bc0-48b0-b934-801e7dbee04b -> 2021-01-23 19:33:09.742979:messge:mDwn:mRegular:GET:urlList = [{"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "90ac7478204b382bf9adbe47fc2500b3"}}, {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "90ac7478204b382bf9adbe47fc2500b3"}}]
+c9dcf6df-8bc0-48b0-b934-801e7dbee04b -> 2021-01-23 19:33:09.776596:messge:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "90ac7478204b382bf9adbe47fc2500b3"}, "payLoad": null}
+c9dcf6df-8bc0-48b0-b934-801e7dbee04b -> 2021-01-23 19:33:09.799287:messge:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "90ac7478204b382bf9adbe47fc2500b3"}, "payLoad": null}
+c9dcf6df-8bc0-48b0-b934-801e7dbee04b -> 0.515097:messge:mDwn:__fetch__:SUCCESS:url = "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE"
+c9dcf6df-8bc0-48b0-b934-801e7dbee04b -> 0.546319:messge:mDwn:__fetch__:SUCCESS:url = "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE"
+c9dcf6df-8bc0-48b0-b934-801e7dbee04b -> 0.620839:messge:mDwn:mRegular:SUCCESS:lot = 2
+3a783957-2230-490e-9a09-0ea41bd027b0 -> 2021-01-23 19:34:38.065274:messge:samco:__login__:GET:log = false
+3a783957-2230-490e-9a09-0ea41bd027b0 -> 2021-01-23 19:34:38.088971:messge:dwn:regular:GET:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+3a783957-2230-490e-9a09-0ea41bd027b0 -> 2021-01-23 19:34:38.088971:messge:dwn:regular:PUT:params = {"url": "https://api.stocknote.com/login", "enc": "utf-8", "method": "POST", "raw": false, "eCode": [200], "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}"}
+3a783957-2230-490e-9a09-0ea41bd027b0 -> 1.985908:messge:dwn:regular:SUCCESS:params = {"url": "https://api.stocknote.com/login", "data": "{\"userId\": \"DA34408\", \"password\": \"W@t$al901\", \"yob\": \"1999\"}", "method": "POST", "headers": {"Content-Type": "application/json", "Accept": "application/json"}, "enc": "utf-8"}
+3a783957-2230-490e-9a09-0ea41bd027b0 -> 2021-01-23 19:34:40.116622:messge:samco:__reqParse__:GET:
+3a783957-2230-490e-9a09-0ea41bd027b0 -> 0.020974:messge:samco:__reqParse__:SUCCESS:
+3a783957-2230-490e-9a09-0ea41bd027b0 -> 2021-01-23 19:34:38.065274:messge:samco:__login__:SUCCESS:log = true
+a533ddb1-7849-48a2-8984-5c8d660da547 -> 2021-01-23 19:34:40.184766:messge:redisClient:__setUp__:GET:check = false
+a533ddb1-7849-48a2-8984-5c8d660da547 -> 0.045373:messge:redisClient:__setUp__:SUCCESS:check = false
+a533ddb1-7849-48a2-8984-5c8d660da547 -> 2021-01-23 19:34:40.248507:messge:mDwn:mRegular:GET:urlList = [{"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "ac9f2869e867b282ba777860ec162cb5"}}, {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "ac9f2869e867b282ba777860ec162cb5"}}]
+a533ddb1-7849-48a2-8984-5c8d660da547 -> 2021-01-23 19:34:40.292628:messge:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "ac9f2869e867b282ba777860ec162cb5"}, "payLoad": null}
+a533ddb1-7849-48a2-8984-5c8d660da547 -> 2021-01-23 19:34:40.326443:messge:mDwn:__fetch__:GET:params = {"url": "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE", "enc": "utf-8", "method": "GET", "raw": false, "eCode": [200, 500], "headers": {"Accept": "application/json", "x-session-token": "ac9f2869e867b282ba777860ec162cb5"}, "payLoad": null}
+a533ddb1-7849-48a2-8984-5c8d660da547 -> 0.622231:messge:mDwn:__fetch__:SUCCESS:url = "https://api.stocknote.com/quote/getQuote?symbolName=TCS&exchange=NSE"
+a533ddb1-7849-48a2-8984-5c8d660da547 -> 0.745591:messge:mDwn:__fetch__:SUCCESS:url = "https://api.stocknote.com/quote/getQuote?symbolName=INFY&exchange=NSE"
+a533ddb1-7849-48a2-8984-5c8d660da547 -> 0.902319:messge:mDwn:mRegular:SUCCESS:lot = 2
+3a783957-2230-490e-9a09-0ea41bd027b0 -> 2021-01-23 19:34:41.196901:messge:samco:__blTul__:GET:
+3a783957-2230-490e-9a09-0ea41bd027b0 -> 0.02316:messge:samco:__blTul__:SUCCESS:
+3a783957-2230-490e-9a09-0ea41bd027b0 -> 2021-01-23 19:34:41.249201:messge:samco:__blTul__:GET:
+3a783957-2230-490e-9a09-0ea41bd027b0 -> 0.017999:messge:samco:__blTul__:SUCCESS:

@@ -1,0 +1,60 @@
+{"redis":{"quote":0},
+ "mySql":{"pg => priceGeneral":{"hNse  => holidayNSE":{"hStamp => stamp":"date primary key"},
+
+                                "fStat => funcStatus":{"nFunc => func"  :"varchar(30) primary key",
+                                                       "pFunc => params":"json"},
+
+                                "event => event":{"eStamp => stamp"     :"datetime",
+                                                  "eEvent => event"     :"varchar(40)",
+                                                  "eUser  => userId"    :"varchar(37)",
+                                                  "eId    => eventId"   :"int(11) not null auto_increment primary key"},
+
+                                "exgStore => exchangeStore":{"exg   => exchange":"varchar(30) primary key",
+                                                             "exgId => EUID"    :"varchar(37)"},
+
+                                "symStore => symbolStore":{"symCmp  => symbolCompany":"varchar(120)",
+                                                           "symSec  => symbolSector" :"varchar(90)",
+                                                           "sym     => symbol"       :"varchar(40) primary key",
+                                                           "symSeg  => symbolSegment":"json",
+                                                           "symCap  => issuedCap"    :"decimal(15,5)",
+                                                           "symId   => SUID"         :"varchar(12)",
+                                                           "ESId    => EUID"         :"varchar(37)",
+                                                           "symStat => status"       :"tinyint(1)"},
+
+                                "indStore => indexStore":{"indSec  => indexSector"  :"varchar(50)",
+                                                          "ind     => indexName"    :"varchar(90) primary key",
+                                                          "indCont => indexContent" :"json",
+                                                          "indId   => IUID"         :"varchar(37)",
+                                                          "EIId    => EUID"         :"varchar(37)"}
+
+                                },
+
+
+          "intData => intervalData":{"intSamp => __sample__":{"intOpen   => open"   :"decimal(15,5)",
+                                                              "intClose  => close"  :"decimal(15,5)",
+                                                              "intHigh   => high"   :"decimal(15,5)",
+                                                              "intLow    => low"    :"decimal(15,5)",
+                                                              "intVolume => volume" :"decimal(15,5)",
+                                                              "intStamp  => stamp"  :"datetime primary key"}
+                                     },
+          
+          "finData => priceFinancials":{"finSamp => __sample__":{"finOpen   => open"         :"decimal(15,5)",
+                                                                 "finClose  => close"        :"decimal(15,5)",
+                                                                 "finPclose => pClose"       :"decimal(15,5)",
+                                                                 "finHigh   => high"         :"decimal(15,5)",
+                                                                 "finLow    => low"          :"decimal(15,5)",
+                                                                 "finVolume => volume"       :"decimal(15,5)",
+                                                                 "finStamp  => stamp"        :"date primary key",
+                                                                 "finTrnOvr => turnOver"     :"decimal(15,5)",
+                                                                 "finTrdMde => tradesMade"   :"decimal(15,2)",
+                                                                 "finDelQty => dlvQty"       :"decimal(15,2)",
+                                                                 "finDelPer => dlvPer"       :"decimal(15,2)",
+                                                                 "finLogRet => logRet"       :"decimal(15,5)",
+                                                                 "finPreVot => prevVolt"     :"decimal(15,5)",
+                                                                 "finCurVot => currVolt"     :"decimal(15,5)",
+                                                                 "finAnnVot => annuVolt"     :"decimal(15,5)"}
+                                       }
+          }
+
+ 
+ }

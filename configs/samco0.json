@@ -1,0 +1,1509 @@
+{
+    "params": {
+        "userId": {
+            "desc": "The client Code provided to you by SAMCO after opening an account.",
+            "type": "string",
+            "req": true,
+            "map": "samUser"
+        },
+        "password": {
+            "desc": "If user has set password using any of the SAMCO Trading platform i.e. Stocknote Mobile App, Stocknote Web or Stockbasket, then use the password as set. Or else, use the password provided in the welcome email sent to you at the time of account opening.",
+            "type": "string",
+            "req": true,
+            "map": "samPhrase"
+        },
+        "yob": {
+            "desc": "Your year of birth.",
+            "type": "string",
+            "req": true,
+            "map": "samCode"
+        },
+        "exchange": {
+            "desc": "Name of the exchange.Valid exchanges values (BSE/ NSE/ NFO/ MCX/ CDS).If the user does not provide an exchange name, by default considered as NSE.For trading with BSE, NFO, CDS and MCX, exchange is mandatory.",
+            "type": "string",
+            "req": false,
+            "map": "exg"
+        },
+        "searchSymbolName": {
+            "desc": "Trading Symbol of the scrip to be searched",
+            "type": "string",
+            "req": true,
+            "map": "symbol"
+        },
+        "indexName": {
+            "desc": "Index name of the scrip",
+            "type": "string",
+            "req": true,
+            "map": "symbol"
+        },
+        "symbolName": {
+            "desc": "Symbol name of the scrip.",
+            "type": "string",
+            "req": true,
+            "map": "symbol"
+        },
+        "expiryDate": {
+            "desc": "From date in yyyy-MM-dd",
+            "type": "string",
+            "req": false,
+            "map": "stamp"
+        },
+        "strikePrice": {
+            "desc": "The strike price is the predetermined price at which a put buyer can sell the underlying asset",
+            "type": "string",
+            "req": false,
+            "map": "strikePrice"
+        },
+        "optionType": {
+            "desc": "Option Type (PE/CE).",
+            "type": "string",
+            "req": false,
+            "map": "oType"
+        },
+        "transactionType": {
+            "desc": "Type of the transaction, BUY / SELL.",
+            "type": "string",
+            "req": false,
+            "map": "side"
+        },
+        "orderType": {
+            "desc": "Type of order user has placed . It can be one of the following, MKT - Market Order,L- Limit Order,SL - Stop Loss Limit,SL-M - Stop loss market.",
+            "type": "string",
+            "req": false,
+            "map": ""
+        },
+        "quantity": {
+            "desc": "Quantity of the order user wants to modify",
+            "type": "string",
+            "req": false,
+            "map": ""
+        },
+        "disclosedQuantity": {
+            "desc": "Quantity to disclose publicly",
+            "type": "string",
+            "req": false,
+            "map": ""
+        },
+        "price": {
+            "desc": "Price at which the order was placed",
+            "type": "string",
+            "req": false,
+            "map": "price"
+        },
+        "priceType": {
+            "desc": "Price type required to place an order. Valid price type - LTP/ATP , default is LTP. Applicable for BO orders only.",
+            "type": "string",
+            "req": true,
+            "map": ""
+        },
+        "marketProtection": {
+            "desc": "Percentage of MarketProtection required for ordertype MKT/SL-M to limit loss due to market price changes against the price with which order is placed. Default value is 3%.",
+            "type": "string",
+            "req": false,
+            "map": "mktProt"
+        },
+        "orderValidity": {
+            "desc": "Order validity can be DAY or IOC",
+            "type": "string",
+            "req": true,
+            "map": "validTill"
+        },
+        "afterMarketOrderFlag": {
+            "desc": "After Market Order Flag YES/NO",
+            "type": "string",
+            "req": true,
+            "map": "AMF"
+        },
+        "productType": {
+            "desc": "Product type of the existing position.It can be CNC (Cash And Carry),NRML (Normal),MIS (Intraday)",
+            "type": "string",
+            "req": false,
+            "map": "prdType"
+        },
+        "triggerPrice": {
+            "desc": "The price at which an order should be triggered in case of SL, SL-M.",
+            "type": "string",
+            "req": false,
+            "map": "trigPrice"
+        },
+        "squareOffValue": {
+            "desc": "Price difference from entry price at which the order should be squared off to limit losses (eg: if Order price is 300. Profit target is 305. So target = 5). Applicable for BO orders only",
+            "type": "string",
+            "req": true,
+            "map": "sqrValue"
+        },
+        "stopLossValue": {
+            "desc": "Stoploss price difference from the entry price at which the order should be squared off (eg: if Order price is 300. Stoploss target is 295. So stop loss = 5). Applicable for both BO & CO",
+            "type": "string",
+            "req": true,
+            "map": "stpValue"
+        },
+        "valueType": {
+            "desc": "ValueType required to place an Order. Applicable for both Stop Loss Value and Square off value. Valid value types - Absolute/Ticks. Default is Absolute.Applicable for BO orders only.",
+            "type": "string",
+            "req": true,
+            "map": "valueType"
+        },
+        "trailingStopLoss": {
+            "desc": "Incremental value set as % of change from the market price. Trailing stop moves as the price moves up. but, if the price starts to fall, the stop loss does not move (For example, if you buy a stock at Rs 100 and set a trailing stop loss value of Rs 2. If the stock price moves up to say Rs 105, the trailing stop loss value also would move up to be Rs 103 and stays Rs 2 less than the current market price. But if the stock price starts to fall and becomes Rs 103, trailing stop loss order will become a market order. Applicable for BO orders only",
+            "type": "string",
+            "req": true,
+            "map": "trlStp"
+        },
+        "orderNumber": {
+            "desc": "The order identifier provided as an input which needs to be cancelled",
+            "type": "string",
+            "req": true,
+            "map": "orn"
+        },
+        "parentOrderId": {
+            "desc": "ParentOrderId required to modify an order (applicable for BO orders only)",
+            "type": "string",
+            "req": true,
+            "map": "pOrn"
+        },
+        "positionType": {
+            "desc": "DAY  or NET",
+            "type": "string",
+            "req": true,
+            "map": "posType"
+        },
+        "netQuantity": {
+            "desc": "Total quantity held in existing position",
+            "type": "string",
+            "req": false,
+            "map": "netQty"
+        },
+        "quantityToConvert": {
+            "desc": "Quantity to be converted. Can be less than or equal to netQuantity",
+            "type": "string",
+            "req": true,
+            "map": "qtc"
+        },
+        "fromProductType": {
+            "desc": "The existing product type of the position . It can be CNC (Cash and Carry),NRML (Normal),MIS (Intraday)",
+            "type": "string",
+            "req": true,
+            "map": "frmPrd"
+        },
+        "toProductType": {
+            "desc": "The target product type user wants to convert to . It can be CNC (Cash and Carry),NRML (Normal),MIS (Intraday)",
+            "type": "string",
+            "req": true,
+            "map": "toPrd"
+        },
+        "positionSquareOffRequestList": {
+            "desc": "List of the position squareOff user wants to do",
+            "type": "[object]",
+            "req": false,
+            "map": ""
+        },
+        "positionSquareOffList": {
+            "desc": "none",
+            "type": "[object]",
+            "req": false,
+            "map": ""
+        },
+        "fromDate": {
+            "desc": "From date in yyyy-MM-dd",
+            "type": "string",
+            "req": true,
+            "map": "start"
+        },
+        "toDate": {
+            "desc": "To date in yyyy-MM-dd",
+            "type": "string",
+            "req": false,
+            "map": "stop"
+        },
+        "interval": {
+            "desc": "Interval of data, By default interval is considered as 1 min",
+            "type": "string",
+            "req": false,
+            "map": "interval"
+        }
+    },
+    "resp": {
+        "serverTime": {
+            "desc": "Time at Server.",
+            "type": "string",
+            "map": "servStamp"
+        },
+        "msgId": {
+            "desc": "This is a unique identifier for every request into the system. Please quote this identifier to the support team if you face issues with the API request.",
+            "type": "string",
+            "map": ""
+        },
+        "status": {
+            "desc": "Response status. Can be Success or Failure",
+            "type": "string",
+            "map": ""
+        },
+        "statusMessage": {
+            "desc": "status Message",
+            "type": "string",
+            "map": ""
+        },
+        "sessionToken": {
+            "desc": "Session token that should be used with API request is given in the response. It is used as an authenticator. A session token is valid for 24 hours or until a new login request is given, where you a new session token will be generated and the previous one will get expired.",
+            "type": "string",
+            "map": ""
+        },
+        "accountID": {
+            "desc": "Same as Client Code for SAMCO Trading Account, is unique and used for identification of user.",
+            "type": "string",
+            "map": "userName"
+        },
+        "accountName": {
+            "desc": "Users full name as registered with Samco Trading Account.",
+            "type": "string",
+            "map": ""
+        },
+        "exchangeList": {
+            "desc": "List of exchanges enabled for trading for the user.",
+            "type": "[string]",
+            "map": "exgList"
+        },
+        "orderTypeList": {
+            "desc": "List of order types enabled for trading for the user.The list can be from of the following, MKT - Market Order,L- Limit Order,SL - Stop Loss Limit,SL-M - Stop loss market.",
+            "type": "[string]",
+            "map": "ordTypeList"
+        },
+        "productList": {
+            "desc": "List of product types enabled for the user . It can be CNC (Cash and Carry),BO (Bracket Order),CO (Cover Order),NRML (Normal),MIS (Intraday).",
+            "type": "[string]",
+            "map": "prdList"
+        },
+        "searchResults": {
+            "desc": "Scrips Details available for the provided search text.",
+            "type": "[object]",
+            "map": ""
+        },
+        "exchange": {
+            "desc": "Name of the exchange.Valid exchanges values (BSE/ NSE) If the user does not provide an exchange name, by default considered as NSE.",
+            "type": "string",
+            "map": "exg"
+        },
+        "scripDescription": {
+            "desc": "scrip description",
+            "type": "string",
+            "map": ""
+        },
+        "tradingSymbol": {
+            "desc": "Trading Symbol of the scrip.",
+            "type": "string",
+            "map": "symbol"
+        },
+        "isin": {
+            "desc": "The standard ISIN representing stocks uniquely at international level. It is same for every exchange.",
+            "type": "string",
+            "map": ""
+        },
+        "bodLotQuantity": {
+            "desc": "none",
+            "type": "string",
+            "map": ""
+        },
+        "tickSize": {
+            "desc": "The value of a single price tick. Default value is 0.05",
+            "type": "string",
+            "map": ""
+        },
+        "instrument": {
+            "desc": "Instrument is about the type of stock. FUT/OPT",
+            "type": "string",
+            "map": ""
+        },
+        "quantityInLots": {
+            "desc": "Lot size of the symbol to be traded. At the time of placing order, the quantity should be in multiples of Broadlot Qty only.",
+            "type": "string",
+            "map": ""
+        },
+        "indexName": {
+            "desc": "Index Name of the indices.",
+            "type": "string",
+            "map": "symbol"
+        },
+        "listingId": {
+            "desc": "Identifier assigned to the scrip by exchange in the format <>_<>",
+            "type": "string",
+            "map": ""
+        },
+        "lastTradedTime": {
+            "desc": "Time of the last transaction",
+            "type": "string",
+            "map": "ltt"
+        },
+        "lastTradedPrice": {
+            "desc": "Price at which last transaction/trade is done",
+            "type": "string",
+            "map": "ltp"
+        },
+        "spotPrice": {
+            "desc": "Spot price. Applicable in case of Futures and Options",
+            "type": "string",
+            "map": ""
+        },
+        "changePercentage": {
+            "desc": "Percentage of change between the current value and the previous day's market close",
+            "type": "string",
+            "map": "delPer"
+        },
+        "lastTradedQuantity": {
+            "desc": "Quantity of last transaction",
+            "type": "string",
+            "map": "ltq"
+        },
+        "averagePrice": {
+            "desc": "Average trading price of the equity",
+            "type": "string",
+            "map": ""
+        },
+        "openValue": {
+            "desc": "Opening price of a market snapshot",
+            "type": "string",
+            "map": "open"
+        },
+        "highValue": {
+            "desc": "High value of market snapshot",
+            "type": "string",
+            "map": "high"
+        },
+        "lowValue": {
+            "desc": "Low value of market snapshot",
+            "type": "string",
+            "map": "low"
+        },
+        "closeValue": {
+            "desc": "Close value of market snapshot",
+            "type": "string",
+            "map": "close"
+        },
+        "totalBuyQuantity": {
+            "desc": "Total quantity of BUY transaction",
+            "type": "string",
+            "map": "tbq"
+        },
+        "totalSellQuantity": {
+            "desc": "Total quantity of SELL transaction",
+            "type": "string",
+            "map": "tsq"
+        },
+        "totalTradedValue": {
+            "desc": "Value of total trade made for the scrip",
+            "type": "string",
+            "map": "ttVal"
+        },
+        "totalTradedVolume": {
+            "desc": "Total volume of trading done",
+            "type": "string",
+            "map": "ttVol"
+        },
+        "openInterest": {
+            "desc": "Open interest is the Number of existing contracts held by buyers or sellers for any market for any given day.",
+            "type": "string",
+            "map": ""
+        },
+        "getoIChangePer": {
+            "desc": "It will shows the change % based on Open Interest",
+            "type": "string",
+            "map": ""
+        },
+        "symbolName": {
+            "desc": "Symbol name of the scrip.",
+            "type": "string",
+            "map": "symbol"
+        },
+        "companyName": {
+            "desc": "Full name of the trading company",
+            "type": "string",
+            "map": ""
+        },
+        "previousClose": {
+            "desc": "Previous close refers to the prior day's final price of security when the market officially closes for the day.",
+            "type": "string",
+            "map": "prevClose"
+        },
+        "changeValue": {
+            "desc": "Change value is the difference between the current value and the previous day's market close",
+            "type": "string",
+            "map": "ctmDelta"
+        },
+        "lowerCircuitLimit": {
+            "desc": "Limit below which a stock price cannot trade on a particular trading day",
+            "type": "string",
+            "map": "lcl"
+        },
+        "upperCircuitLimit": {
+            "desc": "Limit above which a stock price cannot trade on a particular trading day",
+            "type": "string",
+            "map": "ucl"
+        },
+        "yearlyHighPrice": {
+            "desc": "52 week high",
+            "type": "string",
+            "map": "yhp"
+        },
+        "yearlyLowPrice": {
+            "desc": "52 week low",
+            "type": "string",
+            "map": "ylp"
+        },
+        "bestBids": {
+            "desc": "Most frequent trading bids for BUY",
+            "type": "[object]",
+            "map": "bidList"
+        },
+        "number": {
+            "desc": "Sequence number for Bid/Ask",
+            "type": "string",
+            "map": "position"
+        },
+        "quantity": {
+            "desc": "Quantity asked for trading.",
+            "type": "string",
+            "map": "qty"
+        },
+        "price": {
+            "desc": "Price asked for trading.",
+            "type": "string",
+            "map": "price"
+        },
+        "bestAsks": {
+            "desc": "Most frequent trading asked for SELL",
+            "type": "[object]",
+            "map": "askList"
+        },
+        "expiryDate": {
+            "desc": "Expiry date of the scrip",
+            "type": "string",
+            "map": ""
+        },
+        "lotQuantity": {
+            "desc": "lotQuantity represents the number of contracts contained in one derivative security.Applicable for F & O",
+            "type": "string",
+            "map": ""
+        },
+        "openInterestChange": {
+            "desc": "It shows Open interest change in Number of contracts held for market",
+            "type": "string",
+            "map": ""
+        },
+        "optionChainDetails": {
+            "desc": "Scrips Details available for the provided search text.",
+            "type": "[object]",
+            "map": ""
+        },
+        "symbol": {
+            "desc": "symbol about stock",
+            "type": "string",
+            "map": "symbol"
+        },
+        "strikePrice": {
+            "desc": "The strike price is the predetermined price at which a put buyer can sell the underlying asset.",
+            "type": "string",
+            "map": ""
+        },
+        "optionType": {
+            "desc": "Option Type (PE/CE).",
+            "type": "string",
+            "map": ""
+        },
+        "underLyingSymbol": {
+            "desc": "Root symbol of TradingSymbol",
+            "type": "string",
+            "map": ""
+        },
+        "oichangePer": {
+            "desc": "It will shows the change % based on Open Interest",
+            "type": "string",
+            "map": ""
+        },
+        "volume": {
+            "desc": "Limit amount of a security traded on the specific day",
+            "type": "string",
+            "map": "volume"
+        },
+        "equityLimit": {
+            "desc": "none",
+            "type": "object",
+            "map": ""
+        },
+        "grossAvailableMargin": {
+            "desc": "Total amount of margins or balances available for trading. Opening balance for current day",
+            "type": "string",
+            "map": "cash"
+        },
+        "payInToday": {
+            "desc": "Current day deposited amount",
+            "type": "string",
+            "map": "balance"
+        },
+        "notionalCash": {
+            "desc": "Additional Limit that may or may not be given by RMS for Trading.",
+            "type": "string",
+            "map": ""
+        },
+        "collateralMarginAgainstShares": {
+            "desc": "Margin against shares offered by SAMCO to their clients for trading in stock and shares.",
+            "type": "string",
+            "map": ""
+        },
+        "marginUsed": {
+            "desc": "The amount deducted from opening balance for trading on the current day, and the amount blocked for creating a position when user places an order.",
+            "type": "string",
+            "map": "cashIn"
+        },
+        "netAvailableMargin": {
+            "desc": "Actual margin available with user for Trading after making all necessary adjustments.",
+            "type": "string",
+            "map": ""
+        },
+        "commodityLimit": {
+            "desc": "none",
+            "type": "object",
+            "map": ""
+        },
+        "orderNumber": {
+            "desc": "Unique Order identifier generated after placing an order",
+            "type": "string",
+            "map": "orn"
+        },
+        "exchangeOrderStatus": {
+            "desc": "Status of the order execution at Exchange side, Most common values are PENDING, COMPLETE, REJECTED, CANCELLED, and OPEN",
+            "type": "string",
+            "map": ""
+        },
+        "rejectionReason": {
+            "desc": "If an order is rejected, cause of order rejection which comes as user friendly textual description",
+            "type": "string",
+            "map": "ordError"
+        },
+        "orderDetails": {
+            "desc": "none",
+            "type": "object",
+            "map": ""
+        },
+        "pendingQuantity": {
+            "desc": "Quantity which is in waiting state to be filled in a specific trade",
+            "type": "string",
+            "map": "penQty"
+        },
+        "avgExecutionPrice": {
+            "desc": "Average price at which the quantities were bought/sold during the day",
+            "type": "string",
+            "map": ""
+        },
+        "orderPlacedBy": {
+            "desc": "Client code of the user who placed the order",
+            "type": "string",
+            "map": ""
+        },
+        "triggerPrice": {
+            "desc": "The price at which an order should be triggered in case of SL, SL-M.",
+            "type": "string",
+            "map": "execPrice"
+        },
+        "totalQuantity": {
+            "desc": "Total Quantity",
+            "type": "string",
+            "map": "totQty"
+        },
+        "expiry": {
+            "desc": "Shows expiry date of a trading symbol.",
+            "type": "string",
+            "map": ""
+        },
+        "transactionType": {
+            "desc": "Type of the transaction, BUY / SELL.",
+            "type": "string",
+            "map": "side"
+        },
+        "productType": {
+            "desc": "Product Type of order as placed by the user. It can be CNC (Cash and Carry),BO (Bracket Order),CO (Cover Order),NRML (Normal),MIS (Intraday).",
+            "type": "string",
+            "map": "pType"
+        },
+        "orderType": {
+            "desc": "Type of order user has placed . It can be one of the following, MKT - Market Order,L- Limit Order,SL - Stop Loss Limit,SL-M - Stop loss market.",
+            "type": "string",
+            "map": "ordType"
+        },
+        "filledQuantity": {
+            "desc": "Quantity which is filled in a specific trade. Can be less than or equal to the total quantity",
+            "type": "string",
+            "map": "fillQty"
+        },
+        "orderPrice": {
+            "desc": "Limit price of a particular order",
+            "type": "string",
+            "map": "price"
+        },
+        "filledPrice": {
+            "desc": "Price at which exchange has filled the order",
+            "type": "string",
+            "map": "fillPrice"
+        },
+        "exchangeOrderNo": {
+            "desc": "Order identifier at the exchange.",
+            "type": "string",
+            "map": ""
+        },
+        "orderValidity": {
+            "desc": "Order validity can be DAY / IOC",
+            "type": "string",
+            "map": "validTill"
+        },
+        "orderTime": {
+            "desc": "Order placement time",
+            "type": "string",
+            "map": "ordStamp"
+        },
+        "orderStatus": {
+            "desc": "Status of the order at Exchange side, either executed successfully or pending or rejected",
+            "type": "string",
+            "map": ""
+        },
+        "orderBookDetails": {
+            "desc": "List of all orders with details during the day",
+            "type": "[object]",
+            "map": ""
+        },
+        "symbolDescription": {
+            "desc": "Scrip Description",
+            "type": "string",
+            "map": ""
+        },
+        "productCode": {
+            "desc": "Type of the product, allowable type is CNC",
+            "type": "string",
+            "map": ""
+        },
+        "disclosedQuantity": {
+            "desc": "Quantity to disclose to public in the market",
+            "type": "string",
+            "map": ""
+        },
+        "marketProtection": {
+            "desc": "Percentage of MarketProtection required for ordertype MKT/SL-M to limit loss due to market price changes against the price with which order is placed. Default value is 3%.",
+            "type": "string",
+            "map": "trlStop"
+        },
+        "orderValue": {
+            "desc": "Value of the order",
+            "type": "string",
+            "map": ""
+        },
+        "instrumentName": {
+            "desc": "Name of the instrument",
+            "type": "string",
+            "map": "symbol"
+        },
+        "userId": {
+            "desc": "The client Code provided to you by SAMCO after opening an account.",
+            "type": "string",
+            "map": ""
+        },
+        "fillPrice": {
+            "desc": "Price at which exchange has filled the order",
+            "type": "string",
+            "map": ""
+        },
+        "unfilledQuantity": {
+            "desc": "Quantity which is not filled in a partially filled order. Can be less than or equal to the total quantity",
+            "type": "string",
+            "map": "unfillQty"
+        },
+        "exchangeOrderId": {
+            "desc": "Unique Order identifier generated from exchange",
+            "type": "string",
+            "map": ""
+        },
+        "exchangeConfirmationTime": {
+            "desc": "Order confirmation time at exchange",
+            "type": "string",
+            "map": ""
+        },
+        "cancelledQuantity": {
+            "desc": "cancelled quantity for partial cancelled orders",
+            "type": "string",
+            "map": ""
+        },
+        "referenceLimitPrice": {
+            "desc": "Limit Price reference",
+            "type": "string",
+            "map": ""
+        },
+        "coverOrderPercentage": {
+            "desc": "Percentage of cover order",
+            "type": "string",
+            "map": ""
+        },
+        "orderRemarks": {
+            "desc": "Remarks about order",
+            "type": "string",
+            "map": ""
+        },
+        "exchangeOrderNumber": {
+            "desc": "Unique Order identifier generated after placing an order.",
+            "type": "string",
+            "map": ""
+        },
+        "displayStrikePrice": {
+            "desc": "Shows the strick price",
+            "type": "string",
+            "map": ""
+        },
+        "displayNetQuantity": {
+            "desc": "Display the limit quantity of order",
+            "type": "string",
+            "map": ""
+        },
+        "exchangeStatus": {
+            "desc": "ExchangeStatus will display Executed/Pending/Rejected",
+            "type": "string",
+            "map": ""
+        },
+        "scripName": {
+            "desc": "Name of the scrip",
+            "type": "string",
+            "map": ""
+        },
+        "totalQuanity": {
+            "desc": "Total Quantity",
+            "type": "string",
+            "map": "totQty"
+        },
+        "orderPlaceBy": {
+            "desc": "Client code of the user who placed the order",
+            "type": "string",
+            "map": ""
+        },
+        "parentOrderId": {
+            "desc": "order Id of the parent order(it is applicable for only BO/CO orders)",
+            "type": "string",
+            "map": ""
+        },
+        "triggerOrders": {
+            "desc": "Trigger order Details available for the provided OrderNumber.",
+            "type": "[object]",
+            "map": ""
+        },
+        "stopLossOrderNo": {
+            "desc": "Unique Order identifier generated from exchange",
+            "type": "string",
+            "map": ""
+        },
+        "tradeBookDetails": {
+            "desc": "Get list of TradeBookEntries.",
+            "type": "[object]",
+            "map": ""
+        },
+        "tradeNumber": {
+            "desc": "Unique trade identifier generated for every trade.",
+            "type": "string",
+            "map": ""
+        },
+        "tradePrice": {
+            "desc": "Price of a trade.",
+            "type": "string",
+            "map": ""
+        },
+        "tradeDate": {
+            "desc": "Date of a trade.",
+            "type": "string",
+            "map": ""
+        },
+        "tradeTime": {
+            "desc": "Time of a trade.",
+            "type": "string",
+            "map": "tradeStamp"
+        },
+        "lastTradePrice": {
+            "desc": "Price at which last transaction/trade is done",
+            "type": "string",
+            "map": ""
+        },
+        "positionSummary": {
+            "desc": "none",
+            "type": "object",
+            "map": ""
+        },
+        "gainingTodayCount": {
+            "desc": "Count of scrips which are gaining in value in a trading day",
+            "type": "string",
+            "map": ""
+        },
+        "losingTodayCount": {
+            "desc": "Count of scrips which are losing in value in a trading day",
+            "type": "string",
+            "map": ""
+        },
+        "totalGainAndLossAmount": {
+            "desc": "Total amount of Gain / Loss for all existing positions since their creation",
+            "type": "string",
+            "map": ""
+        },
+        "dayGainAndLossAmount": {
+            "desc": "Amount of Gain / Loss for all positions on a specific trading day",
+            "type": "string",
+            "map": "p&l"
+        },
+        "positionDetails": {
+            "desc": "Details of Day/Net positions as queried",
+            "type": "[object]",
+            "map": "dayPL"
+        },
+        "markToMarketPrice": {
+            "desc": "Price change between previous close price and current price",
+            "type": "string",
+            "map": "mtmPrice"
+        },
+        "calculatedNetQuantity": {
+            "desc": "Quantity left after the day",
+            "type": "string",
+            "map": ""
+        },
+        "averageBuyPrice": {
+            "desc": "Average price at which the quantities were bought",
+            "type": "string",
+            "map": "average buy Price"
+        },
+        "averageSellPrice": {
+            "desc": "Average price at which the quantities were sold",
+            "type": "string",
+            "map": "average sell price"
+        },
+        "boardLotQuantity": {
+            "desc": "The standardized number of shares decided by the exchange as a trading unit",
+            "type": "string",
+            "map": ""
+        },
+        "boughtPrice": {
+            "desc": "Price at which quantities were bought during the day",
+            "type": "string",
+            "map": ""
+        },
+        "buyQuantity": {
+            "desc": "Total quantity brought and added to the position during the day",
+            "type": "string",
+            "map": ""
+        },
+        "carryForwardQuantity": {
+            "desc": "Quantity bought or sold in previous session",
+            "type": "string",
+            "map": ""
+        },
+        "carryForwardValue": {
+            "desc": "Net value of the position in previous session",
+            "type": "string",
+            "map": ""
+        },
+        "multiplier": {
+            "desc": "The lot size multiplier used to calculate Profit and Loss",
+            "type": "string",
+            "map": ""
+        },
+        "netPositionValue": {
+            "desc": "Net value of the position during the day",
+            "type": "string",
+            "map": ""
+        },
+        "netQuantity": {
+            "desc": "Limit quantity of the position",
+            "type": "string",
+            "map": ""
+        },
+        "netValue": {
+            "desc": "Net value of the bought quantities",
+            "type": "string",
+            "map": ""
+        },
+        "positionType": {
+            "desc": "Type of the position, Ex -Day/Net",
+            "type": "string",
+            "map": ""
+        },
+        "positionConversions": {
+            "desc": "Different Product types the user can Convert an existing position to",
+            "type": "[string]",
+            "map": ""
+        },
+        "soldValue": {
+            "desc": "Total value of sold quantities",
+            "type": "string",
+            "map": ""
+        },
+        "realizedGainAndLoss": {
+            "desc": "The Profit and Loss returns from a closed position",
+            "type": "string",
+            "map": "p&l"
+        },
+        "unrealizedGainAndLoss": {
+            "desc": "The Profit and Loss returns from a open position",
+            "type": "string",
+            "map": ""
+        },
+        "statusMsg": {
+            "desc": "Status message of position conversion request",
+            "type": "string",
+            "map": ""
+        },
+        "positionSquareOffResponseList": {
+            "desc": "List of the PositionSquareOff end of the day",
+            "type": "[object]",
+            "map": ""
+        },
+        "holdingSummary": {
+            "desc": "none",
+            "type": "object",
+            "map": ""
+        },
+        "portfolioValue": {
+            "desc": "Value of the portfolio.",
+            "type": "string",
+            "map": ""
+        },
+        "holdingDetails": {
+            "desc": "Details of the user holdings.",
+            "type": "[object]",
+            "map": ""
+        },
+        "totalGainAndLoss": {
+            "desc": "Total Gain/Loss for all existing positions since their creation",
+            "type": "string",
+            "map": "p&l"
+        },
+        "holdingsQuantity": {
+            "desc": "Currently holding(CNC) quantity",
+            "type": "string",
+            "map": "qty"
+        },
+        "collateralQuantity": {
+            "desc": "Quantity of loan against shares offered by SAMCO to their clients for trading in stock and shares.",
+            "type": "string",
+            "map": ""
+        },
+        "holdingsValue": {
+            "desc": "Limit value of the available holdings.",
+            "type": "string",
+            "map": ""
+        },
+        "sellableQuantity": {
+            "desc": "Quantity which is  open for sale.",
+            "type": "string",
+            "map": ""
+        },
+        "totalMarketToMarketPrice": {
+            "desc": "Total price change between previous close price and current price",
+            "type": "string",
+            "map": ""
+        },
+        "intradayCandleData": {
+            "desc": "Get List of IntraDayCandleData .",
+            "type": "[object]",
+            "map": ""
+        },
+        "dateTime": {
+            "desc": "Date for which CandleData shown",
+            "type": "string",
+            "map": "stamp"
+        },
+        "open": {
+            "desc": "Opening price of a market snapshot",
+            "type": "string",
+            "map": "open"
+        },
+        "high": {
+            "desc": "High value of market snapshot",
+            "type": "string",
+            "map": "high"
+        },
+        "low": {
+            "desc": "Low value of market snapshot",
+            "type": "string",
+            "map": "low"
+        },
+        "close": {
+            "desc": "Close value of market snapshot",
+            "type": "string",
+            "map": "close"
+        },
+        "indexIntraDayCandleData": {
+            "desc": "Get List of IndexIntraDayCandleData .",
+            "type": "[object]",
+            "map": ""
+        },
+        "historicalCandleData": {
+            "desc": "Get List of CandleData .",
+            "type": "[object]",
+            "map": ""
+        },
+        "date": {
+            "desc": "Date for which CandleData shown",
+            "type": "string",
+            "map": "stamp"
+        },
+        "ltp": {
+            "desc": "Price at which last transaction / trade is done",
+            "type": "string",
+            "map": ""
+        },
+        "indexCandleData": {
+            "desc": "Get List of IndexData .",
+            "type": "[object]",
+            "map": ""
+        },
+        "askValues": {
+            "desc": "Get List of AskValues .",
+            "type": "[object]",
+            "map": ""
+        },
+        "bidValues": {
+            "desc": "Get List of BidValues .",
+            "type": "[object]",
+            "map": ""
+        },
+        "ltt": {
+            "desc": "Last transaction time in milliseconds",
+            "type": "string",
+            "map": ""
+        },
+        "lttUTC": {
+            "desc": "Last transaction time in UTC time zone format",
+            "type": "string",
+            "map": ""
+        },
+        "sym": {
+            "desc": "Actual symbol name of the scrip",
+            "type": "string",
+            "map": ""
+        },
+        "tBQ": {
+            "desc": "Total quantity of BUY transaction",
+            "type": "string",
+            "map": ""
+        },
+        "tSQ": {
+            "desc": "Total quantity of SELL transaction",
+            "type": "string",
+            "map": ""
+        },
+        "aPr": {
+            "desc": "Ask Price that seller willing to take for the scrip",
+            "type": "string",
+            "map": ""
+        },
+        "bPr": {
+            "desc": "Bid Price that buyer willing to pay for the scrip",
+            "type": "string",
+            "map": ""
+        },
+        "aSz": {
+            "desc": "Ask size/quantity for trading",
+            "type": "string",
+            "map": ""
+        },
+        "bSz": {
+            "desc": "Bid size/quantity for trading",
+            "type": "string",
+            "map": ""
+        },
+        "avgPr": {
+            "desc": "Average trading price of the equity or derivative",
+            "type": "string",
+            "map": ""
+        },
+        "c": {
+            "desc": "Close value of market snapshot",
+            "type": "string",
+            "map": ""
+        },
+        "h": {
+            "desc": "High value of market snapshot",
+            "type": "string",
+            "map": ""
+        },
+        "l": {
+            "desc": "Low value of market snapshot",
+            "type": "string",
+            "map": ""
+        },
+        "o": {
+            "desc": "Opening price of a market snapshot",
+            "type": "string",
+            "map": ""
+        },
+        "oI": {
+            "desc": "Open interest is the total number of outstanding derivative contracts that have not been settled",
+            "type": "string",
+            "map": ""
+        },
+        "oIChg": {
+            "desc": "open interest changed value",
+            "type": "string",
+            "map": ""
+        },
+        "ch": {
+            "desc": "Change value is the difference between the current value and the previous day's market close",
+            "type": "string",
+            "map": ""
+        },
+        "chPer": {
+            "desc": "Percentage of change between the current value and the previous day's market close",
+            "type": "string",
+            "map": ""
+        },
+        "lTrdT": {
+            "desc": "Time of the last transaction",
+            "type": "string",
+            "map": ""
+        },
+        "ltq": {
+            "desc": "Quantity of last transaction",
+            "type": "string",
+            "map": ""
+        },
+        "ttv": {
+            "desc": "Total volume of trading done",
+            "type": "string",
+            "map": ""
+        },
+        "vol": {
+            "desc": "Total amount of a security traded Today",
+            "type": "string",
+            "map": ""
+        },
+        "yH": {
+            "desc": "52 week high",
+            "type": "string",
+            "map": ""
+        },
+        "yL": {
+            "desc": "52 week low",
+            "type": "string",
+            "map": ""
+        },
+        "streaming_type": {
+            "desc": "Streaming type. Added for future use.Pass this value as \u201cquote\u201d always",
+            "type": "string",
+            "map": ""
+        }
+    },
+    "func": {
+        "POST": {
+            "login": {
+                "endPoint": "https://api.stocknote.com/login",
+                "toGet": [
+                    "body",
+                    "userId",
+                    "password",
+                    "yob"
+                ],
+                "method": "POST",
+                "query": {}
+            },
+            "nrmlOrder": {
+                "endPoint": "https://api.stocknote.com/order/placeOrder",
+                "toGet": [
+                    "body",
+                    "symbolName",
+                    "exchange",
+                    "transactionType",
+                    "orderType",
+                    "quantity",
+                    "disclosedQuantity",
+                    "price",
+                    "priceType",
+                    "marketProtection",
+                    "orderValidity",
+                    "afterMarketOrderFlag",
+                    "productType",
+                    "triggerPrice"
+                ],
+                "method": "POST",
+                "query": {}
+            },
+            "bracketOrder": {
+                "endPoint": "https://api.stocknote.com/order/placeOrderBO",
+                "toGet": [
+                    "body",
+                    "symbolName",
+                    "exchange",
+                    "transactionType",
+                    "orderType",
+                    "quantity",
+                    "disclosedQuantity",
+                    "price",
+                    "priceType",
+                    "orderValidity",
+                    "productType",
+                    "squareOffValue",
+                    "stopLossValue",
+                    "valueType",
+                    "trailingStopLoss"
+                ],
+                "method": "POST",
+                "query": {}
+            },
+            "coverOrder": {
+                "endPoint": "https://api.stocknote.com/order/placeOrderCO",
+                "toGet": [
+                    "body",
+                    "symbolName",
+                    "exchange",
+                    "transactionType",
+                    "orderType",
+                    "quantity",
+                    "disclosedQuantity",
+                    "price",
+                    "orderValidity",
+                    "productType",
+                    "triggerPrice"
+                ],
+                "method": "POST",
+                "query": {}
+            },
+            "posConvert": {
+                "endPoint": "https://api.stocknote.com/position/convertPosition",
+                "toGet": [
+                    "body",
+                    "symbolName",
+                    "exchange",
+                    "transactionType",
+                    "positionType",
+                    "netQuantity",
+                    "quantityToConvert",
+                    "fromProductType",
+                    "toProductType"
+                ],
+                "method": "POST",
+                "query": {}
+            },
+            "squareOff": {
+                "endPoint": "https://api.stocknote.com/position/squareOff",
+                "toGet": [
+                    "body",
+                    "userId",
+                    "positionSquareOffRequestList",
+                    "userId",
+                    "exchange",
+                    "symbolName",
+                    "productType",
+                    "netQuantity",
+                    "transactionType",
+                    "positionSquareOffList",
+                    "userId",
+                    "exchange",
+                    "symbolName",
+                    "productType",
+                    "netQuantity",
+                    "transactionType"
+                ],
+                "method": "POST",
+                "query": {}
+            }
+        },
+        "GET": {
+            "search": {
+                "endPoint": "https://api.stocknote.com/eqDervSearch/search?{}",
+                "toGet": {
+                    "exg":"exchange",
+                    "symbol":"searchSymbolName"
+                },
+                "method": "GET",
+                "query": {}
+            },
+            "quoteIndex": {
+                "endPoint": "https://api.stocknote.com/quote/indexQuote?{}",
+                "toGet": {
+                    "symbol":"indexName"
+                },
+                "method": "GET",
+                "query": {},
+                "parse":[]
+            },
+            "quoteSymbol": {
+                "endPoint": "https://api.stocknote.com/quote/getQuote?{}",
+                "toGet": {
+                    "exg":"exchange",
+                    "symbol":"symbolName"
+                },
+                "method": "GET",
+                "query": {},
+                "parse":["serverTime", "status", "statusMessage", "symbolName",
+                         "tradingSymbol", "exchange", "companyName", "lastTradedTime",
+                         "lastTradedPrice", "previousClose", "changeValue", "changePercentage",
+                         "lastTradedQuantity", "lowerCircuitLimit", "upperCircuitLimit",
+                         "averagePrice", "openValue", "highValue", "lowValue", "closeValue",
+                         "totalBuyQuantity", "totalSellQuantity", "totalTradedValue", "totalTradedVolume",
+                         "yearlyHighPrice", "yearlyLowPrice", "tickSize", "bestBids", "bestAsks", "listingId",
+                         "number", "quantity", "price"]
+                
+            },
+            "/option/optionChain": {
+                "endPoint": "https://api.stocknote.com/option/optionChain?{}",
+                "toGet": [
+                    "exchange",
+                    "searchSymbolName",
+                    "expiryDate",
+                    "strikePrice",
+                    "optionType"
+                ],
+                "method": "GET",
+                "query": {}
+            },
+            "cash": {
+                "endPoint": "https://api.stocknote.com/limit/getLimits?{}",
+                "toGet": [],
+                "method": "GET",
+                "query": {}
+            },
+            "ordStatus": {
+                "endPoint": "https://api.stocknote.com/order/getOrderStatus?{}",
+                "toGet": [
+                    "orderNumber"
+                ],
+                "method": "GET",
+                "query": {}
+            },
+            "orderBook": {
+                "endPoint": "https://api.stocknote.com/order/orderBook",
+                "toGet": [],
+                "method": "GET",
+                "query": {}
+            },
+            "successOrds": {
+                "endPoint": "https://api.stocknote.com/order/getTriggerOrders?{}",
+                "toGet": [
+                    "orderNumber"
+                ],
+                "method": "GET",
+                "query": {}
+            },
+            "trdBook": {
+                "endPoint": "https://api.stocknote.com/trade/tradeBook",
+                "toGet": [],
+                "method": "GET",
+                "query": {}
+            },
+            "getPos": {
+                "endPoint": "https://api.stocknote.com/position/getPositions?{}",
+                "toGet": [
+                    "positionType"
+                ],
+                "method": "GET",
+                "query": {}
+            },
+            "getHold": {
+                "endPoint": "https://api.stocknote.com/holding/getHoldings",
+                "toGet": [],
+                "method": "GET",
+                "query": {}
+            },
+            "symData": {
+                "endPoint": "https://api.stocknote.com/intraday/candleData?{}",
+                "toGet": {
+                    "exg": "exchange",
+                    "symbol":"symbolName",
+                    "start":"fromDate",
+                    "stop":"toDate",
+                    "interval":"interval"
+                },
+                "method": "GET",
+                "query": {},
+                "parse":["serverTime", "dateTime"]
+            },
+            "indData": {
+                "endPoint": "https://api.stocknote.com/intraday/indexCandleData?{}",
+                "toGet": {
+                    "exg": "exchange",
+                    "symbol":"symbolName",
+                    "start":"fromDate",
+                    "stop":"toDate",
+                    "interval":"interval"
+                },
+                "method": "GET",
+                "query": {},
+                "parse":["serverTime", "dateTime"]
+            },
+            "symHData": {
+                "endPoint": "https://api.stocknote.com/history/candleData?{}",
+                "toGet": {
+                    "exg": "exchange",
+                    "symbol":"symbolName",
+                    "start":"fromDate",
+                    "stop":"toDate",
+                    "interval":"interval"
+                },
+                "method": "GET",
+                "query": {},
+                "parse":["serverTime", "date"]
+            },
+            "indHData": {
+                "endPoint": "https://api.stocknote.com/history/indexCandleData?{}",
+                "toGet": {
+                    "exg": "exchange",
+                    "symbol":"symbolName",
+                    "start":"fromDate",
+                    "stop":"toDate",
+                    "interval":"interval"
+                },
+                "method": "GET",
+                "query": {},
+                "parse":["serverTime", "date"]
+            }
+        },
+        "PUT": {
+            "modOrd": {
+                "endPoint": "https://api.stocknote.com/order/modifyOrder/{}",
+                "toGet": [
+                    "orderNumber",
+                    "body",
+                    "orderType",
+                    "quantity",
+                    "disclosedQuantity",
+                    "orderValidity",
+                    "price",
+                    "triggerPrice",
+                    "parentOrderId",
+                    "marketProtection"
+                ],
+                "method": "PUT",
+                "query": {}
+            }
+        },
+        "DELETE": {
+            "delBO": {
+                "endPoint": "https://api.stocknote.com/order/exitBO",
+                "toGet": [
+                    "orderNumber"
+                ],
+                "method": "DELETE",
+                "query": {}
+            },
+            "delCO": {
+                "endPoint": "https://api.stocknote.com/order/exitCO",
+                "toGet": [
+                    "orderNumber"
+                ],
+                "method": "DELETE",
+                "query": {}
+            },
+            "canOrd": {
+                "endPoint": "https://api.stocknote.com/order/cancelOrder",
+                "toGet": [
+                    "orderNumber"
+                ],
+                "method": "DELETE",
+                "query": {}
+            },
+            "logout": {
+                "endPoint": "https://api.stocknote.com/logout",
+                "toGet": [],
+                "method": "DELETE",
+                "query": {}
+            }
+        }
+    }
+}

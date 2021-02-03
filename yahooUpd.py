@@ -22,7 +22,7 @@ class yahooUpd( yahoo ):
             Id = self.Id,
             level = level)
 
-        
+        bq.__init__(self, Id = self.Id, level = level)        
 
 
         yahoo.__init__(self, level = level)
